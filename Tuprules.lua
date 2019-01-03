@@ -270,6 +270,19 @@ do
 	end
 end
 
+local playlist_formats = {}
+do
+	local i = 1
+	for playlist_format in string_gmatch(tup_getconfig("PLAYLISTS"), "([^,]+)") do
+		playlist_formats[i] = playlist_format
+		i = i + 1
+	end
+end
+
+local playlisters = {}
+do
+end
+
 vibes = {
 	process_directory = function()
 		local CONFIG_ENCODER = tup_getconfig("ENCODER")
@@ -346,6 +359,39 @@ vibes = {
 			end
 		else
 			error("CONFIG_ENCODER not set")
+		end
+	end,
+	generate_playlist = function(name)
+		local compiled = name .. ".playlist"
+		
+		tup_definerule{
+			inputs = {
+				"<plitems-" .. name .. ">",
+			},
+			command = string_format("^ PLITEMC %s^ lua53 -- plitemc.lua %%<plitems-%s> > %s", name, name, compiled),
+			outputs = {
+				compiled,
+			},
+		}
+		
+		local i = 1
+		local format = playlist_formats[1]
+		while format do
+			local rulespec = playlisters[format](name, compiled)
+			
+			tup_definerule{
+				inputs = {
+					compiled,
+				},
+				command = string_format("^ PLAYLIST-%s %s^ %s", format, name, rulespec.command),
+				outputs = {
+					rulespec.output,
+					"<playlist-" .. name .. ">",
+				},
+			}
+			
+			i = i + 1
+			format = playlist_formats[i]
 		end
 	end,
 }
