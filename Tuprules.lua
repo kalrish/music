@@ -318,12 +318,27 @@ vibes = {
 					
 					local rulespec = encoder:encode(basename, source, options)
 					
+					local outputs = {
+						rulespec.output,
+					}
+					
+					if options.playlists then
+						for playlist, position in string_gmatch(options.playlists, "([^,]+):(%d+)") do
+							local plitem = string_format("%s.%s.plitem", basename, playlist)
+							tup_definerule{
+								command = string_format("^ PLITEM %s %s^ echo %s-%s > %s", basename, playlist, rulespec.output, position, plitem),
+								outputs = {
+									plitem,
+									string_format("%s/<plitems-%s>", top_dir, playlist),
+								},
+							}
+						end
+					end
+					
 					tup_definerule{
 						inputs = rulespec.inputs,
 						command = "^ ENCODE " .. basename .. "^ " .. rulespec.command,
-						outputs = {
-							rulespec.output,
-						},
+						outputs = outputs,
 					}
 				end
 			end
