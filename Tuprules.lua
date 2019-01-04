@@ -301,6 +301,15 @@ do
 			}
 		end
 	end
+	do
+		playlisters.xspf = function(name, compiled)
+			local output = name .. ".xspf"
+			return {
+				command = string_format("type %s > %s", compiled, output),
+				output = output,
+			}
+		end
+	end
 end
 
 vibes = {
