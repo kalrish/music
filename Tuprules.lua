@@ -410,7 +410,7 @@ vibes = {
 				inputs = {
 					compiled,
 				},
-				command = string_format("^ PLAYLIST-%s %s^ %s", format, name, rulespec.command),
+				command = string_format("^ PLAYLIST %s^ %s", name, rulespec.command),
 				outputs = {
 					rulespec.output,
 					"<playlist-" .. name .. ">",
