@@ -212,6 +212,62 @@ do
 			return setmetatable({}, metatable)
 		end
 	end
+	
+	do
+		local oggenc = {
+			input_extensions = {
+				"aiff",
+				"flac",
+				"oga",
+				"ogg",
+				"raw",
+				"wav",
+				"wave",
+			},
+			oggenc_program = getconfig_default("OGGENC", "oggenc"),
+			oggenc_options = tup_getconfig("OGGENC_FLAGS"),
+		}
+		
+		function oggenc:encode(basename, input)
+			local output = basename .. ".ogg"
+			-- FIXME: support tagging
+			-- 
+			-- oggvorbis = {
+			-- 	program = "vorbiscomment",
+			-- 	tag = function(tagger, tagger_options, output_untagged, tag_files, output_tagged)
+			-- 		local inputs = {
+			-- 			output_untagged
+			-- 		}
+			-- 		
+			-- 		tup_append_table(inputs, tag_files)
+			-- 		
+			-- 		return {
+			-- 			inputs = inputs,
+			-- 			command = "cat -- " .. table_concat(tag_files, " ") .. " | " .. tagger .. " -w " .. tagger_options .. " -c - -- " .. output_untagged .. " " .. output_tagged,
+			-- 			outputs = { output_tagged }
+			-- 		}
+			-- 	end,
+			-- 	tagfiles_extension = "vc"
+			-- }
+			-- END
+			return {
+				inputs = {
+					input
+				},
+				command = self.oggenc_program .. " " .. self.oggenc_options .. " -o " .. output .. " -- " .. input,
+				output = output,
+			}
+		end
+		
+		local metatable = {
+			__metatable = true,
+			__index = oggenc,
+		}
+		
+		function encoders.oggenc()
+			return setmetatable({}, metatable)
+		end
+	end
 end
 
 vibes = {
