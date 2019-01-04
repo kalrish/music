@@ -281,6 +281,26 @@ end
 
 local playlisters = {}
 do
+	do
+		local platform_commands = {
+			linux = function(compiled, output)
+				return string_format("cp -- %s %s", compiled, output)
+			end,
+			win32 = function(compiled, output)
+				return string_format("type %s > %s", compiled, output)
+			end,
+		}
+		
+		local platform_command = platform_commands[CONFIG_TUP_PLATFORM] or platform_commands.linux
+		
+		playlisters.m3u = function(name, compiled)
+			local output = name .. ".m3u"
+			return {
+				command = platform_command(compiled, output),
+				output = output,
+			}
+		end
+	end
 end
 
 vibes = {
