@@ -389,7 +389,7 @@ vibes = {
 		end
 	end,
 	generate_playlist = function(name)
-		local compiled = name .. ".playlist"
+		local compiled = name .. ".txt"
 		
 		tup_definerule{
 			inputs = {
