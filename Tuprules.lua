@@ -64,6 +64,121 @@ end
 
 local encoders = {}
 do
+	do
+		local flac = {
+			input_extensions = {
+				"aiff",
+				"flac",
+				"oga",
+				"ogg",
+				"raw",
+				"wav",
+				"wave",
+			},
+			flac_program = getconfig_default("FLAC", "flac"),
+			flac_options = tup_getconfig("FLAC_FLAGS"),
+			metaflac_program = getconfig_default("METAFLAC", "metaflac"),
+			metaflac_options = tup_getconfig("METAFLAC_FLAGS"),
+			format = getconfig_default("FORMAT", "flac"),
+		}
+		
+		local format2extension = {
+			flac = "flac",
+			oggflac = "oga",
+		}
+		
+		function flac:encode(basename, input, options)
+			local tagfile = basename .. ".tags.vc"
+			local inputs = {
+				input,
+				tagfile,
+			}
+			local output = basename .. "." .. format2extension[self.format]
+			
+			local import_picture_args
+			local options_apic = options.apic
+			if options_apic then
+				import_picture_args = {}
+				
+				local i = 1
+				for apic_type, format, dir in string_gmatch(options_apic, "(%d%d?):(%l+):?([^;]*);?") do
+					if dir == "" then
+						dir = "."
+					end
+					
+					import_picture_args[i*2-1] = "--picture"
+					import_picture_args[i*2] = string_format("\"%s||||%s/picture-%02i.%s\"", apic_type, dir, apic_type, format)
+					i = i + 1
+				end
+				
+				import_picture_args = table_concat(import_picture_args, " ")
+			else
+				import_picture_args = ""
+			end
+			
+			local import_tags_args = {}
+			do
+				local tag_files = self.tag_files
+				
+				tup_append_table(inputs, tag_files)
+				
+				local i = 1
+				local tag_file = tag_files[1]
+				while tag_file do
+					import_tags_args[i*2-1] = "--import-tags-from"
+					import_tags_args[i*2] = tag_file
+					
+					i = i + 1
+					tag_file = tag_files[i]
+				end
+			end
+			import_tags_args = table_concat(import_tags_args, " ")
+			
+			return {
+				inputs = inputs,
+				command = string_format(
+					"%s %s %s -o %s -- %s && %s %s --import-tags-from %s %s %s",
+					self.flac_program,
+					self.flac_options,
+					import_picture_args,
+					output,
+					input,
+					self.metaflac_program,
+					self.metaflac_options,
+					tagfile,
+					import_tags_args,
+					output
+				),
+				output = output,
+			}
+		end
+		
+		local metatable = {
+			__metatable = true,
+			__index = flac,
+		}
+		
+		function encoders.flac()
+			local obj = {}
+			
+			local depth_level
+			do
+				local _
+				_, depth_level = string.gsub(top_dir, "%.%.", "")
+			end
+			
+			local tag_files = {}
+			for i = 0, depth_level do
+				local tag_file = string_rep("../", i) .. "tags.vc"
+				tag_files[i+1] = tag_file
+			end
+			obj.tag_files = tag_files
+			
+			setmetatable(obj, metatable)
+			
+			return obj
+		end
+	end
 end
 
 vibes = {
