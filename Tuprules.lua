@@ -177,6 +177,39 @@ do
 			return obj
 		end
 	end
+	
+	do
+		local lame = {
+			input_extensions = {
+				"aiff",
+				"raw",
+				"wav",
+				"wave",
+			},
+			lame_program = getconfig_default("LAME", "lame"),
+			lame_options = tup_getconfig("LAME_OPTIONS"),
+		}
+		
+		function lame:encode(basename, input)
+			local output = basename .. ".mp3"
+			return {
+				inputs = {
+					input
+				},
+				command = self.encoder .. " " .. self.lame_program .. " " .. self.lame_options .. " " .. input .. " " .. output,
+				output = output,
+			}
+		end
+		
+		local metatable = {
+			__metatable = true,
+			__index = lame,
+		}
+		
+		function encoders.lame()
+			return setmetatable({}, metatable)
+		end
+	end
 end
 
 vibes = {
