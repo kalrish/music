@@ -395,7 +395,7 @@ vibes = {
 			inputs = {
 				"<plitems-" .. name .. ">",
 			},
-			command = string_format("^ PLITEMC %s^ lua53 -- plitemc.lua %%<plitems-%s> > %s", name, name, compiled),
+			command = string_format("^ PLIC %s^ lua53 -- plic.lua %%<plitems-%s> > %s", name, name, compiled),
 			outputs = {
 				compiled,
 			},
