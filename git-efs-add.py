@@ -1,12 +1,12 @@
 import argparse
-#import boto3
+import boto3
 import hashlib
 import os
 import sys
 import yaml
 
 
-#s3 = boto3.client('s3')
+s3 = boto3.client('s3')
 
 def process(bucket, prefix, filename):
     try:
@@ -18,7 +18,6 @@ def process(bucket, prefix, filename):
         key = prefix + filename
         
         data = {
-            'method': {},
             'bucket': bucket,
             'checksums': {},
             'key': key,
@@ -34,20 +33,17 @@ def process(bucket, prefix, filename):
         
         data['checksums']['sha512'] = hashobj.hexdigest()
         
-        data['method']['s3'] = {}
-        data['method']['s3']['checksums']
+        s3.put_object(
+            Body = f,
+            Bucket = bucket,
+            Key = key,
+            Metadata = hashed,
+        )
         
-        #s3.put_object(
-        #    Body = f,
-        #    Bucket = bucket,
-        #    Key = key,
-        #    Metadata = hashed,
-        #)
-        
-        with open(filename + '.rfs.yaml', 'w') as s4yaml:
+        with open(filename + '.efs.yaml', 'w') as output:
             yaml.dump(
                 data,
-                s4yaml,
+                output,
                 explicit_start = True,
                 default_flow_style = False,
                 indent = 3,
