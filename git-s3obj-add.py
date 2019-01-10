@@ -17,30 +17,25 @@ def process(bucket, prefix, filename):
         
         key = prefix + filename
         
-        hashed = {}
-        
         data = {
+            'method': {},
             'bucket': bucket,
-            'checksums': hashed,
+            'checksums': {},
             'key': key,
             'size': os.fstat(fd).st_size,
         }
         
-        hashes = {
-            'md5': hashlib.md5(),
-            'sha1': hashlib.sha1(),
-            'sha256': hashlib.sha256(),
-            'sha512': hashlib.sha512(),
-        }
+        hashobj = hashlib.sha512()
         
         f = os.fdopen(fd, 'rb')
         
         for chunk in iter(lambda: f.read(4096), b''):
-            for hash_object in hashes.values():
-                hash_object.update(chunk)
+            hashobj.update(chunk)
         
-        for hash_name, hash_object in hashes.items():
-            hashed[hash_name] = hash_object.hexdigest()
+        data['checksums']['sha512'] = hashobj.hexdigest()
+        
+        data['method']['s3'] = {}
+        data['method']['s3']['checksums']
         
         #s3.put_object(
         #    Body = f,
@@ -49,7 +44,7 @@ def process(bucket, prefix, filename):
         #    Metadata = hashed,
         #)
         
-        with open(filename + '.s4.yaml', 'w') as s4yaml:
+        with open(filename + '.rfs.yaml', 'w') as s4yaml:
             yaml.dump(
                 data,
                 s4yaml,
