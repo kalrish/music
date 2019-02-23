@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 831b91cef2e5fd803dd1a503b604e133
+   sha512: 77b48e093bb05da49f6b77d03fe56f5f6bd0e459f85546331f3b638cc5378974a5b0620ad1ef1266c111b082e4eed154ab89b36f73ab1446004fe04c10acb863
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/lifad/2/4-roter_sand_orchester_version.wave
+size: 43253804

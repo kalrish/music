@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: ed8d482f958781cdbe0c30425bb6ea5c
+   sha512: 9ae0d6d697aeba01db6a84c95d15c2304025b13aed97182228153ba3d425fb8af279a71ae428c008fd42aa35dc5f2fcd632f9e9134793a5072f48fb63f6c0a7f
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/lifad/1/06-fruehling_in_paris.wave
+size: 50266156

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 298ac64d4631996b126fa3b6c3f8be98
+   sha512: be4950f77872b73b97db519f3515a66d11d24209a4ce1d0f0d48f21081d9154516ac2678451fedc43a8ba688296a8d08c6c91d1d22378151784490ccbc22a29a
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/lifad/1/09-liebe_ist_fuer_alle_da.wave
+size: 36257836

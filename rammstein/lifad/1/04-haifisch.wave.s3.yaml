@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: aa19afef713ac08e7e7710af0839633e
+   sha512: 98b7ea402385dda0ca3eef465a6e95062771ed6dcb09221db6c5e34f9f5387342ee4ac16ceed7df4994d5dd8fc04c2e6faf5c622fd718859b59a600591a1eedc
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/lifad/1/04-haifisch.wave
+size: 39665708
