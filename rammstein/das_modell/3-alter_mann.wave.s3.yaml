@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 3aa1158a9b21cadc14547a777c6a4b42
+   sha512: 42f61171caa47293995aa016361ca2374deb5d2854e23550f4be76c10b95746e76d46075d153d98223870807f848e4b0e7df0c26c4eabd2ce297a505ec77e111
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/das_modell/3-alter_mann.wave
+size: 46383148
