@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 33439788
+
+   checksums:
+      md5: 06a9ecda0959b60725939eef58fda513
+      sha512: f603ea66d2411bbd4d3191f7a1fea4c4c39df21814f4bc8910bc0b89f45f75510ab7fbc30ae4fe3b89c677463274d30a62cec4f227cf75427f6737d043578c3e
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/das_modell/2-kokain.wave
