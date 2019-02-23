@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 73ff7445d4e4e3ec970a7f319ce972f1
+   sha512: b02cbc6f25e2b7570af3ec88ff617a5c5091f4b0ae91630a35f7fdb817f91058d291c9cf8e573a40ea466d5f05b35d620c6f30fe82a5690469fc240e46863022
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/lifad/1/05-b.wave
+size: 44793900

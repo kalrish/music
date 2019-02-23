@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 52fe25a7dfbd1af9e2ceb21b8ba6e226
+   sha512: 50f9b3dcb4a662a35c4e5f5ccf9668649d76819a2022cd23dcac28e97647bb09fb38f21116d6f925cc00d3b19efd095c6c0d8dcdb8f19e29d2e53bc97e2aa9df
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/lifad/1/11-roter_sand.wave
+size: 43089964

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 20de90256046ad57da493762ac1d9459
+   sha512: b4adbb4f7db90366b553fca13cabf73e7415da1620d75efcce1406be574f9b2ce57313ee33db328dcc81f9eaad9433b77af1f53621cd098a203bb3128d4df552
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/lifad/1/10-mehr.wave
+size: 44302380
