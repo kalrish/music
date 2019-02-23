@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 40129868
+
+   checksums:
+      md5: 56dd94e17438f6e3b523bae15781cf59
+      sha512: edf2af707ed7b419f6cd6df947fa23dff04ccc4d52028b6f0a2a7b91cd4a541346013eafd34933ab4f55d7fddc97f622cefb25444599979ed8d0b5c765906a88
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/amerika_uk7lp/1-amerika.wave
