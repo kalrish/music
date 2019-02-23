@@ -19,6 +19,8 @@ local tup_definerule = tup.definerule
 local tup_getconfig = tup.getconfig
 local tup_glob = tup.glob
 
+tup.creategitignore()
+
 local CONFIG_TUP_PLATFORM = tup_getconfig("TUP_PLATFORM")
 
 local top_dir = tup.getcwd()
