@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 37552172
+
+   checksums:
+      md5: e32263634530a77e64c7932832f290cb
+      sha512: b441e0a31278442e3ee07bb9bb22c3819d4208550557ead1b01cbf70a649180e033471a7429d353014367059e7f368f8ae16f6a20023a00568da9ab3a32ec933
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/lifad/1/03-waidmanns_heil.wave

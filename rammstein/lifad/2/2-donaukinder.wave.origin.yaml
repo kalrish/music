@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 56082476
+
+   checksums:
+      md5: 47ba9d9293330058864bcdb7cf92905e
+      sha512: 40d2b6eca78e32916f56cf7e05e78f91701cc64ef4c6d6d671571a6d0dc1004b23ca31a995e233830c172531348ef9eff8eb41894cc99ab7d43287d97549e6ad
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/lifad/2/2-donaukinder.wave

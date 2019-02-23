@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 53248044
+
+   checksums:
+      md5: c6f14da02545c1decae8b039e9ab1d32
+      sha512: 2a43a10b08afdd5717fdcd5c40c7cb6ee5e67646f9060bbcdf05c4199533122cbda9409eb694ae6758fb21401f0b980f8ea0ff2c2782d556a42f71e03aed8c74
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/lifad/1/02-ich_tu_dir_weh.wave

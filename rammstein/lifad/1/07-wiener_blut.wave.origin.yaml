@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 40943660
+
+   checksums:
+      md5: c64fe212addabffb5fcb5caedcadcdb0
+      sha512: 740ad7e9dcf72eab6896715215378137f0a81a83c7ae96bbbb5b9d598f54d79be8be129b699959830bdfdb18f1ddbf9ac6f829976a3e1d7677a879129fc1010f
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/lifad/1/07-wiener_blut.wave

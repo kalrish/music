@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 56262700
+
+   checksums:
+      md5: f44e33178700cf1d0a2fc5ca639ba3db
+      sha512: 2732caf221846154643ec4110f6ae57fd2c27027f22a0fedcde260a98dc9aa1bca422f72bd63d3c83630b10efc8eb4dbe9ceda5e22dfe7de6a891d6357bc7f9a
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/lifad/1/01-rammlied.wave

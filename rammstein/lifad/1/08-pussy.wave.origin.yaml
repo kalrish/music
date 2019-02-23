@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 42172460
+
+   checksums:
+      md5: 092e10baa2e7d4fa4aaf4e0a35a6905a
+      sha512: 571faa577f10edc4d65f2b8c3ccb31a28870dd9d88f5afe6395d67d32401bf60ae72f69712ed6e7cd224a565afd32cea264fb219ed5e60fc00af60fd4aa1c23d
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/lifad/1/08-pussy.wave

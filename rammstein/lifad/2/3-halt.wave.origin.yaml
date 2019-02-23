@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 46039084
+
+   checksums:
+      md5: 240d00633a367386a986321ed38f0deb
+      sha512: 5fe338438ad0707133b819efa1909b13cb96465aaabc5faa63306dbea3138453550297594947349e84c5229b47c6c265a36a96f2a32d5293ac673a94daf3e990
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/lifad/2/3-halt.wave

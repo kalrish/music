@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 48234540
+
+   checksums:
+      md5: ae44414b48012fed8dbeafe245ce0287
+      sha512: f415de42e9dcbf790a6048f94258cfb199b0ed091631e0b18c50cbc359e1af61a9ea6b0eea78012a1b6a11d26dc31e2edaf38933d9cfd524391a007fbb4deec7
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/lifad/2/1-fuehre_mich.wave

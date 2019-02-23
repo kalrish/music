@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 42532908
+
+   checksums:
+      md5: 45255e4086221f380ce89b4aef67a85e
+      sha512: de5cfdb8caa31558288ac8ed7515e77695288596057e5f247cd7f939a691f8af4311ae0a79c151632acc52e651f0affdda11015437188519ffbf34c9955e1995
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/lifad/2/5-liese.wave
