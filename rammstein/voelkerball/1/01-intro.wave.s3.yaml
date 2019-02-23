@@ -5,12 +5,4 @@ checksums:
 locations:
    -  bucket: music-sources-bucket-lptlgun3pg8r
       key: rammstein/voelkerball/1/01-intro.wave
-      dfd:
-         foo: bar
-      listie:
-         -  bucket: music-sources-bucket-lptlgun3pg8r
-            key: rammstein/voelkerball/1/01-intro.wave
-         -  dfd
-   -  bucket: music-sources-bucket-lptlgun3pg8r
-      key: rammstein/voelkerball/1/01-intro.wave
 size: 21859532

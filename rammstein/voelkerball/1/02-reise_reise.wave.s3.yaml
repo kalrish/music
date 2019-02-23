@@ -5,12 +5,4 @@ checksums:
 locations:
    -  bucket: music-sources-bucket-lptlgun3pg8r
       key: rammstein/voelkerball/1/02-reise_reise.wave
-      dfd:
-         foo: bar
-      listie:
-         -  bucket: music-sources-bucket-lptlgun3pg8r
-            key: rammstein/voelkerball/1/02-reise_reise.wave
-         -  dfd
-   -  bucket: music-sources-bucket-lptlgun3pg8r
-      key: rammstein/voelkerball/1/02-reise_reise.wave
 size: 58397852

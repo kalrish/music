@@ -5,12 +5,4 @@ checksums:
 locations:
    -  bucket: music-sources-bucket-lptlgun3pg8r
       key: rammstein/voelkerball/1/03-links_2_3_4.wave
-      dfd:
-         foo: bar
-      listie:
-         -  bucket: music-sources-bucket-lptlgun3pg8r
-            key: rammstein/voelkerball/1/03-links_2_3_4.wave
-         -  dfd
-   -  bucket: music-sources-bucket-lptlgun3pg8r
-      key: rammstein/voelkerball/1/03-links_2_3_4.wave
 size: 51264236
