@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 67888172
+
+   checksums:
+      md5: aed8947eb50724cc68383639b825eb10
+      sha512: 1e54faeea36145486466394b15691a50d7b9dba57203af4c65798a62e40997bcbfa4de3409baa13d2b94ec0679a5f6953c1ea37cd80093aa962e52c079420a16
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/voelkerball/1/09-los.wave

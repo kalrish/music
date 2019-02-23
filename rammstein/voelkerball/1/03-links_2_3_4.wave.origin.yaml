@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 51264236
+
+   checksums:
+      md5: 833cf282ac5053a78030767c0856feba
+      sha512: 29b51bffffe9e6811d23a2d8a69e4112bd964a4d341d5eed66ad5216437616319f263bd7a5286c2f40d69a9beb857b6b6819bb1f5537db6b9d6c68fb9a9343ee
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/voelkerball/1/03-links_2_3_4.wave

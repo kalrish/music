@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 51692300
+
+   checksums:
+      md5: d0d67c9de684b9045ea96bb6721bf6a3
+      sha512: b69bfd046741cdbc399fe56bfb64a3709fb69b4bb611e3b4dc6dd299c762847fe5191a3869bf23a1d0f08ad67a5346b3e2a04b00606eb0363cc46d038c507d2e
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/voelkerball/1/07-morgenstern.wave

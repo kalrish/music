@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 58397852
+
+   checksums:
+      md5: d63e9395b0d658115960f849f7d47698
+      sha512: 60d2e3a4e77d70b23079da9156dd1de18cd06e46a87979a36491f727243d19eb8f604f24af254b146d5659460da1cd477350131a5f68a19594c68fb34cd2a6d1
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/voelkerball/1/02-reise_reise.wave

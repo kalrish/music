@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 61375484
+
+   checksums:
+      md5: 5edec638d8e1d839952938099203a511
+      sha512: 179cfeea8a6d47be417842f3402f04a0cf59d105aef1074db24eee716e513c19db9caf17b99e8f745b45e6c8b093bfc621cd4ef34babe7a6fdd77438a42f24fd
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/voelkerball/1/10-du_riechst_so_gut.wave

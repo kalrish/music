@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 37385084
+
+   checksums:
+      md5: d4532d1f77e208529c45a3aa6e6c1169
+      sha512: ac35eeecc2cd3e648fde79b41feafd270f69839d28d8231559d3096ba4bbabec547ae6d74d9c3caaf360a1e2128be2c2759790bc2e1feed0c3c3dfc5cea19852
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/voelkerball/1/05-feuer_frei.wave

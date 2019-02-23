@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 41004812
+
+   checksums:
+      md5: 36c26e6c45ed2e6f6c2d61a842f86728
+      sha512: 73b1c209c1fb24397daf59cde6c7f5b0ea70173c845529131a81c427bdf90f3c92393434cd4bbf651e9b2a8d09a54a27cb40c27f0ca6b7eaeac27520ee9b35bb
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/voelkerball/1/04-keine_lust.wave

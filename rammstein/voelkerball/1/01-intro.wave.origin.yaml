@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 21859532
+
+   checksums:
+      md5: 8130b6dc37599979727caa6f39566f12
+      sha512: 1a564a90f80bf5e1be417c5b5a0f39634fd1b4116a2795c21f4f3ddd471907337b50be4924f9e3a1e206c11887673c6084e37856b3c4c1310e7cf6b71dceff25
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/voelkerball/1/01-intro.wave

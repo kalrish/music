@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 43370924
+
+   checksums:
+      md5: f89a30e54332cf015c87189c84b77d63
+      sha512: f86aaf11060aafe1c6dc020c9e27b7bdac2bf2869a9ac280883b7a288e53ef068481d0f05a44c5a71c17a3685849630dc603224c2957e430e32c37d863060abe
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/voelkerball/1/06-asche_zu_asche.wave
