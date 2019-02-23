@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 24d1fc105d9a519fed20ca418e5e8eac
+   sha512: ae840075d90ea2e9926c0045df51dcf7086c307c32b1b462a06d8480f76545550bb58ba085131aab44d3c96df951146d4f610014c8432be361386b053872e13f
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/voelkerball/1/08-mein_teil.wave
+size: 68172764

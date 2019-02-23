@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: eb48c0c70a72065ceae77fb16ce7a5dd
+   sha512: 5e1feaab6b6edb23a86b5ac60f59d1542eeff433e75782a7fa84e0657bf97375fec1d771658b3d29400a72886eebb72bc87e69577a36bc56931128ebeb6b2c22
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/voelkerball/1/13-sehnsucht.wave
+size: 46346204

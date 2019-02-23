@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 91ff58a57535c6d2c41e9993d3cb2a9e
+   sha512: 00b8efee9afe015d5c69c1d737c111197e1c7f48b763b32549b90e499bc1cb30d3ea6dc540250482554b061412a042d9e113b55625d2d9d25f540fcaa35cc4ec
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/voelkerball/1/16-ich_will.wave
+size: 46155692

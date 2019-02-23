@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: a97e2cf0d1c110e814b4a6b2e23e8f81
+   sha512: b0061369ecede8f5aafd439c78aa21c8d1ab95ac086cdc5de82420fea131beda05b5f69df7ce22407f42ca8df053cb23d0d9ed4b03f1a86392858d90a57d7bcf
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/voelkerball/1/11-benzin.wave
+size: 43229804

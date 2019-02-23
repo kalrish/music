@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 8eeafa77a3f039327856cba1b6f3cdac
+   sha512: a024dd61a61f98d79dd6dbf859cc2c7ed88b41971ea1b1989cfc61ded6feb48c32da46731de56e3c678d72238f9595c47eb24c621265cb749c4bbb33f78b11e0
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/voelkerball/1/14-amerika.wave
+size: 67001468
