@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 16af6b7d117fe8afe91fe3a13ccb7bfc
+   sha512: 719ec95bc21d839c7c4673ccf97661f1d03ed9ee5a5555277503ecf11524af96eb366de58c62a3497b0e2483c7bb17ebb1df006a927c3194ad050d3d1000d783
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/amerika_uk7lp/2-wilder_wein.wave
+size: 198098162
