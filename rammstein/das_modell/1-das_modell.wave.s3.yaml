@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 75ae10fdefa710f61df1ed3e288b152b
+   sha512: c5def77325a8349a4a1fbfcc10db394eba69530ac3b8a37eca7d1ecaaacdf403df792b2f4eb6da5e59b3501047dcd124af507510a83f58cbec2cc73636de9e86
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/das_modell/1-das_modell.wave
+size: 50429996
