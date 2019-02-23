@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 35bef9999e566ac2495ddfbb59d04c59
+   sha512: 6a6958159fdf0688dbe197b02050f82e8973c2a12f2b5d08b7103df8dd28774909b5df24edd67ea26fc07f2bd88110d386d2fe6a00a75d26c1371381f5d119ec
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/voelkerball/1/12-du_hast.wave
+size: 45991052

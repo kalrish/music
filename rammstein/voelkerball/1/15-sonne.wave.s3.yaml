@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: bc23849814422992058b309c8fdcdd0e
+   sha512: d2a03872b3e59ef064a5d0c9066d7bc11f6aac5b133c78f6cf28d3c3d5543a11f7d0139ae08e17f79861a60e03777044c024cb4cf3f7ddde62941413ddea904e
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/voelkerball/1/15-sonne.wave
+size: 51414764
