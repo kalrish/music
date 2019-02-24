@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 44504588
+
+   checksums:
+      md5: 3aa052425741bbfbad424f17fd5e16d5
+      sha512: be8eeb1b1ffe417a28af5c38e2dbbbc9e1dbe6563bd3fbb8085e655024d73313efa7398ebd40cf78547953f7ab2822db113eec74730b33cc409e306a100ad6bc
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: lindemann/skills_in_pills/04-fish_on.wave

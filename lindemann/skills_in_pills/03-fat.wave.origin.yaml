@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 44499884
+
+   checksums:
+      md5: adbb7585bd5f373527927122d7567d6d
+      sha512: 5780f27ead58d1dee2e6e8f362bb6fe81dbb8c59729e7c0050d55ca7653dbc0016d25cca8d18677a1292b88f6e4f1f8c0f69dcb3807325fb946e126f4004a84b
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: lindemann/skills_in_pills/03-fat.wave

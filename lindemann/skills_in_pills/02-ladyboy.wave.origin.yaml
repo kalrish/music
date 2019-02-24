@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 35371772
+
+   checksums:
+      md5: eb1ed732f8e73bf4fa9fe69243c5433a
+      sha512: a4ec4b13ed22c81b68029a3f04934436121d6370448cfcf90e44fac2dade73a34cb0660d1de82ac92ce023a5efa9e0c93e13b3c6c250907ae0d2dff812a15dc4
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: lindemann/skills_in_pills/02-ladyboy.wave

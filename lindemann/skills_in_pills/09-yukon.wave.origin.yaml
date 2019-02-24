@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 50299916
+
+   checksums:
+      md5: 52bad0e0710b75ec79136a6765f44836
+      sha512: 868e957e0617e1f255fd51315a7c326f16d9cf8e4b1791e054f376af4efe5d63afd1b3c449f12e68267facd3f31563a87fa2b84c8d951675f6b19b87f954e889
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: lindemann/skills_in_pills/09-yukon.wave

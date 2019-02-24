@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 44749196
+
+   checksums:
+      md5: 8715848973c22d8a3a15496e426a9477
+      sha512: 562cb07ec6ef4bb8858f5b88d1e16e53d30bde6bb0843d988a2df200779726d6176ac60ae3618172817891a018e2fef7534e453a7c8d1653c20378cf916582d1
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: lindemann/skills_in_pills/01-skills_in_pills.wave

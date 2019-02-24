@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 48646460
+
+   checksums:
+      md5: 2df2ac4824f117c0a660608e1fcc0552
+      sha512: 6b6e59f4512b21a59c252319513a66ffdc5c4c10fa01446beaf24a68e7bad10368cb2cf8914f926e80bb4c9f586b5bdb7e8910ed81fc1140212709a2d050472f
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: lindemann/skills_in_pills/11-thats_my_heart.wave
