@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 46047500
+
+   checksums:
+      md5: 5faa377cb3125a4a46337aabc90aa8e0
+      sha512: ca46febed26de1228110d74f4063f2dd64325d2a2bb3fe872806ea0b1cb78cf7d4210b27231ea118fcc16be021771e1236dfc0be428229d08339e7232b18a313
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/roc/13-rise_of_the_ancients.wave

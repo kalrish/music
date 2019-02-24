@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 11999948
+
+   checksums:
+      md5: e6419d241387ee34fbfcca4791352d93
+      sha512: 3679fa8ff4776ec2ca0b6c89507567c2c318f741ab79df9aae42c61cb323aa1bffa560ef4ffa11fe679e0881aa9503cf37e777fd0072234a69eb64afabeb96cf
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/roc/12-reign_of_chaos.wave

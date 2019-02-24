@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 46555532
+
+   checksums:
+      md5: a66c0d04242724a0860fa012561b2b4e
+      sha512: ca256aa4a7cf379668fa7d91effdd1beba6e4c48c5740629c8968415b23793740daf901b33ff9ccebd9d852b1380fdd07001933e31f3094e8b65ac0d07064fb4
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/roc/14-temporary_alliances.wave

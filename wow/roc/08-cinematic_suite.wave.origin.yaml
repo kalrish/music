@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 156506828
+
+   checksums:
+      md5: bc4a9cdd4cf37a0bd478170e8ceb3db7
+      sha512: 695e108acd193fca1b0a55806543d204a69ed877e0eb23ae59288617abae7fa9bc49e2bf86e4869e297d83a39169be4614cc175aa5d07a9feebcb1c5e7c93d70
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/roc/08-cinematic_suite.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 54319484
+
+   checksums:
+      md5: 151808da287be75a15356e8482d4a9ef
+      sha512: e16876745f7e079dc499ed7e001bee4309a59a15f5a0d1e7e63a0c8e191d441b0e3ed7758d25872273d3624fc96ee4853929e75e6aa7c66614e6cdbf082386cb
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/roc/01-arcane_echoes.wave

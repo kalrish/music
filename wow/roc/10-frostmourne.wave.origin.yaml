@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 51141932
+
+   checksums:
+      md5: 6a55afcb85970cb89b5ee18c1ed76eb6
+      sha512: 06fecf834d4e657bb18812b5cf80a7b496786c42b188d1ba8ec6eeab4b39600b1fba35587a1dfe10ea32bd06f2068a9a3f604dc4685971146e8e7a422e3320b7
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/roc/10-frostmourne.wave

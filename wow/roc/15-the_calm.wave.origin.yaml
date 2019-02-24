@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 12729068
+
+   checksums:
+      md5: 3360724d92e51a9665474cc1ed43f628
+      sha512: 55e28ec0724ca4f88e0f00e4f682d81508a136e6f07c164aef793fc89e295607c8f630e3950d379373a4ee2790ca377f4649fad1049e41c362554c51956bf33d
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/roc/15-the_calm.wave

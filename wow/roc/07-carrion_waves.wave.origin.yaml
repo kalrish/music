@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 51584108
+
+   checksums:
+      md5: 3d1a472af69d46b690ce991464d29cc8
+      sha512: 7647c08a2f7019e354af4de02cb335aa65c2e7eca01ba40b8755df33e5dd9658040ce8458f719cc91ae93ae13f40dab82467903ae539094cbc224e67543a726d
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/roc/07-carrion_waves.wave
