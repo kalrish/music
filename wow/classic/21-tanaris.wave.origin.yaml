@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 26829308
+
+   checksums:
+      md5: 076164c18bfaeb2e55fb6c683c6c7f6a
+      sha512: ef94d7b1290a272d8a492638d6a7ee75366b3f98384f8255d7042ebc400bfb9113271226f4b181506009b3e63c6eff9b444f2804128f8277fd4a666cd58d02e3
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/classic/21-tanaris.wave

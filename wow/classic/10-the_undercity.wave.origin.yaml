@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 26248364
+
+   checksums:
+      md5: dcc696726a0c58e726a43a74f008e11c
+      sha512: 8587507221430208cdb43534f32503593467bd8836d3c91914fbc1440e35f19b8844f44b166c779c078efe4e9fe7510f8bd998f246b091eb4662949d8c06fe2c
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/classic/10-the_undercity.wave

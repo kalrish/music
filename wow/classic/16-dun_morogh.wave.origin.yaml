@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 79619948
+
+   checksums:
+      md5: 426984c11dce2019ba44a018f74891ca
+      sha512: 2ad2861a4d3d9bbaae6f142a911b4e1ab3e872fbdba3c8d8b3bee52e338552433f888f14b64e070ff286ebd134349504dc831fc41b52bf7c64231d2464b26a06
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/classic/16-dun_morogh.wave

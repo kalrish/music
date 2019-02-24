@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 12148124
+
+   checksums:
+      md5: 103497455748a13e4d4ea3fb5b338074
+      sha512: a4e73fbd174677ceb1533e56944c941d438a4ac8df7b96488fa250a39c706d1bf949702820858be2bb3c39f0bfd7e3db442697321dc815cff55fedd7b77891a9
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/classic/29-graveyard.wave

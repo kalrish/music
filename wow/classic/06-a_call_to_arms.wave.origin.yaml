@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 24576092
+
+   checksums:
+      md5: a65074eceacbb32811ff750a80699c15
+      sha512: 9883aa38d2a5ded87a556d724f6e2c36dcd369e5e94a6346ee6a753ffea99b7647abd9e3e62d04fe001e845db1091b3a7a8904b9cc98e68d3259da2abf6c1905
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/classic/06-a_call_to_arms.wave

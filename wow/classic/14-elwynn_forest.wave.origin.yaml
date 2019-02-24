@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 32596412
+
+   checksums:
+      md5: d95d14fd65c933467208d6ff99ef5122
+      sha512: f2a70e9cf8a833fdfad2dc7bdf85fa8614d110b29d4faaee074dada3574c2656fbc1fa848ba10dae7060c2397422027b1b6b82aee7f45f1d68423ea1207d6f99
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/classic/14-elwynn_forest.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 43761356
+
+   checksums:
+      md5: 57bc779fbca678e22db2602005a72cf4
+      sha512: b8908fe3d83f8b38d3b356fff299e815e54abaf761057c626493b865f543cd83658f6fef27f895b044fe5cd4901049a4b7f76bdeebfbb4eda2eb1e258ea565ee
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/classic/18-shimmering_flats.wave

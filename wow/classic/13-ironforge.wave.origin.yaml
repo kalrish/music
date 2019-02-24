@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 23814044
+
+   checksums:
+      md5: af7ad9b1f3f0d5bb23d0660a8003138e
+      sha512: cc7970888ab9156d342ab9f8ad44af5f6fa067de90ac1656bbb61ba00df992540e98bafc4168dfcce842c92741485c1a7e36a61e3af2fb3acf13332159ec0b1b
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/classic/13-ironforge.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 25836764
+
+   checksums:
+      md5: 1ec82e10bc763db1569c32f86ff7cd91
+      sha512: b57d8b293c585ee22ca1b69544bbff851b334c86cc88400ea12f260ab6300973a9f2de1a7bdee0ba76b7e3660a065f6fde318867f1248e34bcfb9f99855cf97d
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/classic/03-legacy.wave

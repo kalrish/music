@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 41752748
+
+   checksums:
+      md5: 3d649803b336c32eb48d678b2bc055e5
+      sha512: 59fba1a9e4e4c022f5a48fd5efe86bc3223e877fb56a8227a0486246731394cdaf79500f597ea33e1fa970b3c9c86cde0bf7ccd9354189c92da1d4e381ed170f
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/classic/22-teldrassil.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 29110748
+
+   checksums:
+      md5: 50f74af0113023dce305d8bf39193333
+      sha512: a779c200d75c8f4289b441f351e0c9b3112bdb237f527c31a99a93d21178ec24be4eabee551cfb377376ca5ab62a19aac8fff336ee939e19d2f5fc5d32fb3985
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/classic/12-darnassus.wave

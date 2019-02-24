@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 27704252
+
+   checksums:
+      md5: 921934479fbf244ef58557065886a813
+      sha512: 1d93cf050652af8e24e3635c524e69da70e873eceb89a9b958fa1ae59584633f6819d56503475214a5ba873278cc5e07c89e4bcf4c038d86e9b00a988a19808d
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/classic/11-thunder_bluff.wave

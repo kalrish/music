@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 20184908
+
+   checksums:
+      md5: 6a0106b685be7126a380b2728b04bf49
+      sha512: 2427d4492c5511898e3ba5ff496ec43f1984d632f0526d14ef29511eab63a2a3ad7fc9ae70affb62d10ec249b3e6fd9541b8db5b2983140aa424e319cecd145f
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/classic/05-echoes_of_the_past.wave

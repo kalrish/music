@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 12653804
+
+   checksums:
+      md5: ba969e42832cdde5174fdd5c0662f52f
+      sha512: af7b3efbd273d82d9aff43eed89917f76ebe1745343781a11dafe6050e78302eefdf103bc4c270f0df86432970095e036ae6c40cbb3084899e77fb46931c76cd
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/classic/28-sacred.wave
