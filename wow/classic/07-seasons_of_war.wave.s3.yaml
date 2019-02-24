@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: de6ee04cb2e2102fbe893ad61dfae317
+   sha512: 0df07bac89be38bc27acbf15df1162d752fd6093c4cbabf559259a0ab4a24dfa1ea0cc75531ddc2096414e370990cbdad19e18c1ea3a2dca74195703c0e055e6
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/07-seasons_of_war.wave
+size: 31535660

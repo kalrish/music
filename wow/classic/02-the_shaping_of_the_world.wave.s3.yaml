@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 07468a9d5a4ca4ff45ba4fe1b9361eee
+   sha512: c6f72f54808756569e5caea1281a5f7f54320dbd0593c26411fddb68caab440f65d6739fb91c931ba2998b66f398b1a98fbc0869b33735ea66836cf7e592a966
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/02-the_shaping_of_the_world.wave
+size: 25737980

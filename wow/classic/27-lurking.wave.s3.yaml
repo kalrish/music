@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: f1d3d6df4a1d9b3c992a88f5384e621e
+   sha512: 6e0957e9efd81b74c5161795891c2555c054fab0260c6fb4b88e2f3d3cdfd379b27ee378a0bc078a489b02ab48cc4dceaa77219c534c80dd1ce79d9329685b42
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/27-lurking.wave
+size: 10925084

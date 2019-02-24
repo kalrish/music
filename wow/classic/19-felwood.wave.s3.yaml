@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 8b02b098ad3bd3e3b7bfabdf035c8b98
+   sha512: 82ada5b0437c7f243d24e591ec2d6cf8f2ba6de9ee9d75cda37d38e316deea003d90d557aa16d814fa3a224a5c62342d79e8d25d493ac9aa9f7a893063dbe38a
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/19-felwood.wave
+size: 27946508

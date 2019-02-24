@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: a80c3cf2d7cfeddbdc3f6f3cede74b6e
+   sha512: 335844f292d84955c632ef536e4094741ff2ad334398ef2a0449467af49eda5093e47a3a0b4a94efe816e61989c1988931f84ed05fbb017d9998a50ed243a14f
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/01-legends_of_azeroth.wave
+size: 28416908

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 3853118a8ab9573cc61362fd9248bc83
+   sha512: 82b43db6769866780b322688f450d2b8bbe8fd5467b02c41cada9110bf69af8ad9e43988f01b02aed57d51b186d5a7bbc4c08584f3190a1bc4f6ac1b09545a04
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/20-stranglethorn_vale.wave
+size: 44751548

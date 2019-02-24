@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 533d04e0acb78039279c8e56214479b8
+   sha512: 02fbd44685f704b9cc2812feb332fc34f790fc42d5bc441a8b9dff6352f6d8eb8f5e006fadd96a9dbc20b2332a3410129a5f8a6081502013c381e7477c72750a
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/25-ruins.wave
+size: 13641644

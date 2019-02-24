@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 2c7ffa7a8982ffa873386f53fcd5cb8f
+   sha512: 77b745a86baee159a21628d6475c84b65151e5d5a1ee9751cdbe5d97d70c6f1c2fd82ee6196d879ede19168eaddec08f2f96a1dce54f0360b793c643aedc5744
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/26-temple.wave
+size: 11400188

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: bdeaa2ab1ca6b00fd2d1d10e7fe58342
+   sha512: 578a83b354dc7fc6f91d693febabfa8bf86e5018730b3a99a85f1d3cc6c3ad803e45ca69b682ea5b01d9f223fc93c1297d0e604185302e12a4f80f6419900ae7
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/15-duskwood.wave
+size: 63969740

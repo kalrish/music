@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 15f815238b56a11fed57e2a9f34c9baa
+   sha512: 1732c3e5cfbe8919c6006380a59d24f805723633bc2852fe2d25d5ba86fe5e7e41852a152d6e40ac341670fd05687477871af8d2a2c79e41eb94145cec23f692
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/23-tavern.wave
+size: 13147724
