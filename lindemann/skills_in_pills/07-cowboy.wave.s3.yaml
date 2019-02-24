@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 1a37090846a077d855bfc9d5cbbcb014
+   sha512: 19837771a2b02354284bc1a2bd710a0ae95f984abbf23c77d0f1569828f8c2306adf9ff3a7d1667cad4bfd39db471f8a1e068077827b5b56a7a6da5e18fa4b3d
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: lindemann/skills_in_pills/07-cowboy.wave
+size: 33694796

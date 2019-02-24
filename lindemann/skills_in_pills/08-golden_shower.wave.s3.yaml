@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 3f74625a921198879d669f719683a161
+   sha512: 85a9f4e6d78a9bb0c4b5900af0be3fd639cd8467c78fc7b73d250c80ea46645d0cd5ef3fcea1c6796585cbc0e4aeafd78450e9737d873bf53dc0bc041247bb1e
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: lindemann/skills_in_pills/08-golden_shower.wave
+size: 46616684
