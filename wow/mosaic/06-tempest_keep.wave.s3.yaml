@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 4e65f77c8c28e983e51ef2932a0bae14
+   sha512: 21e9aa498ac8e0152ed983762aac0cbf3812eb66260c6c36634409d9d076095dddddf6c4c7341ad81b9cf18af3413f4629cd0f2c4eb7701b650efbfe350994df
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mosaic/06-tempest_keep.wave
+size: 33243212

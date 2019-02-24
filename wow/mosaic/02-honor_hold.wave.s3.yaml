@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 364a95278ad350d2d0398b4c4fbdc041
+   sha512: d5d74e77dc58cc913610b40e471bb19a162264820432322a616deace0bc695453d778bb3f214707b6e16e20a955dd8cefc24dc8a872bed6ea7a507e5821f5f57
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mosaic/02-honor_hold.wave
+size: 23684684

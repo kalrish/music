@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 175ed93116f7098a37409861a45dc587
+   sha512: 20363152c8ca95eb6af2908a50d11b48e7f79ee7100824898930b7086c7cdabdc14953cc8d87dda95a72c7c92149bcb0a6e629d146c1c5f58813ba0a671f6bee
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mosaic/14-sapphiron.wave
+size: 8533100

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 0165c25f2209777408d89daf11077edd
+   sha512: 0764ad2bc40c859274dcfdc4cd270ab4cf730c570b5a4cccee614f42b4847beed5c179afd0808cc34530992b7edd8059b016764a99c94668e16c61c3bf7da722
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mosaic/08-karazhan.wave
+size: 68640812
