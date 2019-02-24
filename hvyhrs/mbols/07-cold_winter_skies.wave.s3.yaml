@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 5acaae9c8c95a49ac2aa24251aedfce1
+   sha512: b82a36666a3254b9721705b2915813eef7fed86e9f0e63283fd4f250552cc9acf6c285de4bcafaad118df14a69254680f9e6fd57dfa8f2c25826c43cb9088819
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: hvyhrs/mbols/07-cold_winter_skies.wave
+size: 35378828
