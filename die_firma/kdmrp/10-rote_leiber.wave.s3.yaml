@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: d694a62cd0ef10bc148fcf067ab6a5f2
+   sha512: 2461ca45b2d83de74792836b1829804bd9b16796199a25f27c8820f96d65670e5961d1ae5b9f1ced35780a55d83bd79a4180e460bdbf6a7b9899bb25306e7518
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: die_firma/kdmrp/10-rote_leiber.wave
+size: 41889164

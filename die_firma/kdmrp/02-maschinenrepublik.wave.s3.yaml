@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 1935fe6e0d6447bfaa0767d6564907f4
+   sha512: 0239db35246f2712da06947c8567814961e8ea30125b6af6c92487dcf8c37bd685a3877cac8c68caa928df5c462b5a05bdc48f27da3cebeb18a61ea7583ae4e9
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: die_firma/kdmrp/02-maschinenrepublik.wave
+size: 47023580

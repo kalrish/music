@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 51498c31ebfd5c353bbb4dd9b2fc07a7
+   sha512: ad09ffa61ba9975ac9c1e0c253bb96aad77f1ca7414c1954f8ad9a1b7c640cca5c88a9e86b07014e5989e3c94e4e90558e322a289846e5b3429a50832112abc7
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: die_firma/kdmrp/06-revolutionaere_und_verbrecher.wave
+size: 31481564
