@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: bd5093d4bf5f0ab7f28ae10d22d4dae3
+   sha512: 3f4dcc6e5014df4a8426fcb8c2f0ba00771ad25eeba6352c408647ab2be84d072bb943186a145e902478cd89a55f071db4bec4587e79d2886388664596994028
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/taverns/11-bad_juju_bar__grill.wave
+size: 27473756

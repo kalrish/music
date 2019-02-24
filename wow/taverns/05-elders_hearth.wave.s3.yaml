@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: cebbcfcab156f5011c09fc78a5774cce
+   sha512: e70049f4fc4603bbded779888208a777a4bb628a593ed33febcd07da882e8055e6949a325ecf098f5a9025c84ec28cd7ee6dda282f20dc09034c66c2779e0592
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/taverns/05-elders_hearth.wave
+size: 30994700

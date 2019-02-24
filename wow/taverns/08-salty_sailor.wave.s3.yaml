@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: dfd8c759c11fc8bbb49d7ae14802996d
+   sha512: 19d4d080a005b236a57cdd10022d99f00b40948bff5c8c47274ae5d4fb0401ab24aed3c09084dce1cf6748bce0cd3c40eff652a47039e40b7a9ce062d8834135
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/taverns/08-salty_sailor.wave
+size: 27106844
