@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: f6c494cab56a95ca6d3f0fe8be8b9ccd
+   sha512: e7b87cb6a6c47125c6dc6f168e3d9d41f70e8dd0ce7a5a3cbc014cfb75acfe07fdfc40dd743eb58d558977e52cd2efb0fffce518738fda2ee95bc95577870a34
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mosaic/16-brewfest.wave
+size: 31693244

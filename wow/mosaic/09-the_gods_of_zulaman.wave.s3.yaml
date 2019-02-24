@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: f22bf0feb28640caa859db65453e3cdf
+   sha512: a025a2834aff94ff348c3116c9663da8d4022275ebb3f14252558994496374680a30b22779039f00fc13e4c3f7aa6c4a656cb216e69a5ab8c359d6d192d55d5e
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mosaic/09-the_gods_of_zulaman.wave
+size: 39927596

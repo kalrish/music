@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 308fa97e1c4c40ea309c205e797672ec
+   sha512: 077261b2c2f8a03ce40f48ed14238c44c6da0f5b5d7eccb8018248267baff31964352e7fe79d0a751d038655a3f84c0d15011bc412a617a10949d16b481ff777
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mosaic/01-to_the_end_of_the_earth.wave
+size: 29193068

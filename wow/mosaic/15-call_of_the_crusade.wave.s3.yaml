@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 12c9aea6b4402524a6ee7718d0fd08b8
+   sha512: 2dc4ba7dbff57baf71155c6b1585676ae925e2cf60a702038e3af5793949b5c0661c78694468d3847f2ef0268bcf449723deb579e4240149c794749965629e15
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mosaic/15-call_of_the_crusade.wave
+size: 123127244

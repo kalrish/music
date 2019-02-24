@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 8377ce92de82bce6b0005e7cc3d28185
+   sha512: 9e5f5050e5794c7e37580afb5db8755b60245d80a8af21bee70d5677c5b0fc2f00cb6fcc5eadecc433d66d9280017e7d197637145fffc188189fee5d3f772507
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mosaic/13-signs_and_mysteries.wave
+size: 10849820
