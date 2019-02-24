@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 90374237692f1cbb6e866e481987601e
+   sha512: b7672f4b3e766b300a19891aad580a42218e948248b772352a02a390189cee73875bbce3ab2c64a658474c70fd6712748135f68478ecfcf95d695ad7dfb32a95
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/green_river/1/4-wrote_a_song_for_everyone.wave
+size: 169959386

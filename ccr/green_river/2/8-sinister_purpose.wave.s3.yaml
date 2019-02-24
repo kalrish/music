@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: a49c55f02a793cd49985f911495a5ba2
+   sha512: 2e827e8fe75d18eeef4cbd1343dd9a2b57807c2c259dd1874cd8df68ee5134604e00c84f613002089e0bc2a4a3608cc6a453bf515ebb08bbdf9156ab06a32ca0
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/green_river/2/8-sinister_purpose.wave
+size: 116990342

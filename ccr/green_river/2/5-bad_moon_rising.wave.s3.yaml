@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 28ac406da0529abac74a5b80b9aee2b4
+   sha512: 433af74ffc0d3ee9cf36a3af37179682d9aa7b4cfa4350df050799b6254226ac9b31ef3031bf3c28275852c3992f1ea11741f51addb5256a7a576c45c5475ef7
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/green_river/2/5-bad_moon_rising.wave
+size: 82305494
