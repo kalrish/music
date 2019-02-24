@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 90044612
+
+   checksums:
+      md5: dac7686333a8fa7426986c5becab55d7
+      sha512: 5fbaf72f3d55a48f2a3b20ae8679542a96bb23f6b8ca2260fc56a4fe8a241a44a831b04d8757e1fa0a265b93d031967d77ffbd5af8f5040ea54b90a2735d9849
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/green_river/1/1-green_river.wave

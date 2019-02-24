@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 126318074
+
+   checksums:
+      md5: dd51dda70a90964addff39511efc3b87
+      sha512: fdf463488f858a37c4572ca5df2edd502b3592fda8e13a601631314827d5736caa9fc3f59a82c7467d152baa9133010fd1907121a2e48ba226284b24eebf278c
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/green_river/1/3-tombstone_shadow.wave

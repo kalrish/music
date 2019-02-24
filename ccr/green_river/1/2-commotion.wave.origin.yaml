@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 94837436
+
+   checksums:
+      md5: 1a0adc9a2c477ac7370a96a3819e031e
+      sha512: 004d4ce6aa1f5a99a00e04f0aab805156e499bf23617db2299b4aa9ec86ff9e7b00d348085342b99ec910fb95479d7234ed87eb646d5882d5c1a7bf55293b7d9
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/green_river/1/2-commotion.wave

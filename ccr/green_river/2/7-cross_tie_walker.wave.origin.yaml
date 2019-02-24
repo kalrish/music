@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 115159448
+
+   checksums:
+      md5: 5e6b55a351b2a203be95804642486f6d
+      sha512: 902f7f54949920ead2f6036ba305e461330a64d9d373bc0a705a4eee5582338463332a2a6e4aa90e1909afe1f72c9fceb159604914f3a99c0ff046b7905ba7a2
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/green_river/2/7-cross_tie_walker.wave

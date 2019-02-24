@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 108115892
+
+   checksums:
+      md5: 7fe57622e673506dbc45983fcd1aa278
+      sha512: 16d59b67758faccbe57d5c39bf214449301ff21a464683b34870b03c39b0ef9472fcdd16d675a4d70f50c6f03776a9ef84af939da950a1234be19e71b8e8f4b5
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/green_river/2/9-the_night_is_the_right_time.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 110951786
+
+   checksums:
+      md5: 3af11f6711256a2100e103226c56640e
+      sha512: f93b4b5558c97211f30e722079a3495709b8f6947ef10595866dd27f290d795e22061bcc890ac4e904f71ae70749ca91b7bf454896848bcbfa48c6dbb481df05
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/green_river/2/6-lodi.wave
