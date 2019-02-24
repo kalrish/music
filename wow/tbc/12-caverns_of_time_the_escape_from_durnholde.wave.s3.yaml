@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 44f43fd9924dcf5f87bbd867c261464b
+   sha512: f35f9fa099d19d3e5c0ee1da05d48566316ab52378fd8d5bcfa56354a1fd73662f2f9fc29130ef3eed983092d654e21b2b166df0c9a70fef7c92a5586aa537c9
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/tbc/12-caverns_of_time_the_escape_from_durnholde.wave
+size: 47416364

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 8d94f4bcdef7bda3c217f25d07954f35
+   sha512: 67a4df9fe0d0c4f2cadab3750f57d20ee236dfb38394f45050f52f7170b0317ac787e847ba9d8e7a2775b08994b8f127d0360a1e052a2ab2d08f6c862e9b4fc1
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/tbc/03-the_sindorei.wave
+size: 70423628

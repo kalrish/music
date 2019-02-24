@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: ce174dcccc7f9ea996ff05e6bacb2b1e
+   sha512: 9cb825c1eb65540285063a40bb13bf46b01de0945556863b5ae8dac863a7b1ad934da57f00b2c8b092f70676b71e710f673d205382db1f7c2d88fa82eb0643d9
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/tbc/05-origins.wave
+size: 46414412

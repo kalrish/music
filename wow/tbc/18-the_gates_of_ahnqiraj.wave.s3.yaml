@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 78e098a82060c46c672f41bdf61dd16d
+   sha512: c2360ab7f8ab5459e63cb4f7c15d85d097884d1c0a5aa16c7b611f1fbb3f5417045ccc25fbd29bea7004544599d75f8624b1cf88eb61efcf38c3c53ef72d0949
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/tbc/18-the_gates_of_ahnqiraj.wave
+size: 42444236

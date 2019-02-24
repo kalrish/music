@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 499214faec0c09e44f392c394906a938
+   sha512: c7556219231dbd03fd6e4593adf14415e3ff52028cbd0897408ba734661a15c27ade948915162bc2272124ec6607658b4937a62615345cbd082be9c4913033dd
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/tbc/06-bloodmyst.wave
+size: 45245468
