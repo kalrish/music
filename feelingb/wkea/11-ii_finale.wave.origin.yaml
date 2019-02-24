@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 20904620
+
+   checksums:
+      md5: a05839259541a0a0ba013524e9b97bf8
+      sha512: 0a8e4e26f62395d7befb172b3e5f0290e3bcebdeef84ffab2cb892a93112b03847a335bf1559b9369abe3be6bf0ef32b1bc2cb56ba983b7d68d4c6b0c61ddabd
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: feelingb/wkea/11-ii_finale.wave

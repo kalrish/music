@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 27224444
+
+   checksums:
+      md5: 61efe4d18eb30fed89963fa267daf308
+      sha512: 5c67081724165e4481970454a94283ea0c6f2982e5968fd0702d5291f7da512f999a769d96ff69e92067f9aabbdefe4dd2ed952739efdf60f9609d02eea13ebf
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: feelingb/wkea/09-hopla_he.wave

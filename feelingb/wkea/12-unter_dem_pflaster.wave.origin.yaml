@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 29258924
+
+   checksums:
+      md5: 0a63e0ff39eba137e249d640573ff0fb
+      sha512: 3ed6e9f9c998c6ccf62eff7b332d68a197246f988ad150b2dbd0217dd8a4fc82581a4e040cc93f932d8778cc3f0d7c5ff1c4445ed7f4f3e7f7315d045c31bd30
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: feelingb/wkea/12-unter_dem_pflaster.wave

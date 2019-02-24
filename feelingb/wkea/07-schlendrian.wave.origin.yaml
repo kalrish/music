@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 31928444
+
+   checksums:
+      md5: 480d4d4442631247ebe26a965cee1c1b
+      sha512: dec9826c455e35e0e72414de7c2455c725a2993a6c6a9a769b13f8cbf44a61f73039762518cc8e752491fbc0d3fef51c3d7b54d3be4e82d94f8d73b5e527d9d3
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: feelingb/wkea/07-schlendrian.wave

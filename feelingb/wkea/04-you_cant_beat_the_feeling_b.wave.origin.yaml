@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 23084924
+
+   checksums:
+      md5: 880ce76bb07b8c389b5a4a5e68d8ef0b
+      sha512: b8e6dacab3071077ba911572359c168495a2e745f1421503d7d9ca166ca208b5744a10c20dec559dbb1c3828fc4c757ba69cac8b369b5f2f462fa68239cd3eea
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: feelingb/wkea/04-you_cant_beat_the_feeling_b.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 30458444
+
+   checksums:
+      md5: 8bfe55f7d29e0c8e072a65a0e057f216
+      sha512: 0661db0cdc4cfa08c5f1855ea1da32546d19033d5ecfee631250ec40e00f37e0fc33c1ca8529535e2610e9cbc68116bdca21bdff4e6aa08292a23ea9c6fc6477
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: feelingb/wkea/14-revolution_89.wave

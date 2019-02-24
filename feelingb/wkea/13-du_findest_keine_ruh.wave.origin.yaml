@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 31098188
+
+   checksums:
+      md5: 3075f06a316c99302791ea2047118a5d
+      sha512: 44008a39d58081a7cf7f0611965770c2b700344740bee06349431cdfe4728fab896b397c14e3ff13978f8a4e12ff39e2fe430d8360374d8498baf08ee671f6c4
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: feelingb/wkea/13-du_findest_keine_ruh.wave
