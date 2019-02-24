@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 756a3995e6f88f28cd24216df13ff98b
+   sha512: e5b6c3e4a4dea899bf1c0069f20d592d98f3fe8ef5279b9567cf2a159e332ba267f268d9aa06ef2b226f07bf0262f24de2220b2e17f5b64ccfa74dcc05a90f8a
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/cataclysm/01-the_shattering.wave
+size: 127857116

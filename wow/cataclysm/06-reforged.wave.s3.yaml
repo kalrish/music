@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: b5048ca84d536e688dd9f68361ab2f1f
+   sha512: d6b3d6d56b752d6ed1c0253413e7ea97066639bdb482a39d6995981b51adc76ebe88076440fd3adc64fd7c28fc96a05f71a8c0c42ce3642f31094d76099e312c
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/cataclysm/06-reforged.wave
+size: 91589276

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: c6c902b5aff5872511a10eeccc78166f
+   sha512: 3676d9161467b40bfecba3340dffe030c5e1db247cdadf59ceeaf142216d1021b73364b2d3dea05db73cf1f9688932c2db1757f115995dab28e616661dad442e
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/cataclysm/12-uldum.wave
+size: 56433932
