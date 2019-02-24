@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 53122b7e4f213266d4e83d04b4033b5b
+   sha512: 6bae47993b33757eff4e2d20064e30adf112e8d6b375875e5d7350da3275cdd8a5f885e4fb107914d27f0c8ea058aecfde68e37cd8284b4406583c07baa884ee
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/fotlk/04-crimson_hall.wave
+size: 47169404

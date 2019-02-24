@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: cf719d781e8d2f06e57922cd4fbd359b
+   sha512: 3d65304099278d4bc9315b961b7ddc5da486578a0bf3f3ed5812233a9fa428c094d02a595d9066849c2237bfd0c20fc01081522666c14cbb7b045cb1ee9ccc73
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/fotlk/06-the_chase.wave
+size: 44996156

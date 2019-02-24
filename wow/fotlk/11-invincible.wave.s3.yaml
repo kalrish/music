@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: f114f8a7f824f1a1d7bd009c9a513545
+   sha512: 0c78559308a19488cc0d458aea89e96095743933bbdcc62199f7848bd2398690cf993c9ba4f32a51cfc5248e6c8e1a9cee7131823f228967690abd06eff74538
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/fotlk/11-invincible.wave
+size: 34819052

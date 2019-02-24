@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 1aeb67238a46430713af55c2aa4f2d88
+   sha512: 6cb65647deb3f68586abaab95fa73ff8d232c5af7d5d6e46da824167852757adda29791397fa09eed2a65fd084d73850ca3b239af0c3c337c6a1171099a91015
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/fotlk/02-lights_hammer.wave
+size: 28177004
