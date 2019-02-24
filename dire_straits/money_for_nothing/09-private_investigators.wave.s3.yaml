@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 0398d5bcccc576c61c1c330afd2af7d1
+   sha512: 99122cc71d534e83206190071ddba92fc43b81d2204555fa44f44631c383cbbb77e66af28dc3d4b32f2a8b6f007d6eacc0a57e0e004ab59a06fb49199abe2d92
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: dire_straits/money_for_nothing/09-private_investigators.wave
+size: 61822364
