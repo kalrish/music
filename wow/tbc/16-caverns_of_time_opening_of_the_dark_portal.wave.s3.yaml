@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 98f88358ad9b41e03ba7a5592a2134a7
+   sha512: 01f766af6000f0c1c72fb7cd6933d77c8b1eaad89605ef2cf87428a10aa70c0542819036a48ccb5c81b400903639dd483e787ef339e185d6b81bcea2c689fa00
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/tbc/16-caverns_of_time_opening_of_the_dark_portal.wave
+size: 27861836

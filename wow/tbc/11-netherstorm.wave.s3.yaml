@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: a54289c4c1c4731a8c3907bb8f8fefe4
+   sha512: e8a65565d84b5bdc985d253d17e65bfcf8428c86e4e23e004599893690618f51d66827416f5a458885264acfffbe0644f84c5f866bbeb2e1f7e961d978ba3fb5
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/tbc/11-netherstorm.wave
+size: 45913436

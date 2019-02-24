@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 0b47ea20282970b69f467c53b125e005
+   sha512: 3e34cdffe4c8ff8c7947b67b75237348aaf853e2df3a6aad37b1d32ec0fab219a7ddb188d462a8dd345f3384db1304452b5f258bdd0f3ae96b76f3ed74579a12
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/tbc/07-wastelands.wave
+size: 44763308

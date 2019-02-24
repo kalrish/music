@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: e3d776d1b3773125ec7eb0fa00c07a56
+   sha512: db803257765aad4d82891c569724e4324ebd740f676c3278ac1d5aa583ce1ca3ad50c80daa617b6767dbe3ddb5380cfd2ca93c4ef4f28a51cacfc5ddbd47fc71
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/tbc/08-caverns_of_time_the_battle_of_mount_hyjal.wave
+size: 26532956

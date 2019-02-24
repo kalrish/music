@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 9830ee3deeb68f3836010e9556c47cb3
+   sha512: 3797e522cbfc9bceb8b8094878a47d36a5fc054e92cf72213613e509bd80b6933a01a27a380a285aed9c1fedcc517ea671a9cc90a4c43c74877c35579eb3eab2
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/tbc/13-outland_suite.wave
+size: 28946108
