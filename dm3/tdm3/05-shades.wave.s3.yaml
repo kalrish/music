@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: ccee7465648c7fef6fe6ba955389fbe7
+   sha512: f796a354d617d0ed6d33086c6fc8be5df10566892cf23b5e65f1642353c5e527f2819b38a8952f96b382c0c1c0b055444d780c1ff2eaec78ace131c6e7f8cfa3
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: dm3/tdm3/05-shades.wave
+size: 40995404

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: d53d3785aefdcbb10491f6d452b176b4
+   sha512: c53077a6c598ea60d3f7dc11576806b03bd768629c9e6277ad85e0024f4e14e364954b0bfd11eceffc0911904f824692299265aba2a82b7926b1e49ebe07e2a9
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: dm3/tdm3/14-oceans_cold.wave
+size: 25232300

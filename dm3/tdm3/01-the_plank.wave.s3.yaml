@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 29dd53295feed6a94e845c200ea3da7c
+   sha512: 008b5e51ade2324070d8a874d69a52d8b92917fa20790c7db60679284deaaa6872892b64c40fc8f38611039d8f196510a98d96d57f063acddcb3c2e81c5dc5d0
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: dm3/tdm3/01-the_plank.wave
+size: 25770908

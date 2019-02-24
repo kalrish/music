@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: a89cc95eff0451cca099588bb12abeef
+   sha512: 14ae4d78b49a5278b3d8fc389eda0c4bb1231f1cdafdc0e991fbb33c6c3898c7c2f4a331d6d7acc73e9cbef8e37e196fc18cb324759e9f0bb1425622d94bba3b
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: dm3/tdm3/11-nobodys_dirty_business.wave
+size: 34663820

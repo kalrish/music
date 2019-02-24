@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: f9dbceec970a8f69199e7e697077829d
+   sha512: d8010aee06255872b0124fc0f9fb17060b21a56c29403d4682fac16d2643ff88ae68e0767af6f7cf61c4a35bd8cdd45d8c7349a7d08be0452dc70e9045c8c236
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: dm3/tdm3/13-fun_has_just_begun.wave
+size: 30449036
