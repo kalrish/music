@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 126921020
+
+   checksums:
+      md5: 79128d9e7475f23ffb4a5613d49aa3fa
+      sha512: cf3db83a13dfd064002f1b6740ea50db2309cea9ed740b57b640ef38ca218a4ff1579c7f2fd193a1a5ece42e739481eaedc27e18a48fb6d8c5cc80b3d6accd1f
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dire_straits/money_for_nothing/10-telegraph_road_live_remix.wave

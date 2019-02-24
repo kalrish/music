@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 86558348
+
+   checksums:
+      md5: 62a65195f20766c750692f1abb42fdb8
+      sha512: c159727c2b03d35b96755dddd63c8833c49247337c57d98912ae387fb1451cd926d58936abf407dbdf6f8764495344875c5190b7f8e133dfef8248f0526c215f
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dire_straits/money_for_nothing/05-tunnel_of_love.wave

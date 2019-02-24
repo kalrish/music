@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 48321884
+
+   checksums:
+      md5: 0cdacca81b434a2e6bcd3ed310786d0e
+      sha512: 86a238f91db15cf8e7be8c73f89c4c79195ebd69337383c12d5beb73db8610db0e075684948a56204c6882f6539662e12f3cd4f262dc40be0cc5d16140572ddd
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dire_straits/money_for_nothing/03-portobello_belle.wave

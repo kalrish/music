@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 42524204
+
+   checksums:
+      md5: 49621c0eef74436901082adb70f98056
+      sha512: a8ecb529eaad5b8cd78d6a8986111086d8683688ee93d66323bb98131bfd16f12cd94d10da4dc416cbb06e1554ca894ef45c3ea6b4ee140d664e9bf08d38f16d
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dire_straits/money_for_nothing/02-down_to_the_waterline.wave

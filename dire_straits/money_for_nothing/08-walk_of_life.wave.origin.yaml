@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 43770764
+
+   checksums:
+      md5: 06473541eaf31384a9353b938ad66c72
+      sha512: d3b0ed90f4a4a600aad25e9d2be4b67b0a22921de6932ad3cc03f785a0a1dc5c6ffd0317340b571fb3dd868aa39a50a38ae9cc3000667697bc3b546d29504238
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dire_straits/money_for_nothing/08-walk_of_life.wave

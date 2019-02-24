@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 37227500
+
+   checksums:
+      md5: 47d678265d30cb351cd6c5b2e06ba9cc
+      sha512: 8aecd68b24fe6e8394420d61dd9f08bb707cd5e4387241ac706443c9aaae30e8140e3ad36e985a10dec031b8c70f33e5791d2b684e1c8ebf0771aa2b36f12f72
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dire_straits/money_for_nothing/04-twisting_by_the_pool.wave

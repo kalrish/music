@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 51092540
+
+   checksums:
+      md5: b55c0ea13e582f1e626a15f170b6ca81
+      sha512: f44d0d61e849d39782f04ebede98c55bb9536850e65869317d3cbed580bacc854908e05907ead9026d946610e91c22a02d7eb1e21407aff111245ef3b2604dd5
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dire_straits/money_for_nothing/12-brothers_in_arms.wave

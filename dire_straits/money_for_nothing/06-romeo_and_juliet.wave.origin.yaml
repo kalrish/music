@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 62833724
+
+   checksums:
+      md5: b0de4f2690e0d43fe6f112dbe4c4c171
+      sha512: 6bcde9d21b4f31c0d52f6d0caada16bff43217aca95d3f2766c888cd7b3cc25dc0bfb67948bd635eab2879d42942872dc81d406e7796c9efea0d7f289bd5553d
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dire_straits/money_for_nothing/06-romeo_and_juliet.wave

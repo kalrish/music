@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 43387388
+
+   checksums:
+      md5: dcda51ce6dba19d42996d65a20df3274
+      sha512: 0b43c3e2aa9bcbc7f8a9d2b3cbc3dbe6832fa1b8a74a4b7c9c9807a72505fc75d494c140e736d169ae731d7f8f76c2e61af265ae4636eb63c525dc3691511a21
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dire_straits/money_for_nothing/11-money_for_nothing.wave

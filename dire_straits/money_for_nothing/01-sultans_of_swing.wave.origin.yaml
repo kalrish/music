@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 61081484
+
+   checksums:
+      md5: 2debc08e2bbec93aca7de5d8373f9b29
+      sha512: 0c048b18a2de86c0f3f2bd6c79684370bb07718e624e42ea72db11089c4171c3d9e4fc72cf2f4bc337a7cc042c33abc2ac7eb675fe5f1b4f46fb594c4886be02
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dire_straits/money_for_nothing/01-sultans_of_swing.wave
