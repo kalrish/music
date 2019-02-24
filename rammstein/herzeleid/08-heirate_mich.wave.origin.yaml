@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 50217004
+
+   checksums:
+      md5: d556a400ab6742382eba88e0575f0316
+      sha512: 87444181e8c252d0ba3bbda08c1784e35b536ad2aef5a28c386c211f1a7f757fee9f4226e92ef96e487f0ee399b8e8c481ebb72b1ea54ea37f5be34665fe6f6a
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/herzeleid/08-heirate_mich.wave

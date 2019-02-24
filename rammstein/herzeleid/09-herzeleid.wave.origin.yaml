@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 39157804
+
+   checksums:
+      md5: 6ea5be2dc79825ca23762a74bf313a1d
+      sha512: dea359b88452b6f23da15b3a6c37bb8f68d3d60ea1d479185f5dda1e1c5dba1b8d16e56ea8390a117ed14ab6c458529612c6b3d079af183621e046429928ce21
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/herzeleid/09-herzeleid.wave

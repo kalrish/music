@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 55984172
+
+   checksums:
+      md5: ccd3953de422f882f92a948ec160009a
+      sha512: 7637902d01efa2439c80b51b83ac101e20496c5b6fa1e9da5a99fb829af544984af21bca0bdf28e386e621bc6952492c45fc420c494f5353590e091af0b5412a
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/herzeleid/01-wollt_ihr_das_bett_in_flammen_sehen.wave

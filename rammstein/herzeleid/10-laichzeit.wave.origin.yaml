@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 45891628
+
+   checksums:
+      md5: a66b5f362c6801e054137bffbc823bed
+      sha512: b06a206272440b6421e79f52903db9f88420a8ed8c6d06bc12d7be1ebb085ddb41570d8126a343c4484f44d5f7495969c20d267af98380b3012c4cf47489f289
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/herzeleid/10-laichzeit.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 51019820
+
+   checksums:
+      md5: 49db493b703b8fb8a3e8e1dc0f642120
+      sha512: 654cef9cfe83682913553b709842f602120e513afe3e8976e52a64bd72e1058a98596720c2b8c3a1d20e7506dd29e978e65fc0092919afabff7a0268e25bfdab
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: rammstein/herzeleid/06-du_riechst_so_gut.wave
