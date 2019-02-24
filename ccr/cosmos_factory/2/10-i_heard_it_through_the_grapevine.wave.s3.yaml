@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 0d80a23f2a513fdd9e5b135412e8f0f9
+   sha512: efeff45f3f43acc4de15f37aaf55b6bbaf176b92a1df2f101acfba9c524a15adebb1b900b54e69786a8c2eaf951fb8a1c8295224b6d6fef4ae1e9f38574c9451
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/cosmos_factory/2/10-i_heard_it_through_the_grapevine.wave
+size: 353054552

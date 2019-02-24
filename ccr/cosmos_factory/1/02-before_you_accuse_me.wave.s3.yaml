@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 7d3b19da938d977c5fdae4813ae9522d
+   sha512: 33b822b7519b86230bc2c99dafc87e1a81cbbf0927f59272e5eacc7c830ad25e140a051fbb5d5646eb81341403ae631754e4703a7b2429f8c5ed07a6848ddfa8
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/cosmos_factory/1/02-before_you_accuse_me.wave
+size: 109559048

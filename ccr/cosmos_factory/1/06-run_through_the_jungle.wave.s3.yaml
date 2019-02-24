@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: fd3a666e63c6873234bcf1db258d8b10
+   sha512: 81bc1b229397d7e5bd9f2b923d83910b488124dcaf8202b357e3e4cac4edb9b23a2c6d140c3d455f10b51d4ad125f40cf0cecc5fbcca7ede97cd8139c8fe42ff
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/cosmos_factory/1/06-run_through_the_jungle.wave
+size: 100859000
