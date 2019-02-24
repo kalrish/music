@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 4312cc019bfbfa4a791e4501f15902e2
+   sha512: 66a161110e63a5d34180a0c8d191dd0f641d9f68ab800cd0c83e025d87601ece6793106bdeb70399254bfd15db8d71751c20a7e5e50b32f4c2787aa6fc59a702
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: lindemann/skills_in_pills/10-praise_abort.wave
+size: 50248172

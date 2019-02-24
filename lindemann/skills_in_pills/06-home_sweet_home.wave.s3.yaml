@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 6aafa89998205bbdba520eb33ab4d142
+   sha512: d625d036160dbe96c84600ae3291bdfaa2588cc69e021edc20f2280dfc3e3df74eb69639f2fa6ca114194266ab0dbff3f446e29df3d09b30023e509479923c00
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: lindemann/skills_in_pills/06-home_sweet_home.wave
+size: 39715916

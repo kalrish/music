@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 73c69ff28a5c50472a2355c2ae239c05
+   sha512: 48e072bb804f556ffe707a08064ff05faa38ae78703c1210549137c3417a24f90d30d0caf04ac852da937d6a3fbb106c4cb1eb30a80bacd8ed277bd2d53e0b76
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: lindemann/skills_in_pills/05-children_of_the_sun.wave
+size: 38909180
