@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: af0025a5a708616ecfb39a2697634477
+   sha512: daace8be523830a14700c8eaed2859a588ad5e5b9b62b9694731fc7803b0ca16c9530251bde0dc8242a1fa18f29211c744d5b6bdd890dd3f09b85ed99ba349c7
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/roc/09-doomhammers_legacy.wave
+size: 55483724

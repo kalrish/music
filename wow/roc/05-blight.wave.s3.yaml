@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 479dc9aeb2d2beb8d247130bed934096
+   sha512: b6e850f5372aa6771a5a7d1990ea3f635d896f10a63f28ce1cec2ae62ec16a315e6b8522a33b4f345697014d1c55fac4e75d7d1f97cf4c604727ed0e1cafec0c
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/roc/05-blight.wave
+size: 53813804

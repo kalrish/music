@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 9ea9cf422541eb48635eb88d8b5bdf46
+   sha512: eab774d001903754e26548d308e5aa8740bced50b92b05baa1b54bd12e6af775f219369b3ab671ab7b12288c619b4fc37db4e30c742cf4d9e7ed78166b8f9563
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/roc/04-blackrock__roll.wave
+size: 47242316
