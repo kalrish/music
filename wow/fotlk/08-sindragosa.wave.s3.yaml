@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 052f7057285d557584b4ed9f060686f1
+   sha512: b8d4300eef803063066cbcade95dd7b9af6a1310536f8e19e731ff05982e433d0469ca742239d2cab2d9fbbe63678c023059de86be684877732ec5ab22e36c4d
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/fotlk/08-sindragosa.wave
+size: 25613324

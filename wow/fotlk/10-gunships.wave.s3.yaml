@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: a157f469cfc568067fdb69c5f61572e9
+   sha512: fb7092d31b46e636777c7242eb3696f5e6ea5decb26965d2bdb12954955557cb3e3dc9bee6e0eb2b75805d99c6326f871820d3774be59b45261ce7765f6e54e4
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/fotlk/10-gunships.wave
+size: 13074812

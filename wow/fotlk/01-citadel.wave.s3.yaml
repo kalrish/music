@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 758559d91278c4d5c1b3e06a4b6eab92
+   sha512: 70d6241385549543257c9a0c0ba28824809345299c11b0040b826f12232894ac273698d729cd9d6a5cc03cd246a93200787cd148e92553160e687a15959d58c5
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/fotlk/01-citadel.wave
+size: 36232604
