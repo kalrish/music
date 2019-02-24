@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 419540ce60be755a98761a44adcdc83f
+   sha512: 1f51aadb16e36f45a46afe854ed49003d802258eba8afbf5b5e403cf1ba61631ff1a3c1dfdbdab490dc87ca46167aaf7809a74a68e4e70a31d1f44a4f556f3ec
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: feelingb/wkea/01-ich_such_die_ddr.wave
+size: 35691644

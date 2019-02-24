@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 517a6591a0868c5a0dcc1416fe41f41a
+   sha512: 3b92c39835cdcbe78dc83b1e5f4b075c3ebbf9e4126b0efe51f736ab34e57f162fd89ec1e9b60723821685aa1f7bf15de2e5e8ce24df8d4d7445849fab485d0e
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: feelingb/wkea/03-dumdum_geschoss.wave
+size: 34303964

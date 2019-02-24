@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: aea1caa662c4bea1c11ce3990c8ad9b0
+   sha512: 4673d10ae074257b23adfb93595f7ec0b29ccb38452e3f7b537a0231a51f506c00c9acb554f936eadae4b941850e87c9ec9d7944d3f95c180aac3915ec3c729a
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: feelingb/wkea/08-soviel_was_ich_sah.wave
+size: 46165100

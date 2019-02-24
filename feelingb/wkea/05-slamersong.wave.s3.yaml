@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: ce2c6f54fb19ade36c62646607561a32
+   sha512: 3c01548bb55b6f21d24dfc5c24a4d611a8cb1cf053ca3b5bce6ab11ea3a49aa28a946b43f0d06a596b8bf8336461996ed3f7c786cbbd7e427960ccbc408b9028
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: feelingb/wkea/05-slamersong.wave
+size: 30964124
