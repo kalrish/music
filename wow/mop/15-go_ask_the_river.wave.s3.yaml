@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 20b5a04f4d3b4f029065443c6b416fb1
+   sha512: 0b6922adf038b5afab35de5bfbdd058911a066a37e94de47ee1d8d3f1005adec766fb28b7233a346cf1394aae40b783b10eae7e709248af421803eccfb29e2d8
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mop/15-go_ask_the_river.wave
+size: 34750844

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 6443ee621c5d6cd7caa790303ddf8a31
+   sha512: bf76cb6118ba6af409ddec47321e622a36fe70203e5bb682dce34a5c51e30717f452566d706b3042d374f2cafb73e3af2be8ac8289cb3f11682565f638094e06
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mop/20-serpent_riders.wave
+size: 26961020

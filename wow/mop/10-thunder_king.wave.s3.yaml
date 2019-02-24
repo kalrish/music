@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: be770f177ffca4510b6a67a2fc4195cd
+   sha512: d51e3bf2a3141e521c8db9211774181c1df3b07802d3cd67a20144740f4dc28dbd44ad6031835ef26161222f92dba5fdcb8a5e869149412417b5aeb0261e044e
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mop/10-thunder_king.wave
+size: 22750940
