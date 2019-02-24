@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 3ccc93c9f24a4a3c09d4031e99fc308e
+   sha512: 06d420b05ef72e0b6a6c151119d93f608e2a236cfe1c91378b25ac4ed1c2366c386bc98ea7f21cf6709a19c5d7b73b36a76389ea7c6c77baa0a6a6c35ce4f77e
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wotlk/16-rise_of_the_vrykul.wave
+size: 14488364

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: c43fe5ad38a2e7ee3a086f9c90af7764
+   sha512: 950a8ebe5c6171ca2d0b4dba94704bee9da6ed73349159c6f786badca5f54ac36535741883e32e68f4942575874ee3f5ac7ca446d2956d153781173b05c52612
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wotlk/18-totems_of_the_grizzlemaw.wave
+size: 59333948

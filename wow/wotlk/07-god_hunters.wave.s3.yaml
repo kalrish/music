@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: bdd74866a06eeef835ae0fed84e64004
+   sha512: 5cfb3cbfded837761375f05df4b917bb778e33a54cc78a175df918554a6a1f9da51d4142ce1d7b7403c12460e876235b1f5321ce129e662404a36df378602b12
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wotlk/07-god_hunters.wave
+size: 37768460

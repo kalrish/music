@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 9b64eb532b5e02ed98324890c2f077b2
+   sha512: c9ba8dc2db46b876d6ad5421d97dd3402dfdb1451b8cf3d2a10f55746f04517d984dace7d7064cd0b2fc61ae7a31236f500283d9cce602a5b30f9c6855a7d0dd
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wotlk/17-borean_tundra.wave
+size: 20841116
