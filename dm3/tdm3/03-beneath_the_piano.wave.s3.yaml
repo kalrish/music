@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 6dea612c5ca18584ed4c60686f75b64b
+   sha512: a3e61d8b6da5c9de74f461881c9db7b331b5b78d899bea5f7724934e980e44393f29dabf574e1b0f39915d8ac79a106ef060906b551b54258a5cba4642da1b6a
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: dm3/tdm3/03-beneath_the_piano.wave
+size: 27022172

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: e0a6b1d033d5f6590f0924e3189d57ee
+   sha512: be9c43820bb40b86434f0bf7a382a48ef244d40d088c1ff289367a895593aa347e98d863c7a52ce7007af5f88a43fb2558824c26662a23f1997e7bf961a25d7c
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: dm3/tdm3/06-old_number_seven.wave
+size: 35407052

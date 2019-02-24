@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: ba33ddb3c098daa41fe4ddc51101161b
+   sha512: cbaf8ecc166d857579468eebac633961361c0fb77a9e09da10b883a8057133c69c03688fab4becd54357b20c4c17abde655e2305b6bfa7c72085781541701a75
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: dm3/tdm3/07-chained_to_the_couch.wave
+size: 37370972

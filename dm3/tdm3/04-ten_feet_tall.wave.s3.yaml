@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 30ae3eb0c83a729ebe5b6061fa5ddd7d
+   sha512: 3f65d3938db6d998bae934a670e66e92ea42f0947f1e17514f5f5d34c35134e136d908a70a70bfd6069f7afee1b44c3fae2d1aeb9824ddf193f8b5eb84cd1249
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: dm3/tdm3/04-ten_feet_tall.wave
+size: 29423564
