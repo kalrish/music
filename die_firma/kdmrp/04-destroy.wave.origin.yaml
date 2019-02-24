@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 22877948
+
+   checksums:
+      md5: 4bd608c6a89f6c4ad906b0e3e1cfd6e0
+      sha512: e4a8fee041ba466241667a35887871abd96aa4b532fe0ce596a0e6bf0034464da6d5525dee8e926a872deaf323d622935fe274ab4c0adb4fab4e64c12debf6fc
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: die_firma/kdmrp/04-destroy.wave

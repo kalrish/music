@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 35980940
+
+   checksums:
+      md5: 47e64f828f95d887c0fb25f0f8399582
+      sha512: 6cc04a562d8585f9e899d347da6c211705391cdcea5458b0c77b52048c00c11699011f3ba8ff023ad4db821d2560ce34b8734794e085afed852e25106759fac5
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: die_firma/kdmrp/12-blues.wave

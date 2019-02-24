@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 53002364
+
+   checksums:
+      md5: 9a6ecfcded31da0e86244fd15ce2ec3f
+      sha512: b5624b58173a8fc94fcd450c6bd76d26572d2e15b306bad2ece6b81205b5ac43bf9877654b1f4aaecc56f770514f7be2ce4e788857e2b126405ef2fc13132451
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: die_firma/kdmrp/20-europa.wave

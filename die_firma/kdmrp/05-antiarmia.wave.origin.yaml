@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 33680684
+
+   checksums:
+      md5: 368f3bbdc15814e0db500a1b1e69c4b0
+      sha512: 730bd365114ba948ee6c2efb20d9575cf8b10723fe2cd803fe8a1b7d2998eb696e09559036f50505cba9f4c7883d027b6f4bcf4819cd4d02537da38e0d1b262e
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: die_firma/kdmrp/05-antiarmia.wave

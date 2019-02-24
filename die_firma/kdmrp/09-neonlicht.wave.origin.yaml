@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 41108300
+
+   checksums:
+      md5: be569e82dbbaa5fe2dd7dcd1aedb4a61
+      sha512: 9a134f569a118a3429c526bdb3e9b8ace15cbe6d4472dc96e09705914c6152ae64bdb67171c41bc1104f13de3d05d646b6ab39d0a9566fc428ede3463754b217
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: die_firma/kdmrp/09-neonlicht.wave

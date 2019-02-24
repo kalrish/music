@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 36314924
+
+   checksums:
+      md5: 06b72cfd296277ea2054ef62dcf2ded1
+      sha512: de0b93319533f44a0f20ec3d6f6297cbdb2e0cae9022717df0ee95d19225e1dd82ced8b2a3d6ab4a0c84fa3dbc3114b4d4b76df8aeb91a2ab251768bdec73ef5
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: die_firma/kdmrp/13-manitou.wave

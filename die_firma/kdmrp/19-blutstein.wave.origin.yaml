@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 56958428
+
+   checksums:
+      md5: c49aa15d4d13440188c9656600fc8a1d
+      sha512: 07edca5e1aa70b6b2581f472ccaf7d76252d5f087e1a5dfc1ba5021ea8aa5c3b2a8f0cf709045ae944cfdfb823b15a4a1605b117385141f30592fc0d692e0dc5
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: die_firma/kdmrp/19-blutstein.wave

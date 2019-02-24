@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 38330588
+
+   checksums:
+      md5: bdfab50b151d4b9d81132ed3d25887b3
+      sha512: 2030370decf495e803fd05289211586c981de4a2c40b99db0f336ab374762a79410e03ffd9d478572b5971558c6e16b61cae1d156966e08933269ed04869ce40
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: die_firma/kdmrp/08-wenn_der_morgen_naht.wave

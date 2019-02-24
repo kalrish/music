@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 25201724
+
+   checksums:
+      md5: 747b3e992ea96f55a1fbfed80e7442d7
+      sha512: 59a5bb4f221f3fdedec360d8d66805e3239db9b21f669f1a0c87c1bcc899f13a4c8d9000c61ced9ede6747b93f6bc2d0fba3e3e8c9a84c8d0980dc20e6c13f8e
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: die_firma/kdmrp/18-frau_mueller.wave

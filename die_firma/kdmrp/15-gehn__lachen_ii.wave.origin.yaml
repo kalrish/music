@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 16605164
+
+   checksums:
+      md5: cab516520b4915a496c0267bde9c9bba
+      sha512: fd363eac603970106db570b7517a9b90d3ea1c0ffc7c0cfc28dd8f96f2c6586b889be14803115e2cde4a12703b1aa1f1e233999f3704009a47e6006f7cd7c6d0
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: die_firma/kdmrp/15-gehn__lachen_ii.wave

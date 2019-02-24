@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 38721020
+
+   checksums:
+      md5: e533bfa602c3adac0532e40ac1dfc21d
+      sha512: 65121e5c6d2882e531d75ab84e7cd1a6839323bdb845f38f62b6d56232d396ea8d35ebd52aab346808892de843b03e81ff34dec4c004019133455059b788f507
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: die_firma/kdmrp/17-geboren_als_saenger.wave
