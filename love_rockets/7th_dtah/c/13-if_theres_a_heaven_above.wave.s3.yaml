@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 3aac09dd9a35db7f59386bbf62999277
+   sha512: e15b845c49600abc5b8c46fa992dc9c6d8175fc5bde129406db38bb21e85b63f2b807052cd4d217d9aa7c99877f440ed858dab0fb7858235e23b9d1981c65f28
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: love_rockets/7th_dtah/c/13-if_theres_a_heaven_above.wave
+size: 47007116

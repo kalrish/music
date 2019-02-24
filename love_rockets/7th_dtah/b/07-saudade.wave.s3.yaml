@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 7be0947f01a1181302bd53c13e0c6563
+   sha512: 23a13de3c3ffcf3846678bc5d95b0dd90bb8b7fed3f2f3179ad0119adbacff1c319e94ad61aae06dddddfa4dc7cf796d3a6072bd04af385588543d7824807e96
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: love_rockets/7th_dtah/b/07-saudade.wave
+size: 53056460
