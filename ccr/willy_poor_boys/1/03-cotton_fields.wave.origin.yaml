@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 92341772
+
+   checksums:
+      md5: 253d422dc7b6709324b8c555bda655e4
+      sha512: 76cbdb73228c69ec0553acf4f6b00c51008ce68a1435ede06d43aaececb05a26e69c414e4adbeb96e50773a74fe5aad2e608844096e6919301bb9c8e60df1e96
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/willy_poor_boys/1/03-cotton_fields.wave

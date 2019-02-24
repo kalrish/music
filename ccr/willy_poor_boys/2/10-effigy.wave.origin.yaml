@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 207269900
+
+   checksums:
+      md5: 1cc1690634d5a6a3d4c630db9756f800
+      sha512: ffde9f64bcf3f078d9c3797339521d8a709c395dfb1ebc550b8a3d186895a177956d642d78adaa3c9f8148b70afc167baad9759e56049a580f07241e7d0cc489
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/willy_poor_boys/2/10-effigy.wave

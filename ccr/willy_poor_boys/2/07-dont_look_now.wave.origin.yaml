@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 69720236
+
+   checksums:
+      md5: 68a234955778dc3256c94cc7d4b660c3
+      sha512: 3687bb9410038b82f9056534a2528f85043d4d63af737e8232fa00c77d4b884e01dde8a7de826c2a1302d96daa6ce74801cb8077818c72ff68f3c6c32183d4d5
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/willy_poor_boys/2/07-dont_look_now.wave

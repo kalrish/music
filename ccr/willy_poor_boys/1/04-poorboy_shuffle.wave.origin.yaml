@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 72937772
+
+   checksums:
+      md5: 4323643e64971d7d101e04d5d4a36700
+      sha512: dd7f29cf5c5833dab5d320067881f2410dc9aeb57440e34d9b34e636e2019e268dfc23109d9cbd978d11080490f7021e727d9419970cec2f0a7e19c9b8355313
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/willy_poor_boys/1/04-poorboy_shuffle.wave

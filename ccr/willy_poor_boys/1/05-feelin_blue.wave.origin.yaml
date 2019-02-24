@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 167452892
+
+   checksums:
+      md5: 1b1ef5b50a05a94e688538c3b9a3a537
+      sha512: 96c5928efd147452516af19b7013e7a702052e8f5dd8f1a3ed3bf678587eaa7071151c5cb3524059184920c6a3777e84cdffd386dff6dfb8c09b06294aacee30
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/willy_poor_boys/1/05-feelin_blue.wave
