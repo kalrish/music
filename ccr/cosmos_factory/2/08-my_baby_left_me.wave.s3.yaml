@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 2944f3f134e17d36d096c3ac68bf0127
+   sha512: d33359a95993bd0a354216e2aceb91c7d1803775b67f39562894c4e46a9c1ad7655e2da4ada8cf6d3147d936d8c7a28c3b0bdec6e47c2e4cb8c1620e856e8383
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/cosmos_factory/2/08-my_baby_left_me.wave
+size: 73622840

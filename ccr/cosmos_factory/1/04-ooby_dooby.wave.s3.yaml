@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 77a102e43172ca7f91810a47ac24363a
+   sha512: ba1f0af663874a43418d0f85d73f64379ce1c8db85034c29154320523650b84d1febe99edccb372ca0c8794f073c896173e94f23f0e0a0ef58434bfacd5333a4
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/cosmos_factory/1/04-ooby_dooby.wave
+size: 67328888

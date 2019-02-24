@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 262d457492fd6539e84f0fa06e7f747b
+   sha512: 79f7184ea0d0464fa39543e907f0ee7020287c476cd52a2964a931fcf4a786ed6c423bc88be463a44d068cd5148650f3e924402c2b37ca5840fac4584785d57e
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/cosmos_factory/2/09-wholl_stop_the_rain.wave
+size: 79041848

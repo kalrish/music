@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: db1e4bd338b1c8575952e61d2e0615f6
+   sha512: ab90b7d3116abc2243c493f328cf6bec224330f033adbf072b4caaaa80a66d785b165e821aca1a87a7423165c57081e93f0c119587f86a694a7f2ee297038911
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/cosmos_factory/1/01-ramble_tamble.wave
+size: 228777224

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 2fcbd0007cf74fe84f4140627f8d6602
+   sha512: 02610b6db05d7577902d525a1c3305b93e89ea3ab1d06d597ccf579d9b3b4fcbb1a2033f1efc385b46680646a99bc193d89b68ef1f49fb3a6f50600a0da2c788
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/cosmos_factory/2/11-long_as_i_can_see_the_light.wave
+size: 114822824
