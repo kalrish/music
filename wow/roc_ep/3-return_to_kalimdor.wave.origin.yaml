@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 44582204
+
+   checksums:
+      md5: 4b5397d583b0ef7e355df22e3ed46b53
+      sha512: a2b34a1a242fed8c634da5bfc3086057e2fa960e315500fff72859ee4d0ce8037e15256b1198ecc91303055ae3a22674073eb95e2349d46095ca27fd7526f6d6
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/roc_ep/3-return_to_kalimdor.wave

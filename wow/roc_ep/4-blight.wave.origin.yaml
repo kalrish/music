@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 53630348
+
+   checksums:
+      md5: 0b39281cdba12320ec167e573f065a55
+      sha512: f7aa0440b291958e7fff8ae3e1c1726d0a20e5f014270e4d53f5f5a2006854e7ef4d73a63d342b1867109d89b71563db647e5c3bed93f762f7267259adf7e9c3
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/roc_ep/4-blight.wave

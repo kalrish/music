@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 55471964
+
+   checksums:
+      md5: d7c907c893747aeef9a2fb347bb011b3
+      sha512: 88d08f2fce68a8a0501e1cf050a33c48eaebdb8c3f7a3442f176c75364a3c92cecea5acd78bdd9f1ff740111cad0411261c62ba17a9f60ca76050847e4c193c3
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/roc_ep/2-bloodlust.wave

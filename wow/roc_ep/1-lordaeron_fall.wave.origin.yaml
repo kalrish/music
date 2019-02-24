@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 52223852
+
+   checksums:
+      md5: cad4851ae11594e0ac1ee39f490b921a
+      sha512: 42a555527f41ea0f1b0026f449494492f1facfc749ef4bc0eaef1830433de964fc61eb8c68a6384a6ce2e692a1c8b3d6e79f6b4d5513bb343777594db2fc9eda
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/roc_ep/1-lordaeron_fall.wave
