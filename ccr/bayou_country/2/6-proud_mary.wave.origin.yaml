@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 98748620
+
+   checksums:
+      md5: e78e2cda1abedd2d1f17d63204f19cd8
+      sha512: 426861c02b0db774317d517a5d09b44f8969617ac501355f6dcf4d7d8f5b034dccf157c60e3af30198f2fcb62eee1b16893f2a843600293b6d8b1784b0d12aad
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/bayou_country/2/6-proud_mary.wave

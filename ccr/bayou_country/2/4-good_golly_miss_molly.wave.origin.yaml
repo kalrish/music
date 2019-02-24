@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 84523724
+
+   checksums:
+      md5: 2eb5e522e94c3032a89a8c586bd6ddb1
+      sha512: 18958b5ee6f0162f7d40178f3a816c4091159613582e3536138aeb5dbbb985d8e4ad7cd2d90f3d4d0df16edf38328db7015ed3d129c0ed1db6357131fcba0edf
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/bayou_country/2/4-good_golly_miss_molly.wave
