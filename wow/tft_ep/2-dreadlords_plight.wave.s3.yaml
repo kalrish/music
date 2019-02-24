@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: bab0b0c6f46320454f2bc4f8da4d851f
+   sha512: 1915fc96b4f2ea5f14c0da26fc6054e26fa0e8f62a97a2f8f379a2bbbe76eba28e620f406296ac5aff3788eb95e4a5ec58a5c9a010afb7752f83b0bf37e1cacd
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/tft_ep/2-dreadlords_plight.wave
+size: 47432828

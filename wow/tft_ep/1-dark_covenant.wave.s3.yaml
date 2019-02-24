@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: fbf0c983e0f01047d35151b9211f84ed
+   sha512: 93faba6e55013a946072a76cbc121c04e695ef19469d0e0dc1e50991659ad332661e8447e9509d11b61495d769475bc7eec53a9bcb74225911a84478098d69eb
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/tft_ep/1-dark_covenant.wave
+size: 42996956
