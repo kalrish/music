@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 22635692
+
+   checksums:
+      md5: bedda0b2266e21f186955c1769f8c514
+      sha512: c57ddffcec619ca976584fff0d739bb866790058f30d2749c66b60975a544db2820d034751d8c4f4bdc190eb14bfd78b67e256f9acc09654b7bcf0d161c2e10c
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/fotlk/09-stand_down.wave

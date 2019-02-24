@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 40134572
+
+   checksums:
+      md5: ae48cd9c1ecab0926db30183e16faa03
+      sha512: 3d0b7b9336b39500afcd2fdffdec3d325e9a08a4f2f0427c082224c71d3de200254033daa2b6bfe3781ec4d96bb69211b3a5816894e2f135ce678c38d8525ab0
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/fotlk/03-halls_of_reflection.wave

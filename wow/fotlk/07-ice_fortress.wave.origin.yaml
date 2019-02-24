@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 64028540
+
+   checksums:
+      md5: 105430b674658e341035dec4cf166026
+      sha512: c13d9590cc49b5a73c2f12feb4506d0f424ab62ec04ef227c4a0b794da9bcfc291d2604ad2a8091422341351c5f65a9201452df0101006da720c40cc80efea18
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/fotlk/07-ice_fortress.wave

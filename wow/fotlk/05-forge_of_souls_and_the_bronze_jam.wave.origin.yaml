@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 27104492
+
+   checksums:
+      md5: 11e6f3d692f6db6e0ab9f23ad0c645b4
+      sha512: decc3d5db3340c1f746e94dcbce3d5944e44c2e6aa95ab674f5942560383b22b395b41fd3d6f34b8311eae4ce9cb5cee799ea68b2891f167700584f62c8983ab
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/fotlk/05-forge_of_souls_and_the_bronze_jam.wave
