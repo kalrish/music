@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 52157996
+
+   checksums:
+      md5: 696c022df709dc9328c45c8f24745bd9
+      sha512: 775b33ed91ab49004981fe6f772f689557a970a0151ba9d943782db408b6edc50f65082014a845b35ba28a33c8982b68a93b5408b3f3c51e690726da8f832c29
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/tft_ep/3-return_of_the_ancients.wave

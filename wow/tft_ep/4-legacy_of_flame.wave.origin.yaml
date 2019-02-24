@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 41893868
+
+   checksums:
+      md5: 489342e405385baa3d28e30f9221c603
+      sha512: 3e9eba87957a84ef210cf268cb879498d8ed0d15842f3cbe7e179200401432109be8139c2051c50c701576049301ac00973b64bbebe0403218433d9ca5b2d9f5
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/tft_ep/4-legacy_of_flame.wave
