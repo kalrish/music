@@ -6,7 +6,7 @@ local tup_definerule = tup.definerule
 
 do
 	local commands = {
-		linux = function(position, basename)
+		linux = function(input, position, basename)
 			return string_format("( cat -- %s && echo TRACKNUMBER=%i ) > %s", input, position, output)
 		end,
 		win32 = function(input, position, output)
