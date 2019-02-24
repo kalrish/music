@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 696b8c33b30fd25ca2ca9138fe82e91c
+   sha512: e0e529003929d726b3b56e6a92bb6cd85127a9b1cdddc76710396f9d34674e2c8868d74bd531c93fcb6f5d506127f82369d2a91392fb60ffe1de4d24a18771e3
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/08-stormwind.wave
+size: 23973980

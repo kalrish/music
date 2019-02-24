@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: be90291ed0e667e915100662724c25a0
+   sha512: 0cb8e74803f3e74787d73a5d35f43a531edd9fb903d81de15256897dad3f203680beb4b4fd324a83681600b1cb3a3da71e568b5def89862c0620176b73761d69
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/04-song_of_elune.wave
+size: 23912828

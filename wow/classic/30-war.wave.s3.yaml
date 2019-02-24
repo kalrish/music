@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: f444837549fd6bab7f7e22995a177ebb
+   sha512: 85c6a24f317eea063381467b701ab4f0b1d86cfb03e3d3d8cb41a737c785ac5ef2fa85020d031422ee3ee49891b861e3d09f49ad4894fb18dd59ade477eb6123
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/30-war.wave
+size: 8627180

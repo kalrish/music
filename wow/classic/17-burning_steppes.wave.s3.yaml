@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: b366167fb23eaadcddca277477e1e7f0
+   sha512: 93f5161005c485faac8c563c5a052dde2f03a2fa673dda167a4c7b68157860bfd2c1072355cbdc2595ec95fbc2405c74f657e4399b9df5e9c7a9f38d52959833
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/17-burning_steppes.wave
+size: 26062556

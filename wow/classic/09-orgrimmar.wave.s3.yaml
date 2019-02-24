@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 235d6403529ab598d0a6668a5543dfcf
+   sha512: 4643359bff25b479adf8ccaeded13aa8f1bbbca942061f8233a2255e873e7baab15519f6d79d2e322d76c9fd2637028baf07ab50923a71bd3631d357e980de3d
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/09-orgrimmar.wave
+size: 23973980

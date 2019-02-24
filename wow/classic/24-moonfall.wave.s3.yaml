@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: e2b55de13676218d24529d6b1d190ffe
+   sha512: a8a91ed86068a79485683a97dcad1e708052820ba6080c4acff2fabf0a3d16a9d0097695bff47431bfe3bb1fa9ba7623f92d0b2430141aab92c9931e9d3dbd20
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/classic/24-moonfall.wave
+size: 8789468
