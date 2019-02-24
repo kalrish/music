@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 45083180
+
+   checksums:
+      md5: c2145052ff1dbefa3872bc0cdb58838b
+      sha512: 9be8d861a8377c4ca0e9bf4573f4702b8bbcdbdd8b59acda211947bb805644cf01bbc7bd63c002c60de66843653519a75defdd3dd1238f2240671ced75353fb3
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/tbc/14-the_tower_of_karazhan.wave

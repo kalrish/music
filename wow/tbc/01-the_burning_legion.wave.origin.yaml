@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 42100844
+
+   checksums:
+      md5: b654c5fe8400393be50f17825d7e6db4
+      sha512: 0abe74f62bb1236bc32e73bae31c4f55c8e1d2982cc6522a7256b83150b707abee18054183116f22225cf9d5568d0e493235ce8ed0844f30152e414ef62a0936
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/tbc/01-the_burning_legion.wave

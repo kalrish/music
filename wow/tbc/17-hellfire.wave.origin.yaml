@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 21024572
+
+   checksums:
+      md5: d23e244ca69bc857e9e3b6a08a94ce44
+      sha512: 6a27c4e6bf690109ede85ff7202e01b538666a5d2166ba5d6d1588274a0ce6ceba5354c8014daf132e8769643ee55a122639bc40d16b6358ff04fb2e114fced3
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/tbc/17-hellfire.wave

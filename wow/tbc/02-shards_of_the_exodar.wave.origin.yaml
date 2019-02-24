@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 49114508
+
+   checksums:
+      md5: 62e95e9ea268c9fc48ba37eade7fb63f
+      sha512: 23920e82ff11318ad6c7bca3d3fba729ebc54ef69f32156854eb266585c0fbc635c7cb704dda7430b0603cb6b2054f461c7a813203b718c4f0e2c41729bea408
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/tbc/02-shards_of_the_exodar.wave

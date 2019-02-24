@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 46367372
+
+   checksums:
+      md5: e2c72bb1d8ef1d65a49df6e6719e59e4
+      sha512: 141f00d5ab9874f6d03786bcc6f41d7f053e21621db1ac6c783c5bf910aa1a7c05f61c66651bb82a9dc88fcc20093e4b1babcd2ba5815e1cb9c0ca61fe75d7a2
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/tbc/19-shadow_of_the_necropolis.wave

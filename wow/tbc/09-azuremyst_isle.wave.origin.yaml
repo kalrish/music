@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 28628588
+
+   checksums:
+      md5: 88be70581103962a56758c74abd8bb88
+      sha512: 9918bc4ee9ed973f03a43776f75d1e2f0a16ef15dd0b02c3b7f3147506541b70d415b5dfb4a9409a21e2db7aeca6b9cb4946f1f8406a69f164d909e1b6fd4dcd
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/tbc/09-azuremyst_isle.wave

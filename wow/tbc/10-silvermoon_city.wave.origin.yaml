@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 23139020
+
+   checksums:
+      md5: 54ce36b1b4ab81b818e7ff401f16a6bd
+      sha512: 372d26c0f9b8f5bdca325af9110ba2c17dafc14bff1cb9c9bc1b66aa2a8941716d190d44abc79169b925eb8c5ee961c2984f436ff1b2706d9a6e24aa1019c32a
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/tbc/10-silvermoon_city.wave

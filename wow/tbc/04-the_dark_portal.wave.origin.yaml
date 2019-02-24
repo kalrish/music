@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 31312220
+
+   checksums:
+      md5: aaf6c9e7c5a53ec58bc865133a21ba54
+      sha512: a425ddb3a75d1f5d095814880a1289635fa89dcd00adcf843680d0bc43e8180839c2875ab4c6d35513ba44c68229ab374ea995d07efb4e1c6464c5fb91a83a88
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/tbc/04-the_dark_portal.wave

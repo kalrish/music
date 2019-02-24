@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 31229900
+
+   checksums:
+      md5: 6b1ae61cbd3b1ce0bced2e7da015b881
+      sha512: 885a4d33749db50c9c169c5de74589c21de1d7162d0c60c231f674d4b946f4b20d6da1c419c392c3d0a297cd15dee201e96ab68d6c6527204662573905ef8b5f
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/tbc/21-lament_of_the_highborne.wave

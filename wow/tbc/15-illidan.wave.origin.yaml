@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 33523100
+
+   checksums:
+      md5: b0ddf68370c0ddf7adcbd00223b3a00b
+      sha512: ac53695231b7f2e66729abb225824feb714ea5405c33c3cb5cd52b6d254f53a5dade3e47f7e09b3f8224949eaf784aea7c57d65ab72b29d62ed8db57d5c30a90
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/tbc/15-illidan.wave

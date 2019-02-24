@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 46960076
+
+   checksums:
+      md5: e31947e98483f98ba2f90bb7d0a56691
+      sha512: b9e4adecb3e83ddf9874b3506e2a217b1fa302638ed72023f5ec975c3313f0502698522f4667a36ff3fd52a00c19f4a970194d79de01a3fedf7a998147b5261b
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/tbc/20-taverns.wave
