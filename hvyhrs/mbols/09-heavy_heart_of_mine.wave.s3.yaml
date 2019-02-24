@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 9f9b842c62dfdb0eb7cfbbcbe261b389
+   sha512: 99699b5ae46dc1d9c049afdeb956e108881372795f2fcf79b2d15f0ce86c788760ef5bc119a84d7e799349cf1991c269c2ad625597584b8dd22e9075fd6dbf31
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: hvyhrs/mbols/09-heavy_heart_of_mine.wave
+size: 39920540

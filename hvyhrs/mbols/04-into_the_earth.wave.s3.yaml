@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: e2bf5ce29a68df395d1bbe0bf90034fd
+   sha512: 904aba434d1181c24f3248db79d59909b2e7c87e13fdbd9a3c3610113e1cadeb1e9fbd563646a65455376d06d4ed3c0f17d15ea1e77f1deab65282310bf8dfb5
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: hvyhrs/mbols/04-into_the_earth.wave
+size: 37911932

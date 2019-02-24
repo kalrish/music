@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 38edc8a7dcc8330b13914ec689f49825
+   sha512: 5d48cc98546429833fe713a69959ea953c50a60c873edee4feb7196b9d5c1ada1f3e597a7776c77c9a2fe98a1cdc380aecf36bb62cb1a2f1da7339f9c93863ad
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: hvyhrs/mbols/02-anyone_can_tell.wave
+size: 55881212

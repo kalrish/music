@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: c76354a56dec6c3f368094b305b93538
+   sha512: 380b585ca931108c825aa47d5dbaf5633fee9959aaa2d8085fcc126f07dab647c6efde8bcc324b8268f4daf67da649dd74f2a993c3de05be923627a28768d797
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: hvyhrs/mbols/11-in_darkness_he_came.wave
+size: 47879708

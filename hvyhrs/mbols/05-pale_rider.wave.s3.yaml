@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 736aa00cb40a7a82a060612e51d42289
+   sha512: 2c874a7e1d3373da6da58dccdebd9ab4ec075906a4ec27ded3bd1b54cdeb19853cd733117de6b08c1a10049cef4dd82e4cf06df648b9163f7949d4c3bdd3de48
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: hvyhrs/mbols/05-pale_rider.wave
+size: 39118508

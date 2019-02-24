@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 25ded0fb37169d970b4cea83de70d6a6
+   sha512: bdbe5127eecfe17b519e805faaf427fa3e73cbb518ac39baa5a378cfe37a537ff39753ad87242a33b04fd6836b398de755a32cebec4c5384b0a9c98689e4383a
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: hvyhrs/mbols/10-mexican_valley.wave
+size: 50036492
