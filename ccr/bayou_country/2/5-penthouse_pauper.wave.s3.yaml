@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: d1261bcc81c406e354b3406d24ab3f4f
+   sha512: 1167a99f1edc7238317be870535297c982f2a0e3941ddaf21b24143ba5ea8b0c8281d8d4565ad7b1827ddc06234f158b334a47395e1f4e7f63bffbec64704234
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/bayou_country/2/5-penthouse_pauper.wave
+size: 114589340

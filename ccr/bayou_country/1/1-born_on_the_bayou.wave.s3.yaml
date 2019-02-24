@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: e1c81e49b71bdde65f0cc1ff6f053caa
+   sha512: 042aab2c0f12b8479737f4d957a6e246aa698770e2f0188f12e20edbad05df4904347ea8745280d92d33a60cda428f527ddbaca09f80037132faa339f01e14d8
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/bayou_country/1/1-born_on_the_bayou.wave
+size: 165957020
