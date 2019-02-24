@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 54521756
+
+   checksums:
+      md5: 217355a2ddcaa165777b01b9551928d8
+      sha512: ea9dc5fbb9aa0edee92d4d3cd48056e75d0e7a7b0bc2f075c188f55e989cdd85ed35f2b3f73eea48d55b8401804e8449c7ffa7627acb4ab52e312d083be89cdf
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: love_rockets/7th_dtah/a/04-the_game.wave

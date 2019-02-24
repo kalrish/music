@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 80864156
+
+   checksums:
+      md5: 58bf28a49ce35d63ee749ebcc1209875
+      sha512: e2821eda986010ef834b8957bacd3d1f19635c54348098377ad7f7905b6b4e29b90f43a8efb1b7ceadfaa96565227c0316b5370c715fa48420d2bfb18c539942
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: love_rockets/7th_dtah/a/03-the_dog_end_of_a_day_gone_by.wave

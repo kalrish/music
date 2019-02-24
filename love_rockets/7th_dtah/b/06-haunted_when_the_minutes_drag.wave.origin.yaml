@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 85363532
+
+   checksums:
+      md5: a0e4e05e74c12ae6d2f73df13dffd46f
+      sha512: e7ea82ab604126da79710ef2c22548fdf590ef15d82288f482613d4451355c9465b3d67444f11c5c76bb80c515448ae8035a854e97d6f97c9d5aca4ab1969496
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: love_rockets/7th_dtah/b/06-haunted_when_the_minutes_drag.wave

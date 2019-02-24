@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 77620748
+
+   checksums:
+      md5: 25e4cdbdc7b6665f76cdeb36beb64d3c
+      sha512: 002ae1fc4f15a47fd4e4da444b589a9730dd2cf7de33f5fa00683d596aa8dd9f327dea0a389dd0fa23b15669cd78794186a7e14e88f0c4814575e8bfc1ce2978
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: love_rockets/7th_dtah/c/08-ball_of_confusion.wave

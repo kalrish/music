@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 51130172
+
+   checksums:
+      md5: d5d98e7e2ae2cc1d08e3759541c272e9
+      sha512: be2e696ebf14eaf35f8ff23d1b3e102a9d9e41a3cabba93c21c2bbffe2381edf981af127156ea0f1326d4a7b298649b2de8488f46cc11c84893f2cfb6fa9a05f
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: love_rockets/7th_dtah/c/11-god_and_mr_smith.wave
