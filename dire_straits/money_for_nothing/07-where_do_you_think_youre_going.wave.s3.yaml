@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: f8274e6ed4148fe00867a24b97a4189f
+   sha512: 8e99fb0868ee817aa16bcdc9059227e285ec3421072535209085333e3db4ae696f9bb35b9f74ac0b61951ef9ca89adfc5a81b0fd11c313b22a1d012616759d79
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: dire_straits/money_for_nothing/07-where_do_you_think_youre_going.wave
+size: 37138124
