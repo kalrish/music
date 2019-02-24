@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: d69243e7b903ab08dd72d722430e527c
+   sha512: ab7929375a5a03d4ecbfa621bac6ca5cad4271c5ef66f0a6636e2ce3b654b4f073e5babfb47f65dd36c93fbba45baca6b5add9b14c61331d4479640762f78d6f
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/willy_poor_boys/1/01-down_on_the_corner.wave
+size: 87127388

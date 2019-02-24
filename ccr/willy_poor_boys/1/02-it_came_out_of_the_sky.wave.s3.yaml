@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 8960907e13ad6e5bc6745952274440ab
+   sha512: 8ad3392c684ab6b54dd27567a1f15bb37e5fdfd630ab1362d46dfb695c6b316a4b05c7ec5c2cad8c251cdf13ada4b7c5b36bf9b2bfd28b773e939b69bcb86850
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/willy_poor_boys/1/02-it_came_out_of_the_sky.wave
+size: 93851756
