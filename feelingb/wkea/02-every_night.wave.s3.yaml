@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 7a5db4b94e1e60ec55e042139c668f3b
+   sha512: 49b1366b0f8a7b20931ef4966402eb7f9ebce699688f108c5b02fcd0a6a013c604047131f5c518506cc25f76a234639f8f547ad979bc17ae3f38d32b783674d8
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: feelingb/wkea/02-every_night.wave
+size: 28094684

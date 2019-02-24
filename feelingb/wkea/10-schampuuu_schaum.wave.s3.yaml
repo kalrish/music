@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 6e58490afb15e506b3651d0b33407481
+   sha512: 6d1e67e3fe3bc03dd66babbf03a04a0fed3a7c8b8c57a7004b6fe998cd54c7c44cefecea5ba19e112d59a212959343532e6a1336883bd2ed219d7ba10135157d
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: feelingb/wkea/10-schampuuu_schaum.wave
+size: 25653308

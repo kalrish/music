@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: a63a1d3a587c3bd35130e04fe07ff6ea
+   sha512: 0b443c106498c7ff5f0c7260c17b0aa94a83030c16601449c6f006b9f80742678e709c402a76026574b19eeabb000fb4702688babc93dc42e28e37a600750c48
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: feelingb/wkea/06-izrael.wave
+size: 45257228
