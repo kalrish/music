@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 65188076
+
+   checksums:
+      md5: 65b87846f4ee067dd59be7d27870d1a6
+      sha512: 9ae70c0a400e65123fed6c620ed0a10ed9cc897fdf0b3b6026dade678138f6d2e01e90c616aca7ff65a9b535be9547e9b8f068cf97475ef584bf994a6b5177d8
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/legion/14-demon_hunter.wave

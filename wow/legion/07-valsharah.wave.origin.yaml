@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 36554828
+
+   checksums:
+      md5: 2114c87951747a3f65b5a91439df45c8
+      sha512: 8b05eb80e1d0a59ca61328ca0e2290aae6202298f9da014c7a809dcc7b8a76fca1d3a5d46ff35c01f3f8bb430ef1d614e6436661478dda33321e9e5afc44fecc
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/legion/07-valsharah.wave

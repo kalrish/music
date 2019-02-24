@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 28249916
+
+   checksums:
+      md5: 9197ed5b09f5fbc4bb4d918daf850917
+      sha512: 810e86aa15908bc1e83b40bd2a767f5a3bdf47999f6ab6071ad157819ba2ccf2e42f6f86704cf9d0e777408da744fb4dfdc96d11fe6d09f5b66280b278f1a002
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/legion/15-azsuna.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 28741484
+
+   checksums:
+      md5: a0865e8fba95c110cfb59adc3fe2a795
+      sha512: f5975db0d37eacd0e4534356428a395df5a33f0737d067851ed3feccc06432aad880eec8aed42a563dbd9e08def4b0fd8cdd39178e83e612c4d202385d58b214
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/legion/13-suramar.wave

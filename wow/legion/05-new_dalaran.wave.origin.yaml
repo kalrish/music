@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 37526204
+
+   checksums:
+      md5: 6623846e6126dbb65e6ef8e36033df15
+      sha512: d35d38223687c737dbfa477ebb3fd7b857ba323205ea6d9f4bdd39fc7604dd8a1fd8776a7b352e78c9ac6545822b4b052159d61e1b5a53b3f348224efca41e1d
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/legion/05-new_dalaran.wave

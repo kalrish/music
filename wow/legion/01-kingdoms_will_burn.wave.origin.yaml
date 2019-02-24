@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 113288828
+
+   checksums:
+      md5: 690d344803742f9c2105afc2adb1f219
+      sha512: 0e17b0957564da130ea63f81adc72549037fc473cbb230a40bcaa08945a90b2e28f46461431b0300b4d18c8d8656beb0e5c79a850900df8d01e833bb4ef95513
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/legion/01-kingdoms_will_burn.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 37516796
+
+   checksums:
+      md5: c5db81195fe31cf9a724c9b9b11dedae
+      sha512: 041111e27bf8a4db45c40399bab58cbd3e7fd6517816a160f24766a6aba9f893f307e1416d4097bc680f228a8fc89f75974df78977eda47e153a1b08722a1abb
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/legion/12-artifacts.wave

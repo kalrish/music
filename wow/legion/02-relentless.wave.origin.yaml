@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 26655260
+
+   checksums:
+      md5: 2810fc6015a9e59daf5c37eed82d7f14
+      sha512: 50daf22fa1be0bdc716302f78959c07483cc16bfdc4543d0afa3ad475b613f4c6612ca2e8f5ad883924dda47779df0bc1ecbf1933ab0ee9187cdb6a0967507c1
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/legion/02-relentless.wave

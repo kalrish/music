@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 34212236
+
+   checksums:
+      md5: 2a20773a8b8c583b64a53a9e0a67aea4
+      sha512: 2a81848ee85e8e10a259151b536eb888ade20008e19b2118468d8dcbc3192b819e0a2c4dddbb2e869c19d1223d9225bb28d3b267f0faeb0fa2826bab54f457f9
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/legion/11-stormheim.wave
