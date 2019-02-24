@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 240029b159f80dd8d30ad519bea4266c
+   sha512: e9bb8be91bf663a2f296c77c8793dc7eaa48de64a78f2003ee7afc21f8c861380c02217c1a317e436ef62de84acd1d99027e0bd763364508f2fc28ba1a1b935c
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/cataclysm/16-dominion_of_the_stonemother.wave
+size: 39969932

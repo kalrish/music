@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 5e838d3aea731a808912f1b1b3986fe9
+   sha512: 38a6b16238eca6c3f8d68cfc44248bc175b61699f830896d14180c4be40e60dab70ac8d4a04b8bcc59b2ae406f8a225b2929169e6938bc1ad6115bbd3bdac026
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/cataclysm/11-thaurissans_reach.wave
+size: 26568236

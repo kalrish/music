@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 6d1a71f8bf2883819abf12c03efd3ca9
+   sha512: 5d11311d85a4326033c690c66dec1025458610a717c0fdf5cfe39aa7239c8b11f0164cd6a9cc84f5fe9517e486f7a16e1842bc2a4f1e1089a87fdd59a8359d2f
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/cataclysm/09-defenders_of_azeroth.wave
+size: 90890732
