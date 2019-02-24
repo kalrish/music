@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: bb3a527c6b9b4e149fbcbc23a3caa880
+   sha512: 3807b34a818db64826a630b5caf0d93ceb384ecfc694a282512cc3b35a338cc4ca66dbc61e2ddd12207926c6a18ed3c867e3f48cdeaef0df0a2936afa1d7e63a
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/legion/10-mire.wave
+size: 47552780

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: bff6c80053f227e1db9451e33289fd6f
+   sha512: b0ef7270286e0981735c8141076c641e4b6dac38996d269f9f4383bddfd35a904ab37e99a998636edea9e68e92439e4983aeb190058c71aaf93a95a5fcc66fd1
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/legion/08-passages.wave
+size: 28473356

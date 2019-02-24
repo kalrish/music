@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 96001fa959fbc16fe1f350bf315351bc
+   sha512: 4eae82c4b6e71e2455e854757f7b68554256e861fa3a58bc957a726c61ec28ab251e5677a50c877bd3685bda5b5125250151749506802b052d3c197db5d12272
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/legion/17-ley_lines.wave
+size: 33753596

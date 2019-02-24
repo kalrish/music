@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: e55432b9788233551af87a9dcfe78389
+   sha512: d2657f23c7eedaeeb05e91f6f0bcefa4bc4e007d1661725f1497f4ab6c844e89b1c3f0628cee1f57b3d68d22886a2aa6eb704e1f7e732b481d92da26895a79ed
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/legion/06-dark_titan.wave
+size: 46891868

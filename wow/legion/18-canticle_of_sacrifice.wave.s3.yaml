@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 8e4e3b197c419a170827d62d0ce32c5d
+   sha512: 042267d5bd339d4402043c4daad0f2db01e75c2df56c9edc2b58114e7593a6e3e446389b135b2d3c20f3c607f50ce2847dae090b4f594015b7b73563b162b3d0
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/legion/18-canticle_of_sacrifice.wave
+size: 44598668
