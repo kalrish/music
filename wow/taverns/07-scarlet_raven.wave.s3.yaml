@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 9833903a3f2a5eace199447f13c90ca8
+   sha512: bb31fa036006e90f06dface7bb4a1173ee5f234d7eb31ef7acfc0724be2ef857399365ee042bae3e561f02f25db4916c20a32abadb5535ef40fc4a1c65bc9f84
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/taverns/07-scarlet_raven.wave
+size: 29647004

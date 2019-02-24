@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 38c1dd96738966756ee9ad9a440ee7ff
+   sha512: 5d41f7eb81aa9955a50d66700924c9c4244c508d3f3e0be4bcc718d867f1f64be497ab787ed904bdc09682594542c9b85d8715a321cacd2644ebd6fb9a7a19d3
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/taverns/02-stonefire.wave
+size: 28268732

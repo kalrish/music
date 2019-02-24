@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 23db21a0f9faa9e6fca55227d951a44d
+   sha512: 875e92fd4b5c0bd315a045661e32bdff2144a7fb79b9a9f3b6cca906d58b21027dfad9b2dda7cbc580dbf9dc7174f41f948d8b3fa53d209f6a68f8361e6e5386
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/taverns/10-spirit_stone.wave
+size: 32958620

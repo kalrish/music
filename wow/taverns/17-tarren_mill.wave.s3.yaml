@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: b287e8b53b3677012d4800247eaba647
+   sha512: 2867cdcf8e348a58f35b085fa9a7dde96e87bcd85b416d1b9a6a282772d9491673e6dff0d42cad9d5be073b3813ee05c160e69a2f94b1c2c6dca6b8b9a7973ad
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/taverns/17-tarren_mill.wave
+size: 23407148
