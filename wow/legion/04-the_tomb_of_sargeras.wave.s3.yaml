@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 0cf14ca99ede9a2bc359f6af74fed7e0
+   sha512: 76f63c845845d05b18c0375adbbe718d05813415e0f0581553c5ddb0eedacf429932b79cb5760c5224defca77cde035191a00f69708bd48b38e511e372e3c5b9
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/legion/04-the_tomb_of_sargeras.wave
+size: 16518140

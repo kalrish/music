@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: c68023a668464dff7abccaffa2c65e59
+   sha512: a9d208b74066d88e0da0bc3249d6a7797c498c111f55a6900e76edc6232f6ab723ce3e68796b2c3fe61faeefa0e98a54b241bc1a2be42bc1107a17f11f63247a
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/legion/03-azeroths_last_hope.wave
+size: 39685340

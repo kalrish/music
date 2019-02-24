@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 2a72939a1f4f4bf599728463a07363de
+   sha512: 636c6e98d3a7ef96209f8b46eeb4410af3050bb184180c0f9bfaca5ddb513483b0f150a04eefbb4abf6e6d3ebeda51bf5ac802697222fc499e8e8234f081eee0
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/legion/16-a_world_divided.wave
+size: 56822012

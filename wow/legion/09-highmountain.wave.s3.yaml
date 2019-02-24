@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 80f5a7e5f5e349d20a707f6d70afa859
+   sha512: b8f0ef4b7e56e99413f26a1cd952d36af4a608efc7d8c112b1a67ae89e2b3559bff44d04fa7fc4338df92d3221c4ba80e091d854a570d0e8339b8a3fdd438359
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/legion/09-highmountain.wave
+size: 77390252
