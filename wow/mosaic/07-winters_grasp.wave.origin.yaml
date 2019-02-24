@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 25923788
+
+   checksums:
+      md5: 4742c3489d8690958cf4df26b6cdddb6
+      sha512: ca5682856292bb85f1b84d7d86370be74d0b39b4ac543e2f1be60bc01449036b4b91e4e2daf078cd126eced5abcd71c0cc81736ed359800f9f894921f5dd823b
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mosaic/07-winters_grasp.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 97911452
+
+   checksums:
+      md5: 45b12b77674684daeeff8c5a3b5035aa
+      sha512: 8a10cb34848fa0e8aee50bbb30043ef3fe7817f0012cace3c0c1ddfca391fdc8a16f3c45f855c05f30d5e5b924e8777587a52b1f8530377efbed982e1097741c
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mosaic/03-black_temple.wave

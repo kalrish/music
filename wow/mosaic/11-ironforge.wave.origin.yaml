@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 46903628
+
+   checksums:
+      md5: d44439580c796cbc1ad5712566cc79c3
+      sha512: a2cb556f026a967e80b45985bb4fef0defe9767593b180f77cb94d26d0c5adc0d3ca7a32a705655195669468e8e9b73f1d7d8b653fa95b29c4231cd3ef620225
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mosaic/11-ironforge.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 84495644
+
+   checksums:
+      md5: a05f682badbd275b4f77478cf0318761
+      sha512: 717f8fd8f85f2d9ad1a16410bb6da467031feca334678212d3cfc0ac5c9af78eac6334034a0d9adefbd4cbf19c599e85bf4698b20314b6124e9419b9da44f099
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mosaic/05-fury_of_the_sunwell.wave

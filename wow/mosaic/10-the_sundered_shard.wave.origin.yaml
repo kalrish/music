@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 47566892
+
+   checksums:
+      md5: 61f25c78d528fcce7cc9c254e0904191
+      sha512: 93662322e86fff3af83c3e90b786681087bae9d4cd2aebd74b1c410e718546f67f9c15ea804c75a2af202b7888b03ba8a1367b801255a7a00dc15faef92bbfca
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mosaic/10-the_sundered_shard.wave

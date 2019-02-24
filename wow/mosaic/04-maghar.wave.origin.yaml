@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 30672476
+
+   checksums:
+      md5: 07b2c2997620739832031dba4a21491f
+      sha512: b828874a805a6744844d61c10fabc18255a50efb1e4ef7fd79813597d1a56ad5fbfb9c64695b5b04892f825c0b61963990b4396488faa03ed8bdfef53b6dcc0e
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mosaic/04-maghar.wave
