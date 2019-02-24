@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 19747436
+
+   checksums:
+      md5: 63edc2e9548022434e784bcae206b381
+      sha512: bca5f42116655358a285b9a32f407102ed3e06d9c329e035da78987986d4e1224fbe2969feff3991127cf7d7cded55b86f5b41e03a1563c58c9e715b7418fc57
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wotlk/05-crystalsong.wave

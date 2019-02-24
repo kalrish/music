@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 36340796
+
+   checksums:
+      md5: 39a81c6fbbc01e08b4b96a99b090df6b
+      sha512: 0d5d618e4a92a24023caac07c3a4bc7f17048c689178548ead947a00b083e0e60232d65b12d45e0cbb8d42f40d4daeb0e582291671c9f1b10a65a81b67bdcad4
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wotlk/06-dalaran.wave

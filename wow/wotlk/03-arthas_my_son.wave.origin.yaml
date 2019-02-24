@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 33934700
+
+   checksums:
+      md5: 183b27bc3f1ef7fbb6cdaa1e8d5a3cfc
+      sha512: 1b0a50b35f7ec2702eff3432db0d72b71718f585e09801592eed049fee49096d7ab0da2f78cc34650c0ea28af76ac0b6d704bfc1ba321747b6f3b95a57a66dc8
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wotlk/03-arthas_my_son.wave

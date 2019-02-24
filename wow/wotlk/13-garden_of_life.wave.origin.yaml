@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 36846476
+
+   checksums:
+      md5: 2621d381cb08640f0d411494ee03173b
+      sha512: 3d9a13e3fe342e0afee4096a05993f5658c4006cd05c19bf2f2a2d4fdf46a8fe23af0c254d76dcab7fa6907a6e79bdf38dde4c54fe6a3e7c5ccecde9ef60402b
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wotlk/13-garden_of_life.wave

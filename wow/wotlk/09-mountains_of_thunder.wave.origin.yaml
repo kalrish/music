@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 62730236
+
+   checksums:
+      md5: 54302616c083cfcb4da022562892c498
+      sha512: 36a5b7e77fa997a053530091932fa64927994ed9bc333ee8f7a774035cde15c97413953a5104b0af55f8f422c1d6168da8276210a322736254ffc4d934961b9a
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wotlk/09-mountains_of_thunder.wave

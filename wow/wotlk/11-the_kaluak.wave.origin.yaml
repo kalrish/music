@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 25380476
+
+   checksums:
+      md5: f58efbbe53ad937b5f41352b47875dfd
+      sha512: bf04b0a2604d80a9c3fdcc4b1f363b08894f5838beb7af8b10e1c9275312afdbe782d4142dbfce23a3867482eb896c7f5849fbab1daac5c042f42290772e2cee
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wotlk/11-the_kaluak.wave

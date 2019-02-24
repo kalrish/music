@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 76823420
+
+   checksums:
+      md5: ef2b6f0f309d5aa53d060f374f72e833
+      sha512: ca477ba7f80facd43e0dd61174f8be221649005df76366196b0cbfdbf1d2b3e5d3f11db9c8765f8935fcf220591ec113f6e100d2c7298bb3770611f436955999
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wotlk/04-path_of_tears.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 39252572
+
+   checksums:
+      md5: 19c57888e491178fe4bbcf4860b36ac6
+      sha512: e4b234b720983ce295c8e65b3cf57b00ce682232a72e513d5f8b761e48d0c8720d285212ba6de886ddb30f75f00ecdd8b56a7a53e01a6867c5ea776d388201aa
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wotlk/14-the_culling.wave

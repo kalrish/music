@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 30989996
+
+   checksums:
+      md5: be75d634b5173c31fa6691d9e2b41e16
+      sha512: 20b13bc1bfd2665b082c185b2b7509160d879cb81a0f0b32c1642982c187fc7e15ce5fa52ecffd92c2ae76628ea41a4be3a5efb14b5dfb002919306fed1c885b
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wotlk/20-angrathars_shadow.wave

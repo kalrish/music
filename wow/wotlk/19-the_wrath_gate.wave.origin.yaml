@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 41134172
+
+   checksums:
+      md5: 921e45f2632a158382ee3244995daa56
+      sha512: 62c77c42196aad8b660d712d8f60160550c8dce5ec46759ba0fdc53a904c65e8629870ffd313c2e179ea45e59181ceafa1f608196cd79f3eacc79ec7856d917b
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wotlk/19-the_wrath_gate.wave

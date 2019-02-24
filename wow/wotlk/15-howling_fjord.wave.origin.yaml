@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 31596812
+
+   checksums:
+      md5: f0135474160ab9d9388d4fb743961e37
+      sha512: ee1bd5345ec1807432faa61d47ebf2462f69ae9a4ed68cd0290bd67869a7b763890f64ce1be7f3fd2f97549fd10c8efc4f1daa4e8a57144ed1c829bec42a03ce
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wotlk/15-howling_fjord.wave

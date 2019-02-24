@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 20603564
+
+   checksums:
+      md5: 07c2eb1745e9cb83540c0b95e44ea362
+      sha512: e631f3f6485f96df2d712dc898e0891336ee8838537ed692c763ac25c93f44da49beeabecccbabce98b9847fcbc1125b226cd3349a44e514a43c2555f8f7d06d
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wotlk/12-the_eye_of_eternity.wave

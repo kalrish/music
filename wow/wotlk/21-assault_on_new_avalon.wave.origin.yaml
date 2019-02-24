@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 23943404
+
+   checksums:
+      md5: 6cff90882be59c0665fd2f9ba30c479e
+      sha512: 3b1d4006557f549e6f3f3411073322f67d03dbadad807970181493132d29d9a98e0c6b2aed233c2d882685590bd89b0fb5760c453bc7c1276c37999790936b26
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wotlk/21-assault_on_new_avalon.wave
