@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 464ad6eb5d043be6fcb889b242aca2b6
+   sha512: 11374880ec84af0f21ff173415a72bc84b3354e5c3f3b459042ee0f510edbbe0db18e0ce020b6dc77e7ad6d4360865eb725ee0e7ff4ef93b1cf3989a2335813a
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: love_rockets/7th_dtah/a/02-a_private_future.wave
+size: 54093692

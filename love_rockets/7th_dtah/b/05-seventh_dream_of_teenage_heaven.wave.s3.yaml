@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 7085113f1b71f49de96164668b269feb
+   sha512: 84a7ea32d9f36ea246035e7c61390c042ae9694d318532f207b45894cfa9b5c450f9b4545b1dba0fee2fdb9d8787ff8b09f73502e1eb39e06abd3273e8377ce0
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: love_rockets/7th_dtah/b/05-seventh_dream_of_teenage_heaven.wave
+size: 70108460

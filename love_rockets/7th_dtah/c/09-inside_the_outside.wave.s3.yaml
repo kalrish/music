@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 0e75521b20aaf12e4513b532fdf8ff69
+   sha512: bafaa09e315d2b090fcc65fe549645ff8de073765cf91ac0166969d18dfea82e35ce22b9b6d3273795725dca4d17783b933b2fd76c29180e2eeec5372ca08d51
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: love_rockets/7th_dtah/c/09-inside_the_outside.wave
+size: 46369724
