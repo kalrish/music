@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 30213836
+
+   checksums:
+      md5: bd7af17125474b7a4e18d604bb3673da
+      sha512: 6e391db13cba82deea529f7a2d1566d48c1bf00d954a3c619a2475f05a1af0f2335983919ee570dc2aff12e7213421013922b020aaad91f0656b5db66d34848c
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dm3/tdm3/09-the_bullet.wave

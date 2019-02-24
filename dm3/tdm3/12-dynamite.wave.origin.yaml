@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 39819404
+
+   checksums:
+      md5: 022e89150582bb0e1c517d66898f8ff4
+      sha512: 1528cec70ae6b554045b4e899bb2ec6757b8e51fd1ac7ac1dcc6ddff86bc2be06942f9e88496c2009ddd10b7d370c0f6329815618e794245af8dd3af4ba1ae00
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dm3/tdm3/12-dynamite.wave

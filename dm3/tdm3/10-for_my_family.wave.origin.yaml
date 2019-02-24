@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 35955068
+
+   checksums:
+      md5: 32d4e80a2aabb5e04e6f755560e53d75
+      sha512: 3b2949ab42b1d37d742c14184222dcf54fa22822450955cb42b755fa2213e096bff43a0e699e2e6b0a770ba95c0bbd817f339de7ac33dc89125c4e80b70bd031
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dm3/tdm3/10-for_my_family.wave

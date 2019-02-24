@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 29475308
+
+   checksums:
+      md5: 8348727f03d7deeee8301aa35ac166a2
+      sha512: 13764427fb6f041be2935af22f4264677d27218ccedbe436cf1f34c6f59d3bc035d5d06ca1bce3b0700d5c21e7ee8375b3e038cc84929e942e7651738302e78c
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dm3/tdm3/08-to_the_hilt.wave

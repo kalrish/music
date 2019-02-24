@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 36171452
+
+   checksums:
+      md5: c532b75133c86121687afa15559e93a1
+      sha512: af10b08ab1829b1bb5cfef0b765111e1203bd5a916da6ee585bb589b28283d1538a813a791a041f7be7e6b84657487a7f4c75f097ccf0f41e6619f0dcfefc450
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: dm3/tdm3/02-graveyard.wave
