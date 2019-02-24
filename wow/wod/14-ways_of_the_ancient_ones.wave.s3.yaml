@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: d9c10e3d262b2a4e6aad5c79dab29f21
+   sha512: d4f38c04e57962c8af468c6cf91eebaa2deeb9ce6afe5afb56ff6ae736f3e09c72b0321962276abf0308fe15898853770b8cbfec1bbbe53ea920bf01bad81b91
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wod/14-ways_of_the_ancient_ones.wave
+size: 60103052

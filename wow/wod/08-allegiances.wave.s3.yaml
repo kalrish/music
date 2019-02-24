@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 36bbaf58ae79058297756b3420b504ec
+   sha512: b08a59a4bcff0d671b0ad2dcfa08ccefab62bbd2364638c7e81439f887edbf14a8c494d544352e26a23a51527d32d996c15afe4306bcfbbfa4bd8fc88d5c6dc8
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wod/08-allegiances.wave
+size: 57066620

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: cc68c27e66aa222c31a6aac2f2b57171
+   sha512: fafe719f319cfed98692234309fe9ad322d95bb9e2228a14aa076c597f7d9bf9d63dcf2e691b21dc67a56815813571df2f2eca1a2f20df9ff7e7c30153fd8dc6
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wod/02-the_homeworld_beckons.wave
+size: 34254572

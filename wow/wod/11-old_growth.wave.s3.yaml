@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 1c184f829e2bc6f256bf305012f02cbf
+   sha512: 747d83e446b7ac30667e2686c4fe421b0177def84494e23b210602c773759b5459df298f4910ebc5b61739700b54023fd35d0f4f742411a0ead721f4d3684bb4
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wod/11-old_growth.wave
+size: 48975740
