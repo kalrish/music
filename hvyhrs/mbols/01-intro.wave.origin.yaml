@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 14598908
+
+   checksums:
+      md5: 5bd5a4145f55496b4a95e89ff09876d5
+      sha512: 46097c032efbc2db3a44402ebd7c5c694eb24bfced1dc28b84559cbd65adb7316b250d855a8b0bdc6351169ce6c68765b17064cc6838182bf9f3bf3609f2013a
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: hvyhrs/mbols/01-intro.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 34104044
+
+   checksums:
+      md5: 282c1afeaeaa719fefec61093ee7d096
+      sha512: 92cdd9bc9a513622191370a90379772f213927b0177f0cac39796836faf9e0032453ab3912f9aaf8e54636ecb0b2ce29ce20258e45bc7532b83420789fcfd773
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: hvyhrs/mbols/03-copper_n_gold.wave

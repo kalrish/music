@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 41653964
+
+   checksums:
+      md5: 44f5690fdd74fddaef2cd6e4f6b855b8
+      sha512: e17d07737961699aae6e0529510e446a230088c08fefa1bccf5755e8de0ebee8c2ecf191cb239a66d956dfe1b703762ef6e8a87ad8ff201b88923cb59464a30a
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: hvyhrs/mbols/08-hell_awaits.wave

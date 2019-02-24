@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 41265884
+
+   checksums:
+      md5: 1ceb9b901f7886fb650d4b37f7a16294
+      sha512: 215c9c1f11c3cb812bcfd621b8432c2974e06c42006c5dd6342fbece1609683c07a31a61819802a013caa039c7afee0d4a258b80f09275a59cfc5bedbf145842
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: hvyhrs/mbols/06-thirty_year_night.wave
