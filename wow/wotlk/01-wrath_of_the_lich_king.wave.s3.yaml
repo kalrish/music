@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 47e996edb964674a8199161ef539aa5f
+   sha512: 58e8d11a1d0065ee802443b2b4b6743617c0868c7d7e864db11c2ab8679974c6146f0ea69cf4d778d3e95b426ba01e286b947a2862e68d3806b87dc5dc4f417b
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wotlk/01-wrath_of_the_lich_king.wave
+size: 94665692

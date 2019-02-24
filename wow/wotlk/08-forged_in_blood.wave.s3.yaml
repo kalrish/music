@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 16a82f9d4e33e8cc72a3d1de790f942a
+   sha512: 2f46075393d21ef5f712958ad8178a7c15bc6d5205fb48ed6bae522b84d14947ba8132ac6dc859bd8ca41424ba9ab06c8aef1464ac8808fb24eafc2692592d88
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wotlk/08-forged_in_blood.wave
+size: 58992908

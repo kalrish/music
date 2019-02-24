@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 4e35c1c150528fd9f46ca821f765c7a0
+   sha512: 5ec1989ace599e7770a919694198014d78859e713a127459a5c98d5bcd54e51b727be6220a53baa89c420930534b538b79c9f44d05c26e9064e5047085b5cecb
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wotlk/02-dragons_rest.wave
+size: 33080924
