@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: a4200fc94c24d9fd8bd3eda99a2e58a1
+   sha512: 00f78a214c5223fc0332e7d09201b1fa7601133f68cb32d189338cc50fc93537963f43380ba95d11c476c0c87b655ef53904cece650f5cfffa97652ef6ba9ab5
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: die_firma/kdmrp/03-faschist.wave
+size: 40842524

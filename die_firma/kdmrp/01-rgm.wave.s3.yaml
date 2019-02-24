@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: d4533598d36d7b6195af5e4a1df18f93
+   sha512: d8f5e35bde4211e3ce44df69f28e2c71a5ed2ce5c0ca65a6c7fd729ecaf8845c44d9594c73462d41e00fd7368d568df17c25100ace2cbb2077c329173d2d6346
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: die_firma/kdmrp/01-rgm.wave
+size: 55676588

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 777537befef29a29c989a779224fff28
+   sha512: 5994d0b0685b046aadde44a451c301d9140b7e3a525f3c96598756dd4edde5351f6bb08883ee0153b3401225d0d0eb55096347e0c0c07b7dc37779b42315d24b
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: die_firma/kdmrp/07-alte_helden.wave
+size: 42884060

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 6ce0b3d08f66dd5a06b3b97ab38e719f
+   sha512: a24879d5dec9fee6c4fdc1169ef6c029d8077d7fda62ef92a3ee4bdb6657ef1b4c7032c5956eade36f99ed6601b3f547e224e7ac1dd87c5b1382cba5ce101e28
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: die_firma/kdmrp/14-hubertus_von_ardenne.wave
+size: 13535804

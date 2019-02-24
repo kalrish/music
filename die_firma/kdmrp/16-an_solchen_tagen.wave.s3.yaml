@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 8a4e2d02501684cdd4298bdaea88add2
+   sha512: f041be816c6d7d151e6062d82a9ad0cd4f6ec5d7c462701d039bf06d230059cf44b4f80d7a6bddf96d2be210f2c36a553c284a534552f73cfdcb9881a3fdba5e
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: die_firma/kdmrp/16-an_solchen_tagen.wave
+size: 119768588

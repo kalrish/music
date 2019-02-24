@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: f5b80a7572d00a35077a8e82a0db5010
+   sha512: 84c03361b373df57294f210c42e66031a186e9543a15bcbab17dede5bd7f7b1bc4c5807e4277d4cee6e0fcc9fd5f7645d6e4d5cb50c125ea53ee75ab89f657a3
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: die_firma/kdmrp/11-vaeter_und_soehne.wave
+size: 38601068
