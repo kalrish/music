@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 32459996
+
+   checksums:
+      md5: a9110aed78cb077738da04321baa4f76
+      sha512: 200fe4fe62822b6626488d7e80c741b4e2dec59b41781f235384e352e143256bbaa5a7eddf5b5444736c470740e02056fcfce8e19908a05ec8b8b0a7e97ee261
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/cataclysm/07-restoring_the_balance.wave

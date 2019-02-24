@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 42844076
+
+   checksums:
+      md5: 708a7611349e8df6210df4106249495b
+      sha512: 85e78e8133dddc1acd1f4dc6381f59fa74843a9b9f27bc4583a98103313307e80c5fa86f4dcc6c9d8d562a2557ef096fc013a638c3ab8da611cfbde1d716189f
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/cataclysm/05-castaways.wave

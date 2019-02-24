@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 24006908
+
+   checksums:
+      md5: 8dfae344c4a5ed34d2791690087104ec
+      sha512: a311c5f59c7453b3eb461ed0dcf812f1bc5f6fcb45a61cd875440e143fae6c49cf44022fa94c40c3d02c4ac36913412a557036c9a77fb1b4cc36610c023b74e8
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/cataclysm/02-xaxas.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 29298908
+
+   checksums:
+      md5: 41304b22f97c5dec18bccfb534d0ac3d
+      sha512: 0343908c81989e887aa62bc17f4d18c6ff9b066fac04526d80d66732a9b7d69692cf4c85184c12c27c3d91459c29edfb27229da2bbe14a9b2e6a402cd3e2b72d
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/cataclysm/14-call_of_the_elements.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 39092636
+
+   checksums:
+      md5: 61358a448a5f4d3025fe88f463a40baa
+      sha512: cdad852498f5fe678422d3ee1e95b2b15097528e1e080df7e5bdbf7b073f062c5395b0a160754406ac9bab7b86623824df0ec8f12b85f9859abe0c14d76d115e
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/cataclysm/04-depths_of_vashjir.wave

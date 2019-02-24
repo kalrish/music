@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 26662316
+
+   checksums:
+      md5: afa45aaef8adc7a81a7548344a286abb
+      sha512: 6f829ee0443cdff0250dfcde5b5f491b02a38a458e202dafeed88f4a95ac17808dacca1fec3c6e359a5d2e5df69a34a2dd24da314766cff2337e0ec969b30f3a
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/cataclysm/10-eventide.wave

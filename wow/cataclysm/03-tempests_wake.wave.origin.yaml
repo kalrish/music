@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 33995852
+
+   checksums:
+      md5: 1a0ff49f8c9019302ffc63296ce1cf09
+      sha512: 57259592df4f040c8720ff8964ae3ac451085ef5169fad561530be26838d6255dcf8a6317b815ccdc06e3c734f546e9bf866e646e8d78e5689a2edbe3521a64f
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/cataclysm/03-tempests_wake.wave

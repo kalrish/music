@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 27685436
+
+   checksums:
+      md5: 235e0fabe7c10cdf84c5c383f7ba606f
+      sha512: 0565fa50eb5ca063f61bfd3cfca0674e64b106cd913eea04b3b74341cb1ac78a4126a5b4134f6e311fb482619b7904a82cf766a0571d365d41bf1816d80b6a10
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/cataclysm/13-breath_of_alakir.wave

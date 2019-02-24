@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 36336092
+
+   checksums:
+      md5: f507f64ab665de152e62e7ec02e61066
+      sha512: e3a91056911c54b40949162c1886c00049b69b1cd59038e74e9599fc954c7fa1432acf35ba4ea4508c3c9ff6e81cc549b9cf76eabd245036ac54940f05e02b98
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/cataclysm/08-curse_of_the_worgen.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 71493788
+
+   checksums:
+      md5: 1dd8c0995891f227bedac4e354ca8ba8
+      sha512: 8d7232c09b34d06d453436c2680b01be1873bdc21353e1a4a483efb9b788eb31d9929746fdff7d50e7225ab644e388d2949f1e7c7c04a5e4be21d8abe698183b
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/cataclysm/15-guardians_of_nordrassil.wave

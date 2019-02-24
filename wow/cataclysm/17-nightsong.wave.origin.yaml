@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 27932396
+
+   checksums:
+      md5: 179cd1a3a48f6d8ca093a4e1ffa8677c
+      sha512: 03f4d4f44aadb462fe2ad49b990ea0617290813761c99e5fadfe4fd8927166259a45976fba4a1ed5c5a6161242472388fe894d728f98f0062549eb5aae2fc8d1
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/cataclysm/17-nightsong.wave
