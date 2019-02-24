@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: c1bc1fd75e525db54bb24451e2d361e4
+   sha512: 064b4c01771866cc883bbc1b6f6ff133c52cb5c00f1a273905bc1d62b3074f26a51c47235a3c70eaf732f0dfdef6ec3560458e68f533b397dc2ca1fe30bee72d
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/herzeleid/03-weisses_fleisch.wave
+size: 38076460

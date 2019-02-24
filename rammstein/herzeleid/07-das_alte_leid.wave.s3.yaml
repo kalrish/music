@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: b79dee4126fc445d227d82207412360c
+   sha512: 6ca85bb020e2c276f010d6bd4589538dfc52b91bd93c3e0c110dd2a3f0a7cde949ba133c069bb1c5b9b078a0775908bb7ef623413ec10472ae0a3cc4b30ef9f7
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/herzeleid/07-das_alte_leid.wave
+size: 60768300
