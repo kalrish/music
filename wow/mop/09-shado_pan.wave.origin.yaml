@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 51522956
+
+   checksums:
+      md5: 77dbf95c127f3f7140a49b204d887bb8
+      sha512: 03a4d90c96f600f4d2d58b4e4cc59cba9e8dcd73a0d27e31e25d25ea0e5f5ee6fe08bcaa0978074ee83170783174cb602fe79e969cac415fdf47ee9067749c7a
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mop/09-shado_pan.wave

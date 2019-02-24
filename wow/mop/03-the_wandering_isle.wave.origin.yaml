@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 26819900
+
+   checksums:
+      md5: a8eb1ab5c75ec0669c0da6b8ee65b8b3
+      sha512: bd32a5853a49ff07ddaef1335f1f524af359bfe489d1eedd880d4cb46b2a1c3d08765753382fc7a25966fe8d277f525163ccf1509059f2885b48aac08c8bec82
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mop/03-the_wandering_isle.wave

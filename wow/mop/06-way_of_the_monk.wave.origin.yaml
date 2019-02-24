@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 39864092
+
+   checksums:
+      md5: b530486f23f4b984beab71f3828ac756
+      sha512: 218a523873a7d6c5d70d1a929cc6deeda6580766dd4b98e66bb55f5614147256c95b31b3bb7c7179ef755c0f64050f11fb1d8a3721e4b3990b0a256e3fefea9c
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mop/06-way_of_the_monk.wave

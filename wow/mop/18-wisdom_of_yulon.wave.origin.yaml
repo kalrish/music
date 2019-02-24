@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 59677340
+
+   checksums:
+      md5: a13efd8b920c5c50a58cd9b7a9dc21a5
+      sha512: 11eaffe7d74052b21f94afd05845041eb11b3629a0a2ec31639a0c418bf121372fb88e984c27f2b960c384e0c6c3446eba3be1ac47d4d196b0ac24489f7ae14f
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mop/18-wisdom_of_yulon.wave

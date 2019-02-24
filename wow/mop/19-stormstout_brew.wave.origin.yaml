@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 15393884
+
+   checksums:
+      md5: 7984837e80848dba196636b7bb7250e2
+      sha512: ad29c793bf9d364d4702bbc642590873eaefcb390b762abcaa57b9a2fb3686acdc5199170ed69e300b3992e94fe625e9782ae6f97c4f9cb60745525ca0a43d00
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mop/19-stormstout_brew.wave

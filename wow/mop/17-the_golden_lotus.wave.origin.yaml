@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 19888556
+
+   checksums:
+      md5: 9fd7412ee900dd60a49f414153e9c9f1
+      sha512: 0c6c4720372cd65c2d7d40ba855b0d68d28f0d4021f662dd23b4ee3c9b76261fe5dde4fb032246f6a6c0706c5991b48ead208b89811523197e878c957da33ad5
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mop/17-the_golden_lotus.wave

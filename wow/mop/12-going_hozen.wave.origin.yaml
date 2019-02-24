@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 25912028
+
+   checksums:
+      md5: 7cb6e9b8dc9f300f2a39f734029ca8f2
+      sha512: 2695f3038c9bdb1b62b205f33db08f1b47fde2ae2e9eadff93f8c86d9932c03b9e56fa5c6e001c3d7643ab9dd5baebd04ccce46d4a3459c6b09996e65286da9f
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mop/12-going_hozen.wave

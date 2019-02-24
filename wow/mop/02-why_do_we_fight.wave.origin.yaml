@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 39424268
+
+   checksums:
+      md5: 1d3d47b20c519b0752efdb07524b4e8a
+      sha512: 396b5308132a150adf614eb968efab2cb0e166a3fe53fce70c1f924c303f97444ee5f4445732ffc79b8f1d7ddf2d5ea0d0ae88bcb335756c3835832e8700bad7
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mop/02-why_do_we_fight.wave

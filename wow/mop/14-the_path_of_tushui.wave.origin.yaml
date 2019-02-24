@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 55650716
+
+   checksums:
+      md5: 7e156d74fc2cc4718cb68baafaf57c34
+      sha512: 8d7470727d2c30f2fb559f41dbbc390f946acd544a6a853e33fc69eac2fe57c001f2fe68aa885af9cbe539e38e29e80ce2d920f94b7ace02ca5a4fdec293e0d4
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mop/14-the_path_of_tushui.wave

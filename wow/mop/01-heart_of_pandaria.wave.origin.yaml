@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 84142844
+
+   checksums:
+      md5: 86e248b8e51835ddd6edef803bc8ca8a
+      sha512: 284dcccc0f0758cd4b22a31e4a827f2181812e295cca57e43ef9ddf86dcbc1135ffc005751bbe541801aaffac34d1f86f6a284ae82fc33f2cc640e5f1e44ac7c
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mop/01-heart_of_pandaria.wave

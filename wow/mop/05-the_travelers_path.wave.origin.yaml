@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 61455452
+
+   checksums:
+      md5: 101a74f0ff1ae4503fdbcb3318c15ee3
+      sha512: 2df04a44fee198babbabcc10aefb18cfb3573df0ce546406458c1e0a480e36b978e6b3e662a1552d0ec4f35acc9d85db7c69939b0802e3ca10b4680ff3174d62
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mop/05-the_travelers_path.wave

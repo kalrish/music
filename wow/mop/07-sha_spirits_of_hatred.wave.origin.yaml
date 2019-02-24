@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 40673180
+
+   checksums:
+      md5: d651184c5d70c162f82a3db817d8174f
+      sha512: 83bb257802cd8d1f3ba4ada6db8d4a84f70635222d6fa11de56bafd93630e000af577f04e667e3418c87ea89a9aaed3843406c85b55dad7c54bd8c5f77637cb6
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/mop/07-sha_spirits_of_hatred.wave
