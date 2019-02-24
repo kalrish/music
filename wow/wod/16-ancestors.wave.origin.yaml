@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 19166492
+
+   checksums:
+      md5: 4e6ec967e04e825a8c7f878cbd243fe2
+      sha512: b2240b1a4067519bca31455df308798075291b9a98aff457ad0b62fce75df5a226c4593f339dcd3f53066d0c629cc59a92eff6329d78ba62b7a06ee7cf71eff4
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wod/16-ancestors.wave

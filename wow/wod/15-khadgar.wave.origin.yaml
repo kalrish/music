@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 39245516
+
+   checksums:
+      md5: 837bebec48d0ea448ca0f0f126e17a38
+      sha512: 6f62a3e0e2e3d983f209ce14149bc69e6c12f9d2b6f6cd4a384d0c197ec24ad52d5e0f6d71f1b30df61916d02601206697bc091d19179fc63c3032d00df6f500
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wod/15-khadgar.wave

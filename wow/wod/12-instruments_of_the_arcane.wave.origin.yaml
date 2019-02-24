@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 23767004
+
+   checksums:
+      md5: f501540a79ec8e79d29f844f27d125e9
+      sha512: 1c0a8b8189ad2db1de8e91d66e2a043c8c0125de74b2e21c5e2468f0f20a64a9460293b030bf4b48f9b8cc3ac3b0d878679b4d06ac3e02b894afeefa59e5cfab
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wod/12-instruments_of_the_arcane.wave

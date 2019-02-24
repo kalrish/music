@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 45781724
+
+   checksums:
+      md5: 83d3f89b4b87af380a93778ca91f97d6
+      sha512: a6e2a75a58d196b8eb2bb876b0a2d8a700f54364e9e340a23db61702dd0ee94148ccb106f85ad6d4ec0cede6685330f8e45c1a733fb8c03def2ba4e89782d6dd
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wod/03-times_change.wave

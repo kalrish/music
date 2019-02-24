@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 57398252
+
+   checksums:
+      md5: 51f3652aa0c457a32ecce353f42518b6
+      sha512: e63643775d58e135c623343554325470965447ba4dfdedaa184e62bdbd9007de21051bcb69bf02264e86221811a6eb06874cf2b9523f4c573412a027f2998630
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wod/05-clan_warsong.wave

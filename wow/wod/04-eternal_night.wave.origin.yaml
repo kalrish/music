@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 13373516
+
+   checksums:
+      md5: ef30366834ab3c7c2dd9cb6ceb7fb892
+      sha512: 59b1a3569c575353f978440ea3a11e47f861b31f257eea95d3788d152fc04ab85993a92dabac0fa160cf6fc1da9f40d1b7fb2eb09d7c38727a86463c023251db
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wod/04-eternal_night.wave

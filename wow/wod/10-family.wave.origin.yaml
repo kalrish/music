@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 42924044
+
+   checksums:
+      md5: 724a8762c8f2e68c9a25d1e63b8ee128
+      sha512: 3b7d0c50516156bd2079cf71b2e7014823bf64686a8394e294a1cf48d2dc82d885c0a755252c6caafd3f8a368f25825e3b507660b3b3184d4d54622df5499f26
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wod/10-family.wave

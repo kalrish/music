@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 33556028
+
+   checksums:
+      md5: a1c7bac94dffafa6081faeb29a47b0ad
+      sha512: 9082e81aac43464240c0a06fc70eab445853fe322be1298f35b03ea1ebc1721e8b22fd361ac1fbce685e4df45b8910ef78d2c5931943e36aa2fef81544d3b284
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wod/19-tides_of_war.wave

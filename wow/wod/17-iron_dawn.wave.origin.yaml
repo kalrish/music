@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 25959068
+
+   checksums:
+      md5: 05bd01d9cc11694d4bf485345c1aaf9d
+      sha512: 61802e4c65134f6dece02f196ca7eb802607a59269df96f598e8e0e250b8fcc5f7985124b714517f321c6f6ad377eeb2d1b9c8b97aa5e0bd290372447ea08fc8
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wod/17-iron_dawn.wave

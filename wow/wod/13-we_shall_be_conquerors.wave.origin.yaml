@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 45346604
+
+   checksums:
+      md5: c22306341980af5f0e1bbe92ed00cf21
+      sha512: aedf173fed51d92db022957e752de51444695f72b00d48b034e7e1517059dd238e95400fe819353ce2c022cb8ab41a62c8f3ca70b54a9d4778846465380c2ca0
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wod/13-we_shall_be_conquerors.wave

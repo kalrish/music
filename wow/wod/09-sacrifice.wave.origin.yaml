@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 48263084
+
+   checksums:
+      md5: 131e07c47b30392f642fc3fc41521cde
+      sha512: 904b2485d853e4c0d84387d4141a85b59045607757aeb915c3aad88ee9850ecd47bfac9cb5ccbc0b7121cf5c1d344efb886a6e2a537331b1f1905eaeb5248135
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/wod/09-sacrifice.wave
