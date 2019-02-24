@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: fb8a5e53a7efd1c86a2ac5a12ff5f2b0
+   sha512: db0565a5f750afe5e1219d2ca8ad1a9b6be1fe4dad9903f3d100e1d268461876fd8b4095acd34d4a0b10cfc384a491b60561722dcd964832a20a19b4eb9f6dc2
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/bayou_country/2/7-keep_on_chooglin.wave
+size: 243001484

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: a424cbe8aa916ffedc54013263da102f
+   sha512: 3617154aeeefe4f53d4845b0d90adeea8751b5ab7a8ee57e15db34323c1cb9a40e97421ca560de7cfc6aad0046addac0e53d6bf8bbff50a25c2d3205be2c82a8
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/bayou_country/1/2-bootleg.wave
+size: 95481692

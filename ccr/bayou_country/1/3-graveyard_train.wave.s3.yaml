@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: baa416788c15ab95fae282ba5fee6e39
+   sha512: 330c55a29e637c69551f0715315795cf027c10b6ff99d57beab0684ef86d5e9e2fdcbe0e86b7e3ccf206610db4cb93345d62768535b55cd2cf4d4779c5443948
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/bayou_country/1/3-graveyard_train.wave
+size: 272566124
