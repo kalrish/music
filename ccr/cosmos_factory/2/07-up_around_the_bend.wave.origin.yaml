@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 85808552
+
+   checksums:
+      md5: ef3b6907f5b7b7af7a24e9167c352d30
+      sha512: a5cb1d3c07523a500fd7e2b8f11c6764bb7305ee6681ef8e9ec20a38816a886a18019ffa18cc2cadf60b5c2615643f1401d833560ea29d1230468ff2d68f7965
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/cosmos_factory/2/07-up_around_the_bend.wave

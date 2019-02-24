@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 67660520
+
+   checksums:
+      md5: 39fb62c4361ee86c9421837070daea08
+      sha512: d66499b2f52da43e749927060a0253a75e3c7d69cc1725474ea1c27c9243b4aa9aac80e6b9dfa370e83d5cdfbdc9bec563126b25f01723cbb3e076dc762640fb
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/cosmos_factory/1/03-travelin_band.wave

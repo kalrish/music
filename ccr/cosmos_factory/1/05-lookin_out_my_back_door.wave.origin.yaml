@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 82351112
+
+   checksums:
+      md5: 47519167ebd264516456f8e3f7f689ad
+      sha512: 3adc32d221ba427a60918620d162d99c746edf10c9689d298b63e3c033ab690e2d6f55e2e79b7ca90a5338895eb85e6b045815336d89f08032243c9aeda7cc45
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: ccr/cosmos_factory/1/05-lookin_out_my_back_door.wave
