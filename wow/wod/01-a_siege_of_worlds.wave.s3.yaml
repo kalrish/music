@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 1bd15ea08bc1f4e5fe7c305b9dcb344e
+   sha512: b9b38e5327bd591840f39e26f82b245c59b5ce12b6d638615162fc747677bb114c42fe84d2c02045d93db5c709ccb097609775d60a2e548f8ae4fc036cec172d
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wod/01-a_siege_of_worlds.wave
+size: 128009996

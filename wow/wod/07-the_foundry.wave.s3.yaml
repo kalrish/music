@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: b53994fa8bebe8c31db3fbe7f63b241c
+   sha512: 5bf02e9e8487ad991dd9bd908c5d189f3fbe44c79bf2974eff5a1a58cb5d8e5a2307ba8f07a7f79b11fdc5c482c3845830b6e5cbf3ed1a53ac5341e99b3082b7
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wod/07-the_foundry.wave
+size: 44008316

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: cc8024b29b4549127a1b664917d0d5ed
+   sha512: d1f396e29857ab49acd4d6e79a6b105b52a6ba44094893bf55eb6794f2c06e34336be58f3f9037e19875872e690c7e57924cb27375001ec204f99fbdd3367116
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wod/06-visions_of_the_prophet.wave
+size: 35416460

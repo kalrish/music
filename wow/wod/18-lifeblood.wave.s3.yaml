@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 838f61f8062216a13ff959b13d2f2ae0
+   sha512: 3fa73d43693665fb97acc4179fbd4b9528550a15dd99d9efbae20ca4a13c2ed78f0c6f6dea7e365018de897c84b0ef31156a781c24143592813e3a95bd4b05c1
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/wod/18-lifeblood.wave
+size: 21904220
