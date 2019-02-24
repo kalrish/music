@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: ec3c57ae815031beef118fbbee84711f
+   sha512: b689c98ee04430ed5842b434230d02c8219a26152baa5dd971c74264847c1d8014e9792c359be040cadf0f8afb22c808cfd9f58021a97e29674bf36837f99e11
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/roc/02-arrival_at_kalimdor.wave
+size: 44210588

@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 0fb3aa4e257fd37a6860d01d37727049
+   sha512: 842229f791d4d935355621b2d9ee3ca699e8694cb0df22394f345d768773d4f207d859c74ce0ed3c684d15e33fb2ff427582ea1b2820f21a9bc61abf2ba75716
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/roc/03-awakening.wave
+size: 49639004
