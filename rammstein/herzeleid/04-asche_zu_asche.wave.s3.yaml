@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 9d679be657d6b76bb03071bf3503e969
+   sha512: 9c6c2885f699481bb0d9ecdfa27b2105586992d2433175d76c785e322871eedffcb3ffe3aee0d3bee15b5dd75e9ad63080ded7da22c2d7d64921ef9065aebc1a
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/herzeleid/04-asche_zu_asche.wave
+size: 40878124

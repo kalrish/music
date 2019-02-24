@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: fb8719cf2de513d84adf9e7b6fef3de6
+   sha512: 6c10d7bc5874f853880b2389f59cebde33e38a79a75543ac25e22dcad4b620bd34b61fbea892e87b813ccab457a2acd2a0bd470a8b22e926da6cc8fef1f8a887
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/herzeleid/05-seemann.wave
+size: 50823212

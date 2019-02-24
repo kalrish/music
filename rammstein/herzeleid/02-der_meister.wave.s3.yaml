@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: b04646c536b1fa66bd2565cbdd26bb98
+   sha512: 7441272d85f376bed7f732fbc8d1ccf24297f6972cd3086847f0f0e6aeebf7c05889c235d716110137ac35cf7578842e4aa8d38b965283c9fcdf9945eaa684d6
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: rammstein/herzeleid/02-der_meister.wave
+size: 43810860
