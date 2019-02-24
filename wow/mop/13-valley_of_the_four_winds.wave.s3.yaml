@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 5cca2abdaa34ae8f269993821e148dd7
+   sha512: 8cf649343e8cba637d36e3eb6337ed68c03b813b0f55c2e63ff7023ebb8216647852b3ac493f1e217e0adf2452347dfb3cfaf7f6569c83f31788456a382ca6fb
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mop/13-valley_of_the_four_winds.wave
+size: 58588364

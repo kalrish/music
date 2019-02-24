@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 8f992292bcb7a6d036e29737f94357be
+   sha512: 27004f155230bc78fcc3334ca9f8a639e1a88051e9bb90132521b38e14e38739c157514454c2091372dbdf937490ec716f20e846000c32ccf6ad88b3faf26bc3
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mop/16-townlong_steppes.wave
+size: 50276396

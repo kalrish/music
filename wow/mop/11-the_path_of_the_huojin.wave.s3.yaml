@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: c39ec38ade1723dc7bf666c185cbdc30
+   sha512: 28dae0dc8b367bff19d2f2f22328e9dd2812c9ac71ffc84d888244e4c1e59b9be2cabc6e9089c9f65bf910cb432b19f147632f1eb855dc82f95be5659c1e7c78
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mop/11-the_path_of_the_huojin.wave
+size: 45861692

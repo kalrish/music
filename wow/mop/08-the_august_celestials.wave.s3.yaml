@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: d98f874f570252679e88ec9bfb424f08
+   sha512: 73aa8e19d26a6730a5cd4db1eadb695186848f3304c4dd018c41c5911b46ec600f02694de3a4e7c81692da97182e0ecd55cc85834e6183e66890c8588a733dbb
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mop/08-the_august_celestials.wave
+size: 44744492

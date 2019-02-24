@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 53b02a88986c3d849bd216007aeef50a
+   sha512: 010c10a8b49dc480c76e2d5031b90aae52a6ad53a2be48162584b06b8c9f2c9fb3c0bab2d8ede55446dcf87c839ece5ae1c1bcff30eb73c1e871d6f3c6b8d7a2
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: wow/mop/04-temple_of_the_five_dawns.wave
+size: 20735276
