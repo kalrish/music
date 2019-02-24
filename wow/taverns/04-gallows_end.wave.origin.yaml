@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 31004108
+
+   checksums:
+      md5: 4791bec290a33ab3f468a535deba8302
+      sha512: d0846bcfa70ddf1f3f2b651aeb57a6b5b5e4b83f1c7a8955469ecfc28ffed506e8e52c09ea0969d516391a36ddf91f44c5d1351522b8de766bcee87456273a38
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/taverns/04-gallows_end.wave

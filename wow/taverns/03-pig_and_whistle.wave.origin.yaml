@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 27443180
+
+   checksums:
+      md5: 8dac409e1faffe1abf91aa1c543bf422
+      sha512: 4ed1fa06c80cf55c04a3d32b1494ba5fd2848a17f004ccbaaff8c15022e54e83a9148396a984f1d5760b1b6935601a3e5d93bc41a8f613438bd5e7a6a6793222
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/taverns/03-pig_and_whistle.wave

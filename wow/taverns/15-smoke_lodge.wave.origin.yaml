@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 25989644
+
+   checksums:
+      md5: 88e2fb0d7ea8844700db85ff1f61f5e0
+      sha512: 369f70196946f829cb4f4f29fb68c620960439526ca6b93ce93011352fb7d1f778cb9cec5e00a62aea96cccc850883042a2b62b2485244525762ba8f362eb51d
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/taverns/15-smoke_lodge.wave

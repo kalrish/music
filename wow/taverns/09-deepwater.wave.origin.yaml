@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 25594508
+
+   checksums:
+      md5: 607d862ba4898e3c061417244ab8b971
+      sha512: e4b09edbf3806dbe5279b24fc203128afd9f00803ff468becebb999e002cd1619cd4fb8720d4f5c0e0c5de826717718566428316078ce3aaf75542f08a6823a3
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/taverns/09-deepwater.wave

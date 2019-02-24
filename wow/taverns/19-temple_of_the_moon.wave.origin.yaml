@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 44045948
+
+   checksums:
+      md5: 62858493d63d4bd91f8a3b9d49810375
+      sha512: 08ba7b9bae3250c7634bcf47c07150b55f681d822d75a2d2c0ad78bd68f7f925aa1d8936f22eadb59955f550bcc50bcdaec9ae3dc016347caeba7f77f2b0b4f6
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/taverns/19-temple_of_the_moon.wave

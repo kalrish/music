@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 25483964
+
+   checksums:
+      md5: 4cb1f9c9d818722a68f6f23c5b2de024
+      sha512: ab4145ca9634e7357c94335778103e6d0927d15e888eb34b62e71c99a7854879113da50e7c362de6072943e54d42278c4d8c9009f81da1c4d7128e623f0f4b4a
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/taverns/18-bloodsail.wave

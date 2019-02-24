@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 31309868
+
+   checksums:
+      md5: fe82c2d274d9640635147f5be8d912be
+      sha512: 9bf242d8b4ceee9644d25327cffd56414442f48418f112775b88c226f859e0042bcbad57263e9b1d7831584277e73d54ffa4ad2aa7f425c9406077e074368400
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/taverns/14-hunters_refuge.wave

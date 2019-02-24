@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 26852828
+
+   checksums:
+      md5: e669fb718afd0b4a5059347a96cb4f65
+      sha512: 95f3ea0cf9c448914908e74d73bb6b8862fedf9f69959c99ce8f549609c1746db5d4c92c168e37a70281b25db96f9b52ca87c5893d648acb26e9bf8b0094b3dc
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/taverns/12-slaughtered_lamb.wave

@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 25157036
+
+   checksums:
+      md5: e94f76a0ae6449696cc53e3031f24d4a
+      sha512: 66fe1667cee567730aee8712d8d9944512abc49302551a2c5a1dc0d6fd27abc5b88b25ca78ae48c69330be919b20885da5eac119728d499093505422af1423d0
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/taverns/16-grunts_place.wave

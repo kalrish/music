@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 21370316
+
+   checksums:
+      md5: b27881fe585abf48d08b3b033d02ca6f
+      sha512: cd86c277b4b9f19d7cb0ae650bebf075c5931917403f010570c5a1c9b3b636eee46b0480e05ad1704cf6788306ca8c66f232ea62924b68179f4f42044299e1f9
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/taverns/13-thunderbrew.wave

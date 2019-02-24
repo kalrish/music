@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 24954764
+
+   checksums:
+      md5: e147147ca54222373375c79944e67058
+      sha512: a5684c17e305283ae269db0302dc1251865aa42cd72d0a0fff3ac1e0fd651f5e9b6e4464bbb794bf7946ba06b69a75b40a2da9548979bab2e135f2c4da07a7fe
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/taverns/01-lions_pride.wave

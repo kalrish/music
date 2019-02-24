@@ -1,0 +1,17 @@
+---
+
+
+file:
+   size: 29875148
+
+   checksums:
+      md5: d226b52ed0ac17631f97f98a55ca34b1
+      sha512: 71e3a97f23f3f26f9c6294f120d7a595415221396858ac57d1476768a943ab900e2c106d5f237ba7e829d1abcb0b30cbbb2dee99ed9995e9b721e939d6c7fd01
+
+
+locations:
+
+   s3:
+      -
+         bucket: music-sources-bucket-lptlgun3pg8r
+         key: wow/taverns/06-shady_rest.wave
