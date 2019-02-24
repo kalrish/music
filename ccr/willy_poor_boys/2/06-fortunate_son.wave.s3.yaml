@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 9b1e5b64a8f2b46ba0af568749b600ee
+   sha512: b60919e50ad9d5925df8f38e8468f8dafc710ab2ce684de45a33be36dd82617ad22701252bcc5d43babf4e0f3af7c9d9866df9fd69770dc1767a6add63d40e8b
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/willy_poor_boys/2/06-fortunate_son.wave
+size: 74927564

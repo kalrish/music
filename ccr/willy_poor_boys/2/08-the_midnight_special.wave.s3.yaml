@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 6b64fb8805d913d89053efded389fab2
+   sha512: 1b9d72d8872d67a742fc3975768ecea0a1645212fd4657ba7315c9177c928a4169d4d1f95cfc3b3cc2024ec642ec262a6f542af34b09b783ed931f56133e1662
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/willy_poor_boys/2/08-the_midnight_special.wave
+size: 134663660

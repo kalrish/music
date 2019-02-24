@@ -1,0 +1,8 @@
+---
+checksums:
+   md5: 4d66d15780b2707003be8cfd8ae25822
+   sha512: 78f89aacb488aca39d5c6e9b6f1d3348d12e7f904b0e2a7b90cd78adbb5d7416ee645c6682a30050ef19e1f5be5669053649bd69117b17782eee8f4efe3b70c8
+locations:
+   -  bucket: music-sources-bucket-lptlgun3pg8r
+      key: ccr/willy_poor_boys/2/09-side_o_the_road.wave
+size: 108697580
