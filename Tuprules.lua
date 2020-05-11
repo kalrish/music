@@ -25,8 +25,6 @@ local CONFIG_TUP_PLATFORM = tup_getconfig("TUP_PLATFORM")
 
 local top_dir = tup.getcwd()
 
-local tmp_output = "/tmp/output"
-
 local getconfig_default = function(name, default)
 	local value = tup_getconfig(name)
 	if value ~= "" then
@@ -143,13 +141,13 @@ do
 					self.flac_program,
 					self.flac_options,
 					import_picture_args,
-					tmp_output,
+					output,
 					input,
 					self.metaflac_program,
 					self.metaflac_options,
 					tagfile,
 					import_tags_args,
-					tmp_output
+					output
 				),
 				output = output,
 			}
@@ -200,7 +198,7 @@ do
 				inputs = {
 					input
 				},
-				command = self.encoder .. " " .. self.lame_program .. " " .. self.lame_options .. " " .. input .. " " .. tmp_output,
+				command = self.encoder .. " " .. self.lame_program .. " " .. self.lame_options .. " " .. input .. " " .. output,
 				output = output,
 			}
 		end
@@ -256,7 +254,7 @@ do
 				inputs = {
 					input
 				},
-				command = self.oggenc_program .. " " .. self.oggenc_options .. " -o " .. tmp_output .. " -- " .. input,
+				command = self.oggenc_program .. " " .. self.oggenc_options .. " -o " .. output .. " -- " .. input,
 				output = output,
 			}
 		end
@@ -321,20 +319,10 @@ vibes = {
 					local basename = tup_base(source)
 					
 					local rulespec = encoder:encode(basename, source, options)
-
-					local command = string_format(
-						"^ ENCODE %s^ sh -- %s/encode.sh %s %s %s %s",
-						basename,
-						top_dir,
-						top_dir,
-						config_encoder,
-						rulespec.output,
-						rulespec.command
-					)
 					
 					tup_definerule{
 						inputs = rulespec.inputs,
-						command = command,
+						command = "^ ENCODE " .. basename .. "^ " .. rulespec.command,
 						outputs = {
 							rulespec.output,
 						},
