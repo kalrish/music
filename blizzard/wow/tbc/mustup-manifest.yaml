@@ -1,0 +1,127 @@
+---
+
+01-the_burning_legion.wave:
+   metadata:
+      tags:
+         common:
+            title: The Burning Legion
+
+02-shards_of_the_exodar.wave:
+   metadata:
+      tags:
+         common:
+            title: Shards of the Exodar
+
+03-the_sindorei.wave:
+   metadata:
+      tags:
+         common:
+            title: The Sin'dorei
+
+04-the_dark_portal.wave:
+   metadata:
+      tags:
+         common:
+            title: The Dark Portal
+
+05-origins.wave:
+   metadata:
+      tags:
+         common:
+            title: Origins
+
+06-bloodmyst.wave:
+   metadata:
+      tags:
+         common:
+            title: Bloodmyst
+
+07-wastelands.wave:
+   metadata:
+      tags:
+         common:
+            title: Wastelands
+
+08-caverns_of_time_the_battle_of_mount_hyjal.wave:
+   metadata:
+      tags:
+         common:
+            title: 'Caverns of Time: The Battle of Mount Hyjal'
+
+09-azuremyst_isle.wave:
+   metadata:
+      tags:
+         common:
+            title: Azuremyst Isle
+
+10-silvermoon_city.wave:
+   metadata:
+      tags:
+         common:
+            title: Silvermoon City
+
+11-netherstorm.wave:
+   metadata:
+      tags:
+         common:
+            title: Netherstorm
+
+12-caverns_of_time_the_escape_from_durnholde.wave:
+   metadata:
+      tags:
+         common:
+            title: 'Caverns of Time: The Escape from Durnholde'
+
+13-outland_suite.wave:
+   metadata:
+      tags:
+         common:
+            title: Outland Suite
+
+14-the_tower_of_karazhan.wave:
+   metadata:
+      tags:
+         common:
+            title: The Tower of Karazhan
+
+15-illidan.wave:
+   metadata:
+      tags:
+         common:
+            title: Illidan
+
+16-caverns_of_time_opening_of_the_dark_portal.wave:
+   metadata:
+      tags:
+         common:
+            title: 'Caverns of Time: Opening of the Dark Portal'
+
+17-hellfire.wave:
+   metadata:
+      tags:
+         common:
+            title: Hellfire
+
+18-the_gates_of_ahnqiraj.wave:
+   metadata:
+      tags:
+         common:
+            title: The Gates of Ahn'Qiraj
+
+19-shadow_of_the_necropolis.wave:
+   metadata:
+      tags:
+         common:
+            title: Shadow of the Necropolis
+
+20-taverns.wave:
+   metadata:
+      tags:
+         common:
+            title: Taverns
+
+21-lament_of_the_highborne.wave:
+   metadata:
+      tags:
+         common:
+            title: Lament of the Highborne
