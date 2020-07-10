@@ -1,0 +1,79 @@
+---
+
+01-intro.wave:
+   metadata:
+      tags:
+         common:
+            title: Intro
+
+02-spiel_mit_mir.wave:
+   metadata:
+      tags:
+         common:
+            title: Spiel mit mir
+
+03-herzeleid.wave:
+   metadata:
+      tags:
+         common:
+            title: Herzeleid
+
+04-bestrafe_mich.wave:
+   metadata:
+      tags:
+         common:
+            title: Bestrafe mich
+
+05-weisses_fleisch.wave:
+   metadata:
+      tags:
+         common:
+            title: Weißes Fleisch
+
+06-sehnsucht.wave:
+   metadata:
+      tags:
+         common:
+            title: Sehnsucht
+
+07-asche_zu_asche.wave:
+   metadata:
+      tags:
+         common:
+            title: Asche zu Asche
+
+08-wilder_wein.wave:
+   metadata:
+      tags:
+         common:
+            title: Wilder Wein
+
+09-klavier.wave:
+   metadata:
+      tags:
+         common:
+            title: Klavier
+
+10-heirate_mich.wave:
+   metadata:
+      tags:
+         common:
+            title: Heirate mich
+
+11-du_riechst_so_gut.wave:
+   metadata:
+      tags:
+         common:
+            title: Du riechst so gut
+
+12-du_hast.wave:
+   metadata:
+      tags:
+         common:
+            title: Du hast
+
+13-bueck_dich.wave:
+   metadata:
+      tags:
+         common:
+            title: Bück dich

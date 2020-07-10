@@ -1,0 +1,37 @@
+---
+
+1-engel.wave:
+   metadata:
+      tags:
+         common:
+            title: Engel
+
+2-rammstein.wave:
+   metadata:
+      tags:
+         common:
+            title: Rammstein
+
+3-tier.wave:
+   metadata:
+      tags:
+         common:
+            title: Tier
+
+4-laichzeit.wave:
+   metadata:
+      tags:
+         common:
+            title: Laichzeit
+
+5-wollt_ihr_das_bett_in_flammen_sehen.wave:
+   metadata:
+      tags:
+         common:
+            title: Wollt ihr das Bett in Flammen sehen?
+
+6-seemann.wave:
+   metadata:
+      tags:
+         common:
+            title: Seemann
