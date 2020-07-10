@@ -1,0 +1,14 @@
+---
+
+tags:
+   common:
+      album: Das Modell
+   Vorbis:
+      DATE: '1997'
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
+      4:
+         path: cover-back.jpeg
