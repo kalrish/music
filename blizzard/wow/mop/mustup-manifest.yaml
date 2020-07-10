@@ -1,0 +1,121 @@
+---
+
+01-heart_of_pandaria.wave:
+   metadata:
+      tags:
+         common:
+            title: Heart of Pandaria
+
+02-why_do_we_fight.wave:
+   metadata:
+      tags:
+         common:
+            title: Why do we fight?
+
+03-the_wandering_isle.wave:
+   metadata:
+      tags:
+         common:
+            title: The Wandering Isle
+
+04-temple_of_the_five_dawns.wave:
+   metadata:
+      tags:
+         common:
+            title: Temple of the Five Dawns
+
+05-the_travelers_path.wave:
+   metadata:
+      tags:
+         common:
+            title: The Traveler's Path
+
+06-way_of_the_monk.wave:
+   metadata:
+      tags:
+         common:
+            title: Way of the Monk
+
+07-sha_spirits_of_hatred.wave:
+   metadata:
+      tags:
+         common:
+            title: Sha (Spirits of Hatred)
+
+08-the_august_celestials.wave:
+   metadata:
+      tags:
+         common:
+            title: The August Celestials
+
+09-shado_pan.wave:
+   metadata:
+      tags:
+         common:
+            title: Shado-Pan
+
+10-thunder_king.wave:
+   metadata:
+      tags:
+         common:
+            title: Thunder King
+
+11-the_path_of_the_huojin.wave:
+   metadata:
+      tags:
+         common:
+            title: The Path of the Huojin
+
+12-going_hozen.wave:
+   metadata:
+      tags:
+         common:
+            title: Going Hozen
+
+13-valley_of_the_four_winds.wave:
+   metadata:
+      tags:
+         common:
+            title: Valley of the Four Winds
+
+14-the_path_of_tushui.wave:
+   metadata:
+      tags:
+         common:
+            title: The Path of Tushui
+
+15-go_ask_the_river.wave:
+   metadata:
+      tags:
+         common:
+            title: Go Ask the River
+
+16-townlong_steppes.wave:
+   metadata:
+      tags:
+         common:
+            title: Townlong Steppes
+
+17-the_golden_lotus.wave:
+   metadata:
+      tags:
+         common:
+            title: The Golden Lotus
+
+18-wisdom_of_yulon.wave:
+   metadata:
+      tags:
+         common:
+            title: Wisdom of Yu'lon
+
+19-stormstout_brew.wave:
+   metadata:
+      tags:
+         common:
+            title: Stormstout Brew
+
+20-serpent_riders.wave:
+   metadata:
+      tags:
+         common:
+            title: Serpent Riders
