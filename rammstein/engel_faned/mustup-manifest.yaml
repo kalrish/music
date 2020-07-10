@@ -1,0 +1,25 @@
+---
+
+1-engel.wave:
+   metadata:
+      tags:
+         common:
+            title: Engel
+
+2-feuerraeder.wave:
+   metadata:
+      tags:
+         common:
+            title: Feuerräder
+
+3-wilder_wein.wave:
+   metadata:
+      tags:
+         common:
+            title: Wilder Wein
+
+4-rammstein.wave:
+   metadata:
+      tags:
+         common:
+            title: Rammstein
