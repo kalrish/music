@@ -1,0 +1,127 @@
+---
+
+01-captain_hooks_pirate_ship.wave:
+   metadata:
+      tags:
+         common:
+            title: Captain Hook's Pirate Ship
+
+02-pirates_gigue.wave:
+   metadata:
+      tags:
+         common:
+            title: Pirate's Gigue
+
+03-scent_of_silence.wave:
+   metadata:
+      tags:
+         common:
+            title: Scent of Silence
+
+04-hollow_bastion.wave:
+   metadata:
+      tags:
+         common:
+            title: Hollow Bastion
+
+05-scherzo_di_notte.wave:
+   metadata:
+      tags:
+         common:
+            title: Scherzo di Notte
+
+06-revenge_of_chaos.wave:
+   metadata:
+      tags:
+         common:
+            title: Revenge of Chaos
+
+07-winnie_the_pooh.wave:
+   metadata:
+      tags:
+         common:
+            title: Winnie the Pooh
+
+08-march_a_long.wave:
+   metadata:
+      tags:
+         common:
+            title: March-A-Long
+
+09-dash_a_long.wave:
+   metadata:
+      tags:
+         common:
+            title: Dash-A-Long
+
+10-thirteenth_discretion.wave:
+   metadata:
+      tags:
+         common:
+            title: Thirteenth Discretion
+
+11-the_13th_struggle.wave:
+   metadata:
+      tags:
+         common:
+            title: The 13th Struggle
+
+12-lazy_afternoons.wave:
+   metadata:
+      tags:
+         common:
+            title: Lazy Afternoons
+
+13-sinister_sundown.wave:
+   metadata:
+      tags:
+         common:
+            title: Sinister Sundown
+
+14-destiny_islands.wave:
+   metadata:
+      tags:
+         common:
+            title: Destiny Islands
+
+15-night_of_fate.wave:
+   metadata:
+      tags:
+         common:
+            title: Night of Fate
+
+16-namine.wave:
+   metadata:
+      tags:
+         common:
+            title: Naminé
+
+17-castle_oblivion.wave:
+   metadata:
+      tags:
+         common:
+            title: Castle Oblivion
+
+18-forgotten_challenge.wave:
+   metadata:
+      tags:
+         common:
+            title: Forgotten Challenge
+
+19-graceful_assassin.wave:
+   metadata:
+      tags:
+         common:
+            title: Graceful Assassin
+
+20-scythe_of_petals.wave:
+   metadata:
+      tags:
+         common:
+            title: Scythe of Petals
+
+21-lord_of_the_castle.wave:
+   metadata:
+      tags:
+         common:
+            title: Lord of the Castle
