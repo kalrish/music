@@ -1,0 +1,31 @@
+---
+
+01-down_on_the_corner.wave:
+   metadata:
+      tags:
+         common:
+            title: Down on the Corner
+
+02-it_came_out_of_the_sky.wave:
+   metadata:
+      tags:
+         common:
+            title: It Came Out of the Sky
+
+03-cotton_fields.wave:
+   metadata:
+      tags:
+         common:
+            title: Cotton Fields
+
+04-poorboy_shuffle.wave:
+   metadata:
+      tags:
+         common:
+            title: Poorboy Shuffle
+
+05-feelin_blue.wave:
+   metadata:
+      tags:
+         common:
+            title: Feelin' Blue
