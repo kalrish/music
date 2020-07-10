@@ -1,0 +1,14 @@
+---
+
+tags:
+   common:
+      album: Wir kriegen euch alle
+   Vorbis:
+      DATE: '1991'
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
+      4:
+         path: cover-back.jpeg
