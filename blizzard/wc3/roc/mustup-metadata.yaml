@@ -1,0 +1,17 @@
+---
+
+tags:
+   common:
+      album: 'Warcraft III: Reign of Chaos'
+   Vorbis:
+      COMPOSER:
+         - Glenn Stafford
+         - Derek Duke
+         - Jason Hayes
+         - Tracy W. Bush
+      DATE: '2002'
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.png

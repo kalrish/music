@@ -1,0 +1,91 @@
+---
+
+01-arcane_echoes.wave:
+   metadata:
+      tags:
+         common:
+            title: Arcane Echoes
+
+02-arrival_at_kalimdor.wave:
+   metadata:
+      tags:
+         common:
+            title: Arrival at Kalimdor
+
+03-awakening.wave:
+   metadata:
+      tags:
+         common:
+            title: Awakening
+
+04-blackrock__roll.wave:
+   metadata:
+      tags:
+         common:
+            title: Blackrock & Roll
+
+05-blight.wave:
+   metadata:
+      tags:
+         common:
+            title: Blight
+
+06-bloodlust.wave:
+   metadata:
+      tags:
+         common:
+            title: Bloodlust
+
+07-carrion_waves.wave:
+   metadata:
+      tags:
+         common:
+            title: Carrion Waves
+
+08-cinematic_suite.wave:
+   metadata:
+      tags:
+         common:
+            title: Cinematic Suite
+
+09-doomhammers_legacy.wave:
+   metadata:
+      tags:
+         common:
+            title: Doomhammer's Legacy
+
+10-frostmourne.wave:
+   metadata:
+      tags:
+         common:
+            title: Frostmourne
+
+11-lordaeron_fall.wave:
+   metadata:
+      tags:
+         common:
+            title: Lordaeron Fall
+
+12-reign_of_chaos.wave:
+   metadata:
+      tags:
+         common:
+            title: Reign of Chaos
+
+13-rise_of_the_ancients.wave:
+   metadata:
+      tags:
+         common:
+            title: Rise of the Ancients
+
+14-temporary_alliances.wave:
+   metadata:
+      tags:
+         common:
+            title: Temporary Alliances
+
+15-the_calm.wave:
+   metadata:
+      tags:
+         common:
+            title: The Calm
