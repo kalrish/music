@@ -1,0 +1,12 @@
+---
+
+tags:
+   common:
+      album: The Slim Shady LP
+   Vorbis:
+      DATE: '1999'
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
