@@ -1,5 +1,13 @@
 ---
 
+lied_unruhevoller_jugend.wave:
+   metadata:
+      tags:
+         common:
+            title: Lied von der unruhevollen Jugend
+         Vorbis:
+            COMMENT: Live from Russia
+
 schwarzes_glas.wave:
    metadata:
       tags:
