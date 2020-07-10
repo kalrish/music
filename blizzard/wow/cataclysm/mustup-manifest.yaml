@@ -1,0 +1,103 @@
+---
+
+01-the_shattering.wave:
+   metadata:
+      tags:
+         common:
+            title: The Shattering
+
+02-xaxas.wave:
+   metadata:
+      tags:
+         common:
+            title: Xaxas
+
+03-tempests_wake.wave:
+   metadata:
+      tags:
+         common:
+            title: Tempest's Wake
+
+04-depths_of_vashjir.wave:
+   metadata:
+      tags:
+         common:
+            title: Depths of Vashj'ir
+
+05-castaways.wave:
+   metadata:
+      tags:
+         common:
+            title: Castaways
+
+06-reforged.wave:
+   metadata:
+      tags:
+         common:
+            title: Reforged
+
+07-restoring_the_balance.wave:
+   metadata:
+      tags:
+         common:
+            title: Restoring the Balance
+
+08-curse_of_the_worgen.wave:
+   metadata:
+      tags:
+         common:
+            title: Curse of the Worgen
+
+09-defenders_of_azeroth.wave:
+   metadata:
+      tags:
+         common:
+            title: Defenders of Azeroth
+
+10-eventide.wave:
+   metadata:
+      tags:
+         common:
+            title: Eventide
+
+11-thaurissans_reach.wave:
+   metadata:
+      tags:
+         common:
+            title: Thaurissan's Reach
+
+12-uldum.wave:
+   metadata:
+      tags:
+         common:
+            title: Uldum
+
+13-breath_of_alakir.wave:
+   metadata:
+      tags:
+         common:
+            title: Breath of Al'Akir
+
+14-call_of_the_elements.wave:
+   metadata:
+      tags:
+         common:
+            title: Call of the Elements
+
+15-guardians_of_nordrassil.wave:
+   metadata:
+      tags:
+         common:
+            title: Guardians of Nordrassil
+
+16-dominion_of_the_stonemother.wave:
+   metadata:
+      tags:
+         common:
+            title: Dominion of the Stonemother
+
+17-nightsong.wave:
+   metadata:
+      tags:
+         common:
+            title: Nightsong
