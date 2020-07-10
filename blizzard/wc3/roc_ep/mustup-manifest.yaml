@@ -1,0 +1,25 @@
+---
+
+1-lordaeron_fall.wave:
+   metadata:
+      tags:
+         common:
+            title: Lordaeron Fall
+
+2-bloodlust.wave:
+   metadata:
+      tags:
+         common:
+            title: Bloodlust
+
+3-return_to_kalimdor.wave:
+   metadata:
+      tags:
+         common:
+            title: Return to Kalimdor
+
+4-blight.wave:
+   metadata:
+      tags:
+         common:
+            title: Blight
