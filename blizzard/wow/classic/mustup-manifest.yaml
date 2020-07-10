@@ -1,0 +1,181 @@
+---
+
+01-legends_of_azeroth.wave:
+   metadata:
+      tags:
+         common:
+            title: Legends of Azeroth
+
+02-the_shaping_of_the_world.wave:
+   metadata:
+      tags:
+         common:
+            title: The Shaping of the World
+
+03-legacy.wave:
+   metadata:
+      tags:
+         common:
+            title: Legacy
+
+04-song_of_elune.wave:
+   metadata:
+      tags:
+         common:
+            title: Song of Elune
+
+05-echoes_of_the_past.wave:
+   metadata:
+      tags:
+         common:
+            title: Echoes of the Past
+
+06-a_call_to_arms.wave:
+   metadata:
+      tags:
+         common:
+            title: A Call to Arms
+
+07-seasons_of_war.wave:
+   metadata:
+      tags:
+         common:
+            title: Seasons of War
+
+08-stormwind.wave:
+   metadata:
+      tags:
+         common:
+            title: Stormwind
+
+09-orgrimmar.wave:
+   metadata:
+      tags:
+         common:
+            title: Orgrimmar
+
+10-the_undercity.wave:
+   metadata:
+      tags:
+         common:
+            title: The Undercity
+
+11-thunder_bluff.wave:
+   metadata:
+      tags:
+         common:
+            title: Thunder Bluff
+
+12-darnassus.wave:
+   metadata:
+      tags:
+         common:
+            title: Darnassus
+
+13-ironforge.wave:
+   metadata:
+      tags:
+         common:
+            title: Ironforge
+
+14-elwynn_forest.wave:
+   metadata:
+      tags:
+         common:
+            title: Elwynn Forest
+
+15-duskwood.wave:
+   metadata:
+      tags:
+         common:
+            title: Duskwood
+
+16-dun_morogh.wave:
+   metadata:
+      tags:
+         common:
+            title: Dun Morogh
+
+17-burning_steppes.wave:
+   metadata:
+      tags:
+         common:
+            title: Burning Steppes
+
+18-shimmering_flats.wave:
+   metadata:
+      tags:
+         common:
+            title: Shimmering Flats
+
+19-felwood.wave:
+   metadata:
+      tags:
+         common:
+            title: Felwood
+
+20-stranglethorn_vale.wave:
+   metadata:
+      tags:
+         common:
+            title: Stranglethorn Vale
+
+21-tanaris.wave:
+   metadata:
+      tags:
+         common:
+            title: Tanaris
+
+22-teldrassil.wave:
+   metadata:
+      tags:
+         common:
+            title: Teldrassil
+
+23-tavern.wave:
+   metadata:
+      tags:
+         common:
+            title: Tavern
+
+24-moonfall.wave:
+   metadata:
+      tags:
+         common:
+            title: Moonfall
+
+25-ruins.wave:
+   metadata:
+      tags:
+         common:
+            title: Ruins
+
+26-temple.wave:
+   metadata:
+      tags:
+         common:
+            title: Temple
+
+27-lurking.wave:
+   metadata:
+      tags:
+         common:
+            title: Lurking
+
+28-sacred.wave:
+   metadata:
+      tags:
+         common:
+            title: Sacred
+
+29-graveyard.wave:
+   metadata:
+      tags:
+         common:
+            title: Graveyard
+
+30-war.wave:
+   metadata:
+      tags:
+         common:
+            title: War
