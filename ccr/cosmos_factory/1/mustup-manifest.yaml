@@ -1,0 +1,37 @@
+---
+
+01-ramble_tamble.wave:
+   metadata:
+      tags:
+         common:
+            title: Ramble Tamble
+
+02-before_you_accuse_me.wave:
+   metadata:
+      tags:
+         common:
+            title: Before You Accuse Me
+
+03-travelin_band.wave:
+   metadata:
+      tags:
+         common:
+            title: Travelin' Band
+
+04-ooby_dooby.wave:
+   metadata:
+      tags:
+         common:
+            title: Ooby Dooby
+
+05-lookin_out_my_back_door.wave:
+   metadata:
+      tags:
+         common:
+            title: Lookin' Out My Back Door
+
+06-run_through_the_jungle.wave:
+   metadata:
+      tags:
+         common:
+            title: Run Through the Jungle
