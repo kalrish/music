@@ -1,0 +1,67 @@
+---
+
+01-citadel.wave:
+   metadata:
+      tags:
+         common:
+            title: Citadel
+
+02-lights_hammer.wave:
+   metadata:
+      tags:
+         common:
+            title: Light's Hammer
+
+03-halls_of_reflection.wave:
+   metadata:
+      tags:
+         common:
+            title: Halls of Reflection
+
+04-crimson_hall.wave:
+   metadata:
+      tags:
+         common:
+            title: Crimson Hall
+
+05-forge_of_souls_and_the_bronze_jam.wave:
+   metadata:
+      tags:
+         common:
+            title: Forge of Souls and the Bronze Jam
+
+06-the_chase.wave:
+   metadata:
+      tags:
+         common:
+            title: The Chase
+
+07-ice_fortress.wave:
+   metadata:
+      tags:
+         common:
+            title: Ice Fortress
+
+08-sindragosa.wave:
+   metadata:
+      tags:
+         common:
+            title: Sindragosa
+
+09-stand_down.wave:
+   metadata:
+      tags:
+         common:
+            title: Stand Down
+
+10-gunships.wave:
+   metadata:
+      tags:
+         common:
+            title: Gunships
+
+11-invincible.wave:
+   metadata:
+      tags:
+         common:
+            title: Invincible
