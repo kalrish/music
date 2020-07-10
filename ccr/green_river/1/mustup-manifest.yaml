@@ -1,0 +1,25 @@
+---
+
+1-green_river.wave:
+   metadata:
+      tags:
+         common:
+            title: Green River
+
+2-commotion.wave:
+   metadata:
+      tags:
+         common:
+            title: Commotion
+
+3-tombstone_shadow.wave:
+   metadata:
+      tags:
+         common:
+            title: Tombstone Shadow
+
+4-wrote_a_song_for_everyone.wave:
+   metadata:
+      tags:
+         common:
+            title: Wrote a Song for Everyone
