@@ -1,0 +1,31 @@
+---
+
+1-ich_will_album_version.wave:
+   metadata:
+      tags:
+         common:
+            title: Ich will (Album version)
+
+2-ich_will_live.wave:
+   metadata:
+      tags:
+         common:
+            title: Ich will (Live)
+
+3-ich_will_westbam_mix.wave:
+   metadata:
+      tags:
+         common:
+            title: Ich will (Westbam mix)
+
+4-ich_will_paul_van_dyk_mix.wave:
+   metadata:
+      tags:
+         common:
+            title: Ich will (Paul van Dyk mix)
+
+5-pet_sematary.wave:
+   metadata:
+      tags:
+         common:
+            title: Pet Sematary
