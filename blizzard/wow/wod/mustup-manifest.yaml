@@ -1,0 +1,189 @@
+---
+
+01-a_siege_of_worlds.wave:
+   metadata:
+      tags:
+         common:
+            title: A Siege of Worlds
+         Vorbis:
+            COMPOSER:
+               - Russell Brower
+               - Clint Bajakian
+               - Edo Guidotti
+               - Sam Cardon
+               - Neal Acree
+               - Eimear Noone
+               - Glenn Stafford
+               - Jason Hayes
+               - Tracy Bush
+
+02-the_homeworld_beckons.wave:
+   metadata:
+      tags:
+         common:
+            title: The Homeworld Beckons
+         Vorbis:
+            COMPOSER:
+               - Clint Bajakian
+
+03-times_change.wave:
+   metadata:
+      tags:
+         common:
+            title: Times Change
+         Vorbis:
+            COMPOSER:
+               - Neal Acree
+
+04-eternal_night.wave:
+   metadata:
+      tags:
+         common:
+            title: Eternal Night
+         Vorbis:
+            COMPOSER:
+               - Russell Brower
+
+05-clan_warsong.wave:
+   metadata:
+      tags:
+         common:
+            title: Clan Warsong
+         Vorbis:
+            COMPOSER:
+               - Neal Acree
+
+06-visions_of_the_prophet.wave:
+   metadata:
+      tags:
+         common:
+            title: Visions of the Prophet
+         Vorbis:
+            COMPOSER:
+               - Neal Acree
+               - Russell Brower
+
+07-the_foundry.wave:
+   metadata:
+      tags:
+         common:
+            title: The Foundry
+         Vorbis:
+            COMPOSER:
+               - Eimear Noone
+
+08-allegiances.wave:
+   metadata:
+      tags:
+         common:
+            title: Allegiances
+         Vorbis:
+            COMPOSER:
+               - Neal Acree
+               - Sam Cardon
+
+09-sacrifice.wave:
+   metadata:
+      tags:
+         common:
+            title: Sacrifice
+         Vorbis:
+            COMPOSER:
+               - Russell Brower
+               - Neal Acree
+
+10-family.wave:
+   metadata:
+      tags:
+         common:
+            title: Family
+         Vorbis:
+            COMPOSER:
+               - Clint Bajakian
+               - Edo Guidotti
+
+11-old_growth.wave:
+   metadata:
+      tags:
+         common:
+            title: Old Growth
+         Vorbis:
+            COMPOSER:
+               - Neal Acree
+               - Russell Brower
+
+12-instruments_of_the_arcane.wave:
+   metadata:
+      tags:
+         common:
+            title: Instruments of the Arcane
+         Vorbis:
+            COMPOSER:
+               - Clint Bajakian
+
+13-we_shall_be_conquerors.wave:
+   metadata:
+      tags:
+         common:
+            title: We Shall Be Conquerors
+         Vorbis:
+            COMPOSER:
+               - Russell Brower
+               - Neal Acree
+
+14-ways_of_the_ancient_ones.wave:
+   metadata:
+      tags:
+         common:
+            title: Ways of the Ancient Ones
+         Vorbis:
+            COMPOSER:
+               - Eimear Noone
+               - Clint Bajakian
+
+15-khadgar.wave:
+   metadata:
+      tags:
+         common:
+            title: Khadgar
+         Vorbis:
+            COMPOSER:
+               - Russell Brower
+               - Neal Acree
+
+16-ancestors.wave:
+   metadata:
+      tags:
+         common:
+            title: Ancestors
+         Vorbis:
+            COMPOSER:
+               - Russell Brower
+
+17-iron_dawn.wave:
+   metadata:
+      tags:
+         common:
+            title: Iron Dawn
+         Vorbis:
+            COMPOSER:
+               - Neal Acree
+
+18-lifeblood.wave:
+   metadata:
+      tags:
+         common:
+            title: Lifeblood
+         Vorbis:
+            COMPOSER:
+               - Clint Bajakian
+
+19-tides_of_war.wave:
+   metadata:
+      tags:
+         common:
+            title: Tides of War
+         Vorbis:
+            COMPOSER:
+               - Russell Brower
+               - Eimear Noone
