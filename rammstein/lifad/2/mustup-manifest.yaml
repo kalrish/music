@@ -1,0 +1,31 @@
+---
+
+1-fuehre_mich.wave:
+   metadata:
+      tags:
+         common:
+            title: Führe mich
+
+2-donaukinder.wave:
+   metadata:
+      tags:
+         common:
+            title: Donaukinder
+
+3-halt.wave:
+   metadata:
+      tags:
+         common:
+            title: Halt
+
+4-roter_sand_orchester_version.wave:
+   metadata:
+      tags:
+         common:
+            title: Roter Sand (Orchester Version)
+
+5-liese.wave:
+   metadata:
+      tags:
+         common:
+            title: Liese
