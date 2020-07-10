@@ -1,0 +1,127 @@
+---
+
+01-wrath_of_the_lich_king.wave:
+   metadata:
+      tags:
+         common:
+            title: Wrath of the Lich King
+
+02-dragons_rest.wave:
+   metadata:
+      tags:
+         common:
+            title: Dragons' Rest
+
+03-arthas_my_son.wave:
+   metadata:
+      tags:
+         common:
+            title: Arthas, My Son
+
+04-path_of_tears.wave:
+   metadata:
+      tags:
+         common:
+            title: Path of Tears
+
+05-crystalsong.wave:
+   metadata:
+      tags:
+         common:
+            title: Crystalsong
+
+06-dalaran.wave:
+   metadata:
+      tags:
+         common:
+            title: Dalaran
+
+07-god_hunters.wave:
+   metadata:
+      tags:
+         common:
+            title: God Hunters
+
+08-forged_in_blood.wave:
+   metadata:
+      tags:
+         common:
+            title: Forged in Blood
+
+09-mountains_of_thunder.wave:
+   metadata:
+      tags:
+         common:
+            title: Mountains of Thunder
+
+10-secrets_long_forgotten.wave:
+   metadata:
+      tags:
+         common:
+            title: Secrets Long Forgotten
+
+11-the_kaluak.wave:
+   metadata:
+      tags:
+         common:
+            title: The Kalu'ak
+
+12-the_eye_of_eternity.wave:
+   metadata:
+      tags:
+         common:
+            title: The Eye of Eternity
+
+13-garden_of_life.wave:
+   metadata:
+      tags:
+         common:
+            title: Garden of Life
+
+14-the_culling.wave:
+   metadata:
+      tags:
+         common:
+            title: The Culling
+
+15-howling_fjord.wave:
+   metadata:
+      tags:
+         common:
+            title: Howling Fjord
+
+16-rise_of_the_vrykul.wave:
+   metadata:
+      tags:
+         common:
+            title: Rise of the Vrykul
+
+17-borean_tundra.wave:
+   metadata:
+      tags:
+         common:
+            title: Borean Tundra
+
+18-totems_of_the_grizzlemaw.wave:
+   metadata:
+      tags:
+         common:
+            title: Totems of the Grizzlemaw
+
+19-the_wrath_gate.wave:
+   metadata:
+      tags:
+         common:
+            title: The Wrath Gate
+
+20-angrathars_shadow.wave:
+   metadata:
+      tags:
+         common:
+            title: Angrathar's Shadow
+
+21-assault_on_new_avalon.wave:
+   metadata:
+      tags:
+         common:
+            title: Assault on New Avalon
