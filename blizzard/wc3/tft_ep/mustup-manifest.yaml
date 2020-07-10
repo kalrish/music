@@ -1,0 +1,25 @@
+---
+
+1-dark_covenant.wave:
+   metadata:
+      tags:
+         common:
+            title: Dark Covenant
+
+2-dreadlords_plight.wave:
+   metadata:
+      tags:
+         common:
+            title: Dreadlord's Plight
+
+3-return_of_the_ancients.wave:
+   metadata:
+      tags:
+         common:
+            title: Return of the Ancients
+
+4-legacy_of_flame.wave:
+   metadata:
+      tags:
+         common:
+            title: Legacy of Flame
