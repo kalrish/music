@@ -1,0 +1,19 @@
+---
+
+1-new_divide.wave:
+   metadata:
+      tags:
+         common:
+            title: New Divide
+
+2-new_divide_instrumental.wave:
+   metadata:
+      tags:
+         common:
+            title: New Divide (Instrumental)
+
+3-new_divide_acappella.wave:
+   metadata:
+      tags:
+         common:
+            title: New Divide (A Cappella)
