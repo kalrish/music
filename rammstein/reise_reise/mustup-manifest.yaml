@@ -1,0 +1,67 @@
+---
+
+01-reise_reise.wave:
+   metadata:
+      tags:
+         common:
+            title: Reise, reise
+
+02-mein_teil.wave:
+   metadata:
+      tags:
+         common:
+            title: Mein Teil
+
+03-dalai_lama.wave:
+   metadata:
+      tags:
+         common:
+            title: Dalai Lama
+
+04-keine_lust.wave:
+   metadata:
+      tags:
+         common:
+            title: Keine Lust
+
+05-los.wave:
+   metadata:
+      tags:
+         common:
+            title: Los
+
+06-amerika.wave:
+   metadata:
+      tags:
+         common:
+            title: Amerika
+
+07-moskau.wave:
+   metadata:
+      tags:
+         common:
+            title: Moskau
+
+08-morgenstern.wave:
+   metadata:
+      tags:
+         common:
+            title: Morgenstern
+
+09-stein_um_stein.wave:
+   metadata:
+      tags:
+         common:
+            title: Stein um Stein
+
+10-ohne_dich.wave:
+   metadata:
+      tags:
+         common:
+            title: Ohne dich
+
+11-amour.wave:
+   metadata:
+      tags:
+         common:
+            title: Amour
