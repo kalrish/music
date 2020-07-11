@@ -5,6 +5,8 @@ tags:
       album: The Devil Makes Three
    Vorbis:
       DATE: '2007'
+      GENRE:
+         - Country
 
 pictures:
    APIC:

@@ -5,6 +5,8 @@ tags:
       album: Secret South
    Vorbis:
       DATE: '2000'
+      GENRE:
+         - Country
 
 pictures:
    APIC:

@@ -5,6 +5,8 @@ tags:
       album: Sea of tears
    Vorbis:
       DATE: '2009'
+      GENRE:
+         - Country
 
 pictures:
    APIC:

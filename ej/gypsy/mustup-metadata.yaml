@@ -5,6 +5,8 @@ tags:
       album: Gypsy
    Vorbis:
       DATE: '2019'
+      GENRE:
+         - Country
 
 pictures:
    APIC:
