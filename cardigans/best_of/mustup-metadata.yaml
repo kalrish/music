@@ -1,0 +1,12 @@
+---
+
+tags:
+   common:
+      album: Best of
+   Vorbis:
+      DATE: '2008'
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
