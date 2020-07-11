@@ -35,6 +35,11 @@
       tags:
          common:
             title: Enjoy the silence
+   transformations:
+      trim:
+         end:
+            minutes: 4
+            seconds: 16
 
 07-policy_of_truth.wave:
    metadata:
