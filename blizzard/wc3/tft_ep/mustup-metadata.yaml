@@ -5,6 +5,8 @@ tags:
       album: 'Warcraft III: The Frozen Throne (EP)'
    Vorbis:
       DATE: '2003'
+      GENRE:
+         - Soundtrack
 
 pictures:
    APIC:

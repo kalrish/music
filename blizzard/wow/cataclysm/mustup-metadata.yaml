@@ -5,6 +5,8 @@ tags:
       album: 'World of Warcraft: Cataclysm'
    Vorbis:
       DATE: '2010'
+      GENRE:
+         - Soundtrack
 
 pictures:
    APIC:

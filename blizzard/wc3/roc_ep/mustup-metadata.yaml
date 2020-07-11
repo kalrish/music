@@ -5,6 +5,8 @@ tags:
       album: 'Warcraft III: Reign of Chaos (EP)'
    Vorbis:
       DATE: '2002'
+      GENRE:
+         - Soundtrack
 
 pictures:
    APIC:

@@ -5,6 +5,8 @@ tags:
       album: World of Warcraft
    Vorbis:
       DATE: '2004'
+      GENRE:
+         - Soundtrack
 
 pictures:
    APIC:

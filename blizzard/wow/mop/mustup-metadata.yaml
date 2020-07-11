@@ -5,6 +5,8 @@ tags:
       album: 'World of Warcraft: Mists of Pandaria'
    Vorbis:
       DATE: '2012'
+      GENRE:
+         - Soundtrack
 
 pictures:
    APIC:
