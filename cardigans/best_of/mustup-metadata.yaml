@@ -5,6 +5,8 @@ tags:
       album: Best of
    Vorbis:
       DATE: '2008'
+      GENRE:
+         - Pop
 
 pictures:
    APIC:

@@ -5,6 +5,8 @@ tags:
       album: Tuesday Night Music Club
    Vorbis:
       DATE: '1993'
+      GENRE:
+         - Pop
 
 pictures:
    APIC:
