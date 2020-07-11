@@ -1,0 +1,73 @@
+---
+
+01-crawl.wave:
+   metadata:
+      tags:
+         common:
+            title: Crawl
+
+02-miles_to_go.wave:
+   metadata:
+      tags:
+         common:
+            title: Miles to go
+
+03-you_cared_enough_to_lie.wave:
+   metadata:
+      tags:
+         common:
+            title: You cared enough to lie
+
+04-79_cents.wave:
+   metadata:
+      tags:
+         common:
+            title: 79 cents (the meow song)
+
+05-beat_the_drum.wave:
+   metadata:
+      tags:
+         common:
+            title: Beat the drum
+
+06-gypsy.wave:
+   metadata:
+      tags:
+         common:
+            title: Gypsy
+
+07-these_blues.wave:
+   metadata:
+      tags:
+         common:
+            title: These blues
+
+08-whfyl.wave:
+   metadata:
+      tags:
+         common:
+            title: Working hard for your love
+
+09-who_else_but_you.wave:
+   metadata:
+      tags:
+         common:
+            title: Who else but you
+
+10-witness.wave:
+   metadata:
+      tags:
+         common:
+            title: Witness
+
+11-hard_times.wave:
+   metadata:
+      tags:
+         common:
+            title: Hard times
+
+12-fear.wave:
+   metadata:
+      tags:
+         common:
+            title: Fear
