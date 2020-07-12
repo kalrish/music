@@ -1,0 +1,61 @@
+---
+
+01-psalms.wave:
+   metadata:
+      tags:
+         common:
+            title: Psalms
+
+02-dmp.wave:
+   metadata:
+      tags:
+         common:
+            title: Dead man's pockets
+
+03-afsd.wave:
+   metadata:
+      tags:
+         common:
+            title: At the first sight of dawn
+
+04-galliard.wave:
+   metadata:
+      tags:
+         common:
+            title: Galliard
+
+05-tqm.wave:
+   metadata:
+      tags:
+         common:
+            title: The quiet man
+
+06-dow.wave:
+   metadata:
+      tags:
+         common:
+            title: Daughter of the woods
+
+07-underground.wave:
+   metadata:
+      tags:
+         common:
+            title: Underground
+
+08-ofk.wave:
+   metadata:
+      tags:
+         common:
+            title: One of a kind
+
+09-wk.wave:
+   metadata:
+      tags:
+         common:
+            title: Wicked king
+
+10-hiab.wave:
+   metadata:
+      tags:
+         common:
+            title: Hallelujah, I'm a bum
