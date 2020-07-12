@@ -1,0 +1,67 @@
+---
+
+01-golden_green.wave:
+   metadata:
+      tags:
+         common:
+            title: Golden and green
+
+02-devil_town.wave:
+   metadata:
+      tags:
+         common:
+            title: Devil town
+
+03-swh.wave:
+   metadata:
+      tags:
+         common:
+            title: Short way home
+
+04-barcelona.wave:
+   metadata:
+      tags:
+         common:
+            title: Barcelona
+
+05-hands_roots.wave:
+   metadata:
+      tags:
+         common:
+            title: Hands like roots
+
+06-down_hole.wave:
+   metadata:
+      tags:
+         common:
+            title: Down in this hole
+
+07-raise_up.wave:
+   metadata:
+      tags:
+         common:
+            title: Raise up
+
+08-vampire_lake.wave:
+   metadata:
+      tags:
+         common:
+            title: Vampire lake
+
+09-wind.wave:
+   metadata:
+      tags:
+         common:
+            title: The wind has come
+
+10-branches.wave:
+   metadata:
+      tags:
+         common:
+            title: In the branches
+
+11-world.wave:
+   metadata:
+      tags:
+         common:
+            title: The world is a top
