@@ -1,0 +1,55 @@
+---
+
+1-bowling_green.wave:
+   metadata:
+      tags:
+         common:
+            title: Bowling green
+
+2-oh_alberta.wave:
+   metadata:
+      tags:
+         common:
+            title: Oh Alberta
+
+3-edge_of_town.wave:
+   metadata:
+      tags:
+         common:
+            title: Edge of town
+
+4-only_at_home.wave:
+   metadata:
+      tags:
+         common:
+            title: Only at home
+
+5-cadillac_dust.wave:
+   metadata:
+      tags:
+         common:
+            title: Cadillac dust
+
+6-riding_in_time.wave:
+   metadata:
+      tags:
+         common:
+            title: Riding in time
+
+7-the_trail.wave:
+   metadata:
+      tags:
+         common:
+            title: The trail
+
+8-rusty_nail.wave:
+   metadata:
+      tags:
+         common:
+            title: Rusty nail
+
+9-cranes.wave:
+   metadata:
+      tags:
+         common:
+            title: Cranes

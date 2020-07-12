@@ -1,0 +1,14 @@
+---
+
+tags:
+   common:
+      album: Tin Type II
+   Vorbis:
+      DATE: '2013'
+      GENRE:
+         - Country
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
