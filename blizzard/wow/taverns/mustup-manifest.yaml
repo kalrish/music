@@ -4,61 +4,69 @@
    metadata:
       tags:
          common:
+            # Actual inn, also known as «Goldshire Inn», in Elwynn Forest
             title: Lion's Pride
 
 02-stonefire.wave:
    metadata:
       tags:
          common:
+            # Actual tavern and inn in Ironforge
             title: Stonefire
 
 03-pig_and_whistle.wave:
    metadata:
       tags:
          common:
+            # Actual tavern in Stormwind
             title: Pig and Whistle
 
 04-gallows_end.wave:
    metadata:
       tags:
          common:
+            # Actual tavern in Brill, Tirisfal Glades
             title: Gallows' End
 
 05-elders_hearth.wave:
    metadata:
       tags:
          common:
-            title: Elders' Hearth
+            title: Elders' hearth
 
 06-shady_rest.wave:
    metadata:
       tags:
          common:
+            # Actual inn near the border between Dustwallow Marsh and the Southern Barrens
             title: Shady Rest
 
 07-scarlet_raven.wave:
    metadata:
       tags:
          common:
+            # Actual tavern in Darkshire, Duskwood
             title: Scarlet Raven
 
 08-salty_sailor.wave:
    metadata:
       tags:
          common:
+            # Actual tavern and inn in Booty Bay
             title: Salty Sailor
 
 09-deepwater.wave:
    metadata:
       tags:
          common:
+            # Actual tavern in the Wetlands
             title: Deepwater
 
 10-spirit_stone.wave:
    metadata:
       tags:
          common:
-            title: Spirit Stone
+            title: Spirit stone
 
 11-bad_juju_bar__grill.wave:
    metadata:
@@ -70,31 +78,33 @@
    metadata:
       tags:
          common:
+            # Actual pub in the Mage Quarter of Stormwind City
             title: Slaughtered Lamb
 
 13-thunderbrew.wave:
    metadata:
       tags:
          common:
+            # Actual distillery in Kharanos, Dun Morogh
             title: Thunderbrew
 
 14-hunters_refuge.wave:
    metadata:
       tags:
          common:
-            title: Hunter's Refuge
+            title: Hunter's refuge
 
 15-smoke_lodge.wave:
    metadata:
       tags:
          common:
-            title: Smoke Lodge
+            title: Smoke lodge
 
 16-grunts_place.wave:
    metadata:
       tags:
          common:
-            title: Grunt's Place
+            title: Grunt's place
 
 17-tarren_mill.wave:
    metadata:
@@ -112,4 +122,5 @@
    metadata:
       tags:
          common:
+            # Neither a tavern nor an inn, but a temple
             title: Temple of the Moon

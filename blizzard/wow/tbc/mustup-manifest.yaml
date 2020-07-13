@@ -76,13 +76,13 @@
    metadata:
       tags:
          common:
-            title: Outland Suite
+            title: Outland suite
 
 14-the_tower_of_karazhan.wave:
    metadata:
       tags:
          common:
-            title: The Tower of Karazhan
+            title: The tower of Karazhan
 
 15-illidan.wave:
    metadata:
@@ -106,13 +106,13 @@
    metadata:
       tags:
          common:
-            title: The Gates of Ahn'Qiraj
+            title: The gates of Ahn'Qiraj
 
 19-shadow_of_the_necropolis.wave:
    metadata:
       tags:
          common:
-            title: Shadow of the Necropolis
+            title: Shadow of the necropolis
 
 20-taverns.wave:
    metadata:
