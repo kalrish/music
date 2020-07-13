@@ -1,0 +1,6 @@
+include_rules
+
+: cover-back.jpeg |> magick convert -resize 10%% -- %f %o |> %B.png
+: cover-front.jpeg |> magick convert -resize 10%% -- %f %o |> %B.png
+
+run mustup
