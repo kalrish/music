@@ -1,0 +1,17 @@
+---
+
+tags:
+   common:
+      album: Nick 13
+   Vorbis:
+      ALBUMARTIST: Kearney Nick Jones
+      DATE: '2011'
+      LABEL: Sugar Hill Records
+      PRODUCER:
+         - Greg Leisz
+         - James Intveld
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg

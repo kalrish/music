@@ -1,0 +1,65 @@
+---
+
+01-winter.wave:
+   metadata:
+      tags:
+         common:
+            title: Nashville winter
+
+02-body.wave:
+   metadata:
+      tags:
+         common:
+            title: Carry my body down
+
+03-101.wave:
+   metadata:
+      tags:
+         common:
+            title: '101'
+
+04-alone.wave:
+   metadata:
+      tags:
+         common:
+            title: All alone
+
+05-moon.wave:
+   metadata:
+      tags:
+         common:
+            title: Restless moon
+
+06-orchard.wave:
+   metadata:
+      tags:
+         common:
+            title: In the orchard 2011
+
+07-someday.wave:
+   metadata:
+      tags:
+         common:
+            title: Someday
+
+08-cupid.wave:
+   metadata:
+      tags:
+         common:
+            title: Cupid's victim 2011
+
+09-sky.wave:
+   metadata:
+      tags:
+         common:
+            title: Nighttime sky
+
+10-gambler.wave:
+   metadata:
+      tags:
+         common:
+            title: Gambler's life
+         Vorbis:
+            COMPOSER:
+               - Kearney Nick Jones
+               - Alain Whyte
