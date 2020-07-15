@@ -1,0 +1,61 @@
+---
+
+01-heater.wave:
+   metadata:
+      tags:
+         common:
+            title: Get the heater, mamma
+
+02-hell_bent.wave:
+   metadata:
+      tags:
+         common:
+            title: Hell bent
+
+03-fall.wave:
+   metadata:
+      tags:
+         common:
+            title: We're all just gonna fall
+
+04-healer.wave:
+   metadata:
+      tags:
+         common:
+            title: Healer
+
+05-longest_day.wave:
+   metadata:
+      tags:
+         common:
+            title: The longest day
+
+06-wfs.wave:
+   metadata:
+      tags:
+         common:
+            title: Wayfaring stranger
+
+07-lsl.wave:
+   metadata:
+      tags:
+         common:
+            title: Lonesome line
+
+08-lnf.wave:
+   metadata:
+      tags:
+         common:
+            title: In life we can't be free
+
+09-bad_hand.wave:
+   metadata:
+      tags:
+         common:
+            title: Bad hand
+
+10-storm_front.wave:
+   metadata:
+      tags:
+         common:
+            title: Storm front

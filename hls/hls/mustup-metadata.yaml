@@ -1,0 +1,15 @@
+---
+
+tags:
+   common:
+      album: Highlonesome
+   Vorbis:
+      ALBUMARTIST: Highlonesome
+      COMPOSER:
+         - Noah Tyson
+      DATE: '2008'
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
