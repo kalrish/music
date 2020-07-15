@@ -1,0 +1,152 @@
+---
+
+01-spider.wave:
+   metadata:
+      tags:
+         common:
+            title: Stud spider
+         Vorbis:
+            ENGINEER:
+               - Al Pachucki
+               - Mort Thomasson
+               - Roy Shockley
+               - Tommy Strong
+            ISRC: USWB17000002
+
+02-sheriff.wave:
+   metadata:
+      tags:
+         common:
+            title: High Sheriff of Calhoun Parrish
+         Vorbis:
+            ENGINEER:
+               - Al Pachucki
+               - Mort Thomasson
+               - Roy Shockley
+               - Tommy Strong
+            ISRC: USWB17000003
+
+03-widow.wave:
+   metadata:
+      tags:
+         common:
+            title: Widow Wimberly
+         Vorbis:
+            ENGINEER:
+               - Larry Rogers
+               - Mort Thomasson
+               - Tommy Strong
+            ISRC: USWB17000004
+
+04-girl.wave:
+   metadata:
+      tags:
+         common:
+            title: Groupy girl
+         Vorbis:
+            ENGINEER:
+               - Mort Thomasson
+               - Tommy Strong
+            ISRC: USWB17000005
+
+05-woman.wave:
+   metadata:
+      tags:
+         common:
+            title: Conjure woman
+         Vorbis:
+            ENGINEER:
+               - Larry Rogers
+               - Mort Thomasson
+               - Tommy Strong
+            ISRC: USWB17000006
+
+06-sugar.wave:
+   metadata:
+      tags:
+         common:
+            title: Save your sugar for me
+         Vorbis:
+            ENGINEER:
+               - Al Pachucki
+               - Mort Thomasson
+               - Roy Shockley
+               - Tommy Strong
+            ISRC: USWB17000007
+
+07-handle.wave:
+   metadata:
+      tags:
+         common:
+            title: Hard to handle
+         Vorbis:
+            ENGINEER:
+               - Al Pachucki
+               - Mort Thomasson
+               - Roy Shockley
+               - Tommy Strong
+            ISRC: USWB17000008
+
+08-take.wave:
+   metadata:
+      tags:
+         common:
+            title: What does it take (to win your love)
+         Vorbis:
+            ISRC: USWB10602115
+
+09-friend.wave:
+   metadata:
+      tags:
+         common:
+            title: My friend
+         Vorbis:
+            ENGINEER:
+               - Mort Thomasson
+               - Tommy Strong
+            ISRC: USWB17000010
+
+10-blues.wave:
+   metadata:
+      tags:
+         common:
+            title: Stockholm blues
+         Vorbis:
+            ENGINEER:
+               - Larry Rogers
+               - Mort Thomasson
+               - Tommy Strong
+            ISRC: USWB17000011
+
+11-boom.wave:
+   metadata:
+      tags:
+         common:
+            title: Boom boom
+         Vorbis:
+            ENGINEER:
+               - Al Pachucki
+               - Mort Thomasson
+               - Roy Shockley
+               - Tommy Strong
+            ISRC: USWB17000012
+
+12-protest.wave:
+   metadata:
+      tags:
+         common:
+            title: I protest
+         Vorbis:
+            ENGINEER:
+               - Mort Thomasson
+            ISRC: USWB16800003
+
+13-pain.wave:
+   metadata:
+      tags:
+         common:
+            title: A man can only stand just so much pain
+         Vorbis:
+            ENGINEER:
+               - Mort Thomasson
+            ISRC: USWB16800004
