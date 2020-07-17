@@ -1,0 +1,13 @@
+---
+
+tags:
+   common:
+      album: By the way
+   Vorbis:
+      DATE: '2002'
+      PRODUCER: Rick Rubin
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
