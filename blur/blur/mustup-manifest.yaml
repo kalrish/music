@@ -1,0 +1,189 @@
+---
+
+01-beetlebum.wave:
+   metadata:
+      tags:
+         common:
+            title: Beetlebum
+         Vorbis:
+            ENGINEER:
+               - Frank Arkwright
+               - John Smith
+               - Julia Gardner
+               - Stephen Street
+               - Tom Girling
+            ISRC: GBAYE1400840
+            MIXER: Stephen Street
+            PRODUCER:
+               - Alex James
+               - Damon Albarn
+
+02-song2.wave:
+   metadata:
+      tags:
+         common:
+            title: Song 2
+         Vorbis:
+            ENGINEER:
+               - Frank Arkwright
+               - John Smith
+               - Julia Gardner
+               - Stephen Street
+               - Tom Girling
+            ISRC: GBAYE1400841
+            MIXER: Stephen Street
+            PRODUCER:
+               - Alex James
+               - Damon Albarn
+
+03-ballad.wave:
+   metadata:
+      tags:
+         common:
+            title: Country sad ballad man
+         Vorbis:
+            ENGINEER:
+               - Frank Arkwright
+               - John Smith
+               - Stephen Street
+            ISRC: GBAYE1400842
+
+04-mor.wave:
+   metadata:
+      tags:
+         common:
+            title: M.O.R.
+         Vorbis:
+            ENGINEER:
+               - Frank Arkwright
+               - John Smith
+               - Stephen Street
+            ISRC: GBAYE1400843
+
+05-oyo.wave:
+   metadata:
+      tags:
+         common:
+            title: On your own
+         Vorbis:
+            ENGINEER:
+               - Frank Arkwright
+               - John Smith
+               - Julia Gardner
+               - Stephen Street
+               - Tom Girling
+            ISRC: GBAYE1400844
+            MIXER: Stephen Street
+            PRODUCER:
+               - Alex James
+               - Damon Albarn
+
+06-retro.wave:
+   metadata:
+      tags:
+         common:
+            title: Theme from retro
+         Vorbis:
+            ENGINEER:
+               - Frank Arkwright
+               - John Smith
+               - Stephen Street
+            ISRC: GBAYE1400845
+
+07-great.wave:
+   metadata:
+      tags:
+         common:
+            title: You're so great
+         Vorbis:
+            ENGINEER:
+               - Frank Arkwright
+               - John Smith
+               - Stephen Street
+            ISRC: GBAYE1400846
+
+08-death.wave:
+   metadata:
+      tags:
+         common:
+            title: Death of a party
+         Vorbis:
+            ENGINEER:
+               - Frank Arkwright
+               - John Smith
+               - Stephen Street
+            ISRC: GBAYE1400847
+
+09-bombs.wave:
+   metadata:
+      tags:
+         common:
+            title: Chinese bombs
+         Vorbis:
+            ENGINEER:
+               - Damon Iddins
+               - Frank Arkwright
+               - John Smith
+               - Stephen Street
+            ISRC: GBAYE1400848
+            MIXER: Mario Caldato Jr
+
+10-killer.wave:
+   metadata:
+      tags:
+         common:
+            title: I'm just a killer for your love
+         Vorbis:
+            ENGINEER:
+               - Frank Arkwright
+               - John Smith
+               - Stephen Street
+            ISRC: GBAYE1400849
+
+11-america.wave:
+   metadata:
+      tags:
+         common:
+            title: Look inside America
+         Vorbis:
+            ENGINEER:
+               - Frank Arkwright
+               - John Smith
+               - Stephen Street
+            ISRC: GBAYE1400850
+
+12-news.wave:
+   metadata:
+      tags:
+         common:
+            title: Strange news from another star
+         Vorbis:
+            ENGINEER:
+               - Frank Arkwright
+               - John Smith
+               - Stephen Street
+            ISRC: GBAYE1400851
+
+13-movin.wave:
+   metadata:
+      tags:
+         common:
+            title: Movin' on
+         Vorbis:
+            ENGINEER:
+               - Frank Arkwright
+               - John Smith
+               - Stephen Street
+            ISRC: GBAYE1400852
+
+14-dogs.wave:
+   metadata:
+      tags:
+         common:
+            title: Essex dogs
+         Vorbis:
+            ENGINEER:
+               - Frank Arkwright
+               - John Smith
+               - Stephen Street
+            ISRC: GBAYE1400853

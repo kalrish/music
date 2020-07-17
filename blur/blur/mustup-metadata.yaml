@@ -1,0 +1,16 @@
+---
+
+tags:
+   common:
+      album: Blur
+   Vorbis:
+      ALBUMARTIST: Blur
+      DATE: '1997'
+      ORGANIZATION: Parlophone UK
+      PUBLISHER: Parlophone UK
+      UPC: '825646261833'
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
