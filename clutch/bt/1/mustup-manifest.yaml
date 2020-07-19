@@ -1,0 +1,91 @@
+---
+
+01-mercury.wave:
+   metadata:
+      tags:
+         common:
+            title: Mercury
+
+02-profits.wave:
+   metadata:
+      tags:
+         common:
+            title: Profits of doom
+
+03-mob.wave:
+   metadata:
+      tags:
+         common:
+            title: The mob goes wild
+
+04-cypress.wave:
+   metadata:
+      tags:
+         common:
+            title: Cypress grove
+
+05-promoter.wave:
+   metadata:
+      tags:
+         common:
+            title: Promoter (of earthbound causes)
+
+06-regulator.wave:
+   metadata:
+      tags:
+         common:
+            title: The regulator
+
+07-drink.wave:
+   metadata:
+      tags:
+         common:
+            title: Worm drink
+
+08-army.wave:
+   metadata:
+      tags:
+         common:
+            title: Army of Bono
+
+09-merchant.wave:
+   metadata:
+      tags:
+         common:
+            title: Spleen merchant
+
+10-goat.wave:
+   metadata:
+      tags:
+         common:
+            title: (In the wake of) The swollen goat
+
+11-weathermaker.wave:
+   metadata:
+      tags:
+         common:
+            title: Weathermaker
+
+12-hustle.wave:
+   metadata:
+      tags:
+         common:
+            title: Subtle hustle
+
+13-ghost.wave:
+   metadata:
+      tags:
+         common:
+            title: Ghost
+
+14-curandera.wave:
+   metadata:
+      tags:
+         common:
+            title: (Notes from the trial of) La Curandera
+
+15-wysiwyg.wave:
+   metadata:
+      tags:
+         common:
+            title: WYSIWYG
