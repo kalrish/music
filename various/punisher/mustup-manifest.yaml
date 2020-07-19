@@ -1,0 +1,228 @@
+---
+
+01-step_up.wave:
+   metadata:
+      tags:
+         common:
+            artist: Drowning Pool
+            title: Step up
+         Vorbis:
+            COMPOSER:
+               - J. Jones
+               - S. Benton
+               - C.J. Pierce
+               - M. Luce
+
+02-bleed.wave:
+   metadata:
+      tags:
+         common:
+            artist: Puddle Of Mudd
+            title: Bleed
+         Vorbis:
+            COMPOSER:
+               - Wesley Scantlin
+
+03-motion.wave:
+   metadata:
+      tags:
+         common:
+            artist: Nickelback
+            title: Slow motion
+         Vorbis:
+            COMPOSER:
+               - Nickelback
+
+04-never.wave:
+   metadata:
+      tags:
+         common:
+            artist: Queens Of The Stone Age
+            title: Never say "never"
+         Vorbis:
+            COMPOSER:
+               - Larry Carter
+               - Benjamin Bossi
+               - Frank Zincavage
+               - Debora Iyall
+
+05-broken.wave:
+   metadata:
+      tags:
+         common:
+            artist: Seether
+            title: Broken
+         Vorbis:
+            COMPOSER:
+               - D. Stewart
+
+06-finding_myself.wave:
+   metadata:
+      tags:
+         common:
+            artist: Smile Empty Soul
+            title: Finding myself
+         Vorbis:
+            COMPOSER:
+               - Smile Empty Soul
+               - John Lewis Parker
+               - Sean Danielsen
+
+07-lost_portrait.wave:
+   metadata:
+      tags:
+         common:
+            artist: Trapt
+            title: Lost in a portrait
+         Vorbis:
+            COMPOSER:
+               - Trapt
+               - Chris Taylor Brown
+
+08-running.wave:
+   metadata:
+      tags:
+         common:
+            artist: Chevelle
+            title: Still running
+         Vorbis:
+            COMPOSER:
+               - Peter Loeffler
+               - Chevelle
+
+09-ashes.wave:
+   metadata:
+      tags:
+         common:
+            artist: Damageplan
+            title: Ashes to ashes
+         Vorbis:
+            COMPOSER:
+               - Jerry Cantrell
+               - Vinnie Paul
+               - DiMebag Darrell
+               - Patrick Lackman
+
+10-sold.wave:
+   metadata:
+      tags:
+         common:
+            artist: Seether
+            title: Sold me
+         Vorbis:
+            COMPOSER:
+               - D. Stewart
+               - S. Welgemoed
+
+11-ews.wave:
+   metadata:
+      tags:
+         common:
+            artist: Edgewater
+            title: Eyes wired shut
+         Vorbis:
+            COMPOSER:
+               - Ricky Wolking
+               - Matt Moseman
+               - Micah Creel
+               - Justin Middleton
+               - Jeremy Rees
+
+12-chemical.wave:
+   metadata:
+      tags:
+         common:
+            artist: Finger Eleven
+            title: Slow chemical
+         Vorbis:
+            COMPOSER:
+               - James Johnston
+               - James Black
+               - Sean Anderson
+               - Rich Beddoe
+               - Scott Anderson
+               - Rick Jackett
+
+13-end.wave:
+   metadata:
+      tags:
+         common:
+            artist: Ben Moody
+            title: The end has come
+         Vorbis:
+            COMPOSER:
+               - J. Miller
+               - B. Moody
+               - L. Garvin
+
+14-piece.wave:
+   metadata:
+      tags:
+         common:
+            artist: Strata
+            title: Piece by piece
+         Vorbis:
+            COMPOSER:
+               - Adrian Robison
+               - Hrag Chanchanian
+               - Eric Victorino
+               - Ryan Hernandez
+
+15-violence.wave:
+   metadata:
+      tags:
+         common:
+            artist: Hatebreed
+            title: Bound to violence
+         Vorbis:
+            COMPOSER:
+               - Chris Beattie
+               - Sean Martin
+               - Matt Byrne
+               - Jamey Shanahan
+
+16-sick.wave:
+   metadata:
+      tags:
+         common:
+            artist: Seven Wiser
+            title: Sick
+         Vorbis:
+            COMPOSER:
+               - S. Castellano
+               - J. Santos
+
+17-complicated.wave:
+   metadata:
+      tags:
+         common:
+            artist: Submersed
+            title: Complicated
+         Vorbis:
+            COMPOSER:
+               - Eric Friedman
+               - Donald Carpenter
+
+18-time_people.wave:
+   metadata:
+      tags:
+         common:
+            artist: Atomship
+            title: Time for people
+         Vorbis:
+            COMPOSER:
+               - D. Pardoe
+               - C. Kent
+               - N. Slade
+               - J. Culver
+
+19-time.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mark Collie
+            title: In time
+         Vorbis:
+            COMPOSER:
+               - Mark Collie
+               - Colly McCabe Collie
