@@ -1,0 +1,176 @@
+---
+
+01-bw.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Blood and Wine
+
+02-fff.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Fanfares and flowers
+
+03-toussaint.wave:
+   metadata:
+      tags:
+         common:
+            artist: Piotr Musiał
+            title: For honor! For Toussaint!
+
+04-blood.wave:
+   metadata:
+      tags:
+         common:
+            artist: Piotr Musiał
+            title: Blood run
+
+05-resonance.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Seeking resonance
+
+06-leave.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: I cannot let you leave
+
+07-sansretour.wave:
+   metadata:
+      tags:
+         common:
+            artist: Piotr Musiał
+            title: The banks of the Sansretour
+
+08-wars.wave:
+   metadata:
+      tags:
+         common:
+            artist: Piotr Musiał
+            title: Wine wars
+
+09-scent.wave:
+   metadata:
+      tags:
+         common:
+            artist: Percival
+            title: The musty scent of fresh pâté
+
+10-vivienne.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Vivienne
+
+11-infamy.wave:
+   metadata:
+      tags:
+         common:
+            artist: Piotr Musiał
+            title: Titans of infamy
+
+12-unseen.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: What lies unseen
+
+13-champs.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: On the Champs-Désolés
+
+14-beyond.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Beyond Hill and Dale...
+
+15-moon.wave:
+   metadata:
+      tags:
+         common:
+            artist: Piotr Musiał
+            title: The moon over Mount Gorgon
+
+16-mandragora.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: The mandragora
+
+17-tm.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Tesham Mutna
+
+18-slopes.wave:
+   metadata:
+      tags:
+         common:
+            artist: Piotr Musiał
+            title: The slopes of the Blessure
+
+19-versus.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Guillaume versus the Shaelmaar
+
+20-caroberta.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Wind in the Caroberta Woods
+
+21-beast_beauclair.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: The beast of Beauclair
+
+22-searching.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Searching for Cecilia Bellant
+
+23-syanna.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Syanna
+
+24-fangs.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: The Night of Long Fangs
+
+25-lady_lake.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Lady of the Lake
