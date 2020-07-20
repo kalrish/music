@@ -5,6 +5,8 @@ tags:
       album: 'Monster Hunter 5th anniversary orchestra concert: hunting music festival'
    Vorbis:
       DATE: '2007'
+      GENRE:
+         - Soundtrack
       PERFORMER: Tokyo Philarmonic Orchestra
 
 pictures:
