@@ -1,0 +1,80 @@
+---
+
+01-main.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Hearts of Stone
+
+02-back.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Go back whence you came
+
+03-immortal.wave:
+   metadata:
+      tags:
+         common:
+            artist:
+               - Marcin Przybyłowicz
+               - Percival
+            title: You're... immortal?
+
+04-evil.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Evil's soft first touches
+
+05-party.wave:
+   metadata:
+      tags:
+         common:
+            artist: Percival
+            title: Dead man's party
+
+06-mystery.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Mystery man
+
+07-breaking_in.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Breaking in
+
+08-soweth.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Whatsoever a man soweth
+
+09-house.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: The house of the Borsodis
+
+10-temple.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: The temple of Lilvani
+
+11-gifts.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: A gifted man brings gifts galore
