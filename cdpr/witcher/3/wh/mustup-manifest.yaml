@@ -1,0 +1,326 @@
+---
+
+01-trail.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: The trail
+         Vorbis:
+            COMPOSER: Marcin Przybyłowicz
+
+02-geralt.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Geralt of Rivia
+         Vorbis:
+            COMPOSER: Marcin Przybyłowicz
+
+03-eredin.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Eredin, king of the Hunt
+         Vorbis:
+            COMPOSER: Marcin Przybyłowicz
+
+04-wake_up.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Wake up, Ciri
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+05-aen_seidhe.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Aen Seidhe
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+06-fury.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Commanding the fury
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+07-emhyr_var_emreis.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Emhyr var Emreis
+         Vorbis:
+            COMPOSER: Marcin Przybyłowicz
+
+08-spikeroog.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Spikeroog
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+09-voyage.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: King Bran's final voyage
+         Vorbis:
+            COMPOSER: Marcin Przybyłowicz
+
+10-silver.wave:
+   metadata:
+      tags:
+         common:
+            artist:
+               - Percival
+               - Marcin Przybyłowicz
+            title: Silver for monsters...
+         Vorbis:
+            COMPOSER: Percival
+
+11-oxenfurt.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Whispers of Oxenfurt
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+12-nightingale.wave:
+   metadata:
+      tags:
+         common:
+            artist: Percival
+            title: The nightingale
+         Vorbis:
+            COMPOSER: Percival
+
+13-intrigues.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: City of intrigues
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+14-path.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: The hunter's path
+         Vorbis:
+            COMPOSER: Marcin Przybyłowicz
+
+15-widow.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Widow-maker
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+16-kaer_morhen.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Kaer Morhen
+         Vorbis:
+            COMPOSER: Marcin Przybyłowicz
+
+17-eyes.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Eyes of the wolf
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+18-witch_hunters.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Witch hunters
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+19-steel.wave:
+   metadata:
+      tags:
+         common:
+            artist:
+               - Percival
+               - Marcin Przybyłowicz
+            title: ... Steel for humans
+         Vorbis:
+            COMPOSER: Percival
+
+20-fate.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Fate calls
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+21-vagabond.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: The vagabond
+         Vorbis:
+            COMPOSER: Marcin Przybyłowicz
+
+22-cloak_dagger.wave:
+   metadata:
+      tags:
+         common:
+            artist: Percival
+            title: Cloak and dagger
+         Vorbis:
+            COMPOSER: Percival
+
+23-forged.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Forged in fire
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+24-yes.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Yes, I do...
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+25-imlerith.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Welcome, Imlerith
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+26-drink.wave:
+   metadata:
+      tags:
+         common:
+            artist: Percival
+            title: Drink up, there's more!
+         Vorbis:
+            COMPOSER: Percival
+
+27-storm.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: After the storm
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+28-cobblestones.wave:
+   metadata:
+      tags:
+         common:
+            artist: Mikołaj Stroiński
+            title: Blood on the cobblestones
+         Vorbis:
+            COMPOSER: Mikołaj Stroiński
+
+29-farewell.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Farewell, old friend
+         Vorbis:
+            COMPOSER: Marcin Przybyłowicz
+
+30-sword_dancer.wave:
+   metadata:
+      tags:
+         common:
+            artist:
+               - Percival
+               - Marcin Przybyłowicz
+            title: The song of the sword–dancer
+         Vorbis:
+            COMPOSER: Percival
+
+31-hunt.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: The Hunt is coming
+         Vorbis:
+            COMPOSER: Marcin Przybyłowicz
+
+32-ard_skellig.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: The fields of Ard Skellig
+         Vorbis:
+            COMPOSER: Marcin Przybyłowicz
+
+33-ladies_woods.wave:
+   metadata:
+      tags:
+         common:
+            artist:
+               - Percival
+               - Marcin Przybyłowicz
+            title: Ladies of the Woods
+         Vorbis:
+            COMPOSER: Percival
+
+34-merchants.wave:
+   metadata:
+      tags:
+         common:
+            artist:
+               - Percival
+               - Marcin Przybyłowicz
+            title: Merchants of Novigrad
+         Vorbis:
+            COMPOSER: Percival
+
+35-hunt.wave:
+   metadata:
+      tags:
+         common:
+            artist: Marcin Przybyłowicz
+            title: Hunt or be hunted
+         Vorbis:
+            COMPOSER: Marcin Przybyłowicz
