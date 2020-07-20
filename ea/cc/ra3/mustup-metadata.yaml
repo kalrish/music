@@ -1,0 +1,15 @@
+---
+
+tags:
+   common:
+      album: 'Command & Conquer: Red Alert 3'
+   Vorbis:
+      DATE: '2009'
+      GENRE:
+         - Soundtrack
+      LABEL: EA Music
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
