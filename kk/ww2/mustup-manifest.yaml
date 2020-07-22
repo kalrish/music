@@ -1,0 +1,157 @@
+---
+
+01-apocalypse.wave:
+   metadata:
+      tags:
+         common:
+            title: Apocalypse
+
+02-shoah.wave:
+   metadata:
+      tags:
+         common:
+            title: Shoah
+
+03-trap.wave:
+   metadata:
+      tags:
+         common:
+            title: The trap
+
+04-fwp.wave:
+   metadata:
+      tags:
+         common:
+            title: Farewell to peace
+
+05-attack.wave:
+   metadata:
+      tags:
+         common:
+            title: The attack
+
+06-neutral.wave:
+   metadata:
+      tags:
+         common:
+            title: Neutral theme
+
+07-fwp.wave:
+   metadata:
+      tags:
+         common:
+            title: Farewell to peace (strings)
+
+08-exodus.wave:
+   metadata:
+      tags:
+         common:
+            title: Exodus
+
+09-tiv.wave:
+   metadata:
+      tags:
+         common:
+            title: Trap invasion
+
+10-fl.wave:
+   metadata:
+      tags:
+         common:
+            title: Front line
+
+11-ed.wave:
+   metadata:
+      tags:
+         common:
+            title: Enigma and Dunkirk
+
+12-pa.wave:
+   metadata:
+      tags:
+         common:
+            title: Pacific attack
+
+13-ved.wave:
+   metadata:
+      tags:
+         common:
+            title: VE day
+
+14-l.wave:
+   metadata:
+      tags:
+         common:
+            title: Liberation
+
+15-l2.wave:
+   metadata:
+      tags:
+         common:
+            title: Liberation 2
+
+16-hiroshima.wave:
+   metadata:
+      tags:
+         common:
+            title: Hiroshima
+
+17-peace.wave:
+   metadata:
+      tags:
+         common:
+            title: Peace
+
+18-ron.wave:
+   metadata:
+      tags:
+         common:
+            title: Rise of nazism
+
+19-moscow.wave:
+   metadata:
+      tags:
+         common:
+            title: Moscow
+
+20-adse.wave:
+   metadata:
+      tags:
+         common:
+            title: Antoine de Saint-Exupery
+
+21-ghetto.wave:
+   metadata:
+      tags:
+         common:
+            title: Ghetto
+
+22-paulus.wave:
+   metadata:
+      tags:
+         common:
+            title: Paulus
+
+23-arthur.wave:
+   metadata:
+      tags:
+         common:
+            title: Mac Arthur
+
+24-lbw.wave:
+   metadata:
+      tags:
+         common:
+            title: Life before war
+
+25-retreat.wave:
+   metadata:
+      tags:
+         common:
+            title: Retreat
+
+26-closing.wave:
+   metadata:
+      tags:
+         common:
+            title: Closing Theme
