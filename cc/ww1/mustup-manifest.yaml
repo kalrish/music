@@ -1,0 +1,103 @@
+---
+
+01-opening.wave:
+   metadata:
+      tags:
+         common:
+            title: Opening
+
+02-emperor.wave:
+   metadata:
+      tags:
+         common:
+            title: William II
+
+03-marne.wave:
+   metadata:
+      tags:
+         common:
+            title: The Marne river
+
+04-ferrari.wave:
+   metadata:
+      tags:
+         common:
+            title: Ferrari
+
+05-workers.wave:
+   metadata:
+      tags:
+         common:
+            title: Workers
+
+06-brussels.wave:
+   metadata:
+      tags:
+         common:
+            title: Brussels
+
+07-me.wave:
+   metadata:
+      tags:
+         common:
+            title: Middle East
+
+08-canadians.wave:
+   metadata:
+      tags:
+         common:
+            title: The Canadians
+
+09-cameraman.wave:
+   metadata:
+      tags:
+         common:
+            title: Cameraman
+
+10-ultimatum.wave:
+   metadata:
+      tags:
+         common:
+            title: Ultimatum Austria
+
+11-tanks.wave:
+   metadata:
+      tags:
+         common:
+            title: The tanks
+
+12-americans.wave:
+   metadata:
+      tags:
+         common:
+            title: The Americans
+
+13-armenians.wave:
+   metadata:
+      tags:
+         common:
+            title: The Armenians
+
+14-mulhouse.wave:
+   metadata:
+      tags:
+         common:
+            title: Mulhouse
+
+15-balloons.wave:
+   metadata:
+      tags:
+         common:
+            title: Observation balloons
+
+16-inexorable.wave:
+   metadata:
+      tags:
+         common:
+            title: Inexorable
+
+17-dead.wave:
+   metadata:
+      tags:
+         common:
+            title: We are the dead

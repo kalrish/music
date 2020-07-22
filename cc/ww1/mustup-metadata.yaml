@@ -1,0 +1,15 @@
+---
+
+tags:
+   common:
+      album: >-
+         Apocalypse, la Première Guerre mondiale
+   Vorbis:
+      DATE: '2014'
+      GENRE:
+         - Soundtrack
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
