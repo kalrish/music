@@ -1,0 +1,41 @@
+---
+
+1-together.wave:
+   metadata:
+      tags:
+         common:
+            title: Together
+         Vorbis:
+            ISRC: GBCEJ1900350
+
+2-love.wave:
+   metadata:
+      tags:
+         common:
+            title: Never my love
+         Vorbis:
+            ISRC: GBCEJ1900351
+
+3-st.wave:
+   metadata:
+      tags:
+         common:
+            title: Something
+         Vorbis:
+            ISRC: GBCEJ1900352
+
+4-vs.wave:
+   metadata:
+      tags:
+         common:
+            title: Voices in the sky
+         Vorbis:
+            ISRC: GBCEJ1900353
+
+5-stnm.wave:
+   metadata:
+      tags:
+         common:
+            title: Sa Ta Na Ma
+         Vorbis:
+            ISRC: GBCEJ1900354
