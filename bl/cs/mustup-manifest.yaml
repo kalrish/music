@@ -1,0 +1,89 @@
+---
+
+01-spirit.wave:
+   metadata:
+      tags:
+         common:
+            title: Spirit
+         Vorbis:
+            ISRC: GBAHS0500213
+
+02-sh.wave:
+   metadata:
+      tags:
+         common:
+            title: Sweet harmony
+         Vorbis:
+            ISRC: GBAHS0500214
+
+03-osg.wave:
+   metadata:
+      tags:
+         common:
+            title: Outerspace girl
+         Vorbis:
+            ISRC: GBAHS0500215
+
+04-lysim.wave:
+   metadata:
+      tags:
+         common:
+            title: Lose yourself in me
+         Vorbis:
+            ISRC: GBAHS0500216
+
+05-paradise.wave:
+   metadata:
+      tags:
+         common:
+            title: Paradise found
+         Vorbis:
+            ISRC: GBAHS0500217
+
+06-thinking.wave:
+   metadata:
+      tags:
+         common:
+            title: You've got me thinking
+         Vorbis:
+            ISRC: GBAHS0500218
+
+07-celebrate.wave:
+   metadata:
+      tags:
+         common:
+            title: Celebrate your life
+         Vorbis:
+            ISRC: GBAHS0500219
+
+08-rock.wave:
+   metadata:
+      tags:
+         common:
+            title: Rock to the rhythm of love
+         Vorbis:
+            ISRC: GBAHS0500220
+
+09-music.wave:
+   metadata:
+      tags:
+         common:
+            title: Let the music take you
+         Vorbis:
+            ISRC: GBAHS0500221
+
+10-years.wave:
+   metadata:
+      tags:
+         common:
+            title: 1000 years from today
+         Vorbis:
+            ISRC: GBAHS0405156
+
+11-dream.wave:
+   metadata:
+      tags:
+         common:
+            title: Dream on
+         Vorbis:
+            ISRC: GBAHS0500222
