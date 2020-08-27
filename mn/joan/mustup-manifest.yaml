@@ -1,0 +1,67 @@
+---
+
+01-prophet.wave:
+   metadata:
+      tags:
+         common:
+            title: Prophet
+
+02-wc.wave:
+   metadata:
+      tags:
+         common:
+            title: The wrong class
+
+03-sof.wave:
+   metadata:
+      tags:
+         common:
+            title: Under skies of fire
+
+04-victor.wave:
+   metadata:
+      tags:
+         common:
+            title: Victor
+
+05-ss.wave:
+   metadata:
+      tags:
+         common:
+            title: Sweet soul
+
+06-ville.wave:
+   metadata:
+      tags:
+         common:
+            title: Au large de la ville
+
+07-jojo.wave:
+   metadata:
+      tags:
+         common:
+            title: Jojo
+
+08-hh.wave:
+   metadata:
+      tags:
+         common:
+            title: Humble hearts
+
+09-th.wave:
+   metadata:
+      tags:
+         common:
+            title: Touch in the heart
+
+10-lizzy.wave:
+   metadata:
+      tags:
+         common:
+            title: Lizzy in the sea
+
+11-attraction.wave:
+   metadata:
+      tags:
+         common:
+            title: L'attraction terrestre
