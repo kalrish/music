@@ -5,6 +5,8 @@ tags:
       album: Wir kriegen euch alle
    Vorbis:
       DATE: '1991'
+      GENRE:
+         - Punk
 
 pictures:
    APIC:

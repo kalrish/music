@@ -5,6 +5,8 @@ tags:
       album: Kinder der Maschinenrepublik
    Vorbis:
       DATE: '1993'
+      GENRE:
+         - Punk
 
 pictures:
    APIC:
