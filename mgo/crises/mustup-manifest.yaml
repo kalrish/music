@@ -1,0 +1,105 @@
+---
+
+01-crises.wave:
+   metadata:
+      tags:
+         common:
+            title: Crises
+         Vorbis:
+            ISRC: GBUM71303844
+
+02-mls.wave:
+   metadata:
+      tags:
+         common:
+            title: Moonlight shadow
+         Vorbis:
+            ISRC: GBUM71303848
+
+03-high.wave:
+   metadata:
+      tags:
+         common:
+            title: In high places
+         Vorbis:
+            ISRC: GBUM71303847
+
+04-affair.wave:
+   metadata:
+      tags:
+         common:
+            title: Foreign affair
+         Vorbis:
+            ISRC: GBUM71303845
+
+05-t3.wave:
+   metadata:
+      tags:
+         common:
+            title: Taurus 3
+         Vorbis:
+            ISRC: GBUM71303851
+
+06-sotw.wave:
+   metadata:
+      tags:
+         common:
+            title: Shadow on the wall
+         Vorbis:
+            ISRC: GBUM71303850
+
+07-mls.wave:
+   metadata:
+      tags:
+         common:
+            title: Moonlight shadow (2013 Unplugged mix)
+         Vorbis:
+            ISRC: GBUM71303874
+
+08-sotw.wave:
+   metadata:
+      tags:
+         common:
+            title: Shadow on the wall (2013 Unplugged mix)
+         Vorbis:
+            ISRC: GBUM71303875
+
+09-mt.wave:
+   metadata:
+      tags:
+         common:
+            title: Mistake
+         Vorbis:
+            ISRC: GBUM71303872
+
+10-cop.wave:
+   metadata:
+      tags:
+         common:
+            title: Crime of passion
+         Vorbis:
+            ISRC: GBUM71303890
+
+11-gardenia.wave:
+   metadata:
+      tags:
+         common:
+            title: Jungle gardenia
+         Vorbis:
+            ISRC: GBUM71303891
+
+12-mls.wave:
+   metadata:
+      tags:
+         common:
+            title: Moonlight shadow (12" single)
+         Vorbis:
+            ISRC: GBUM71303876
+
+13-sotw.wave:
+   metadata:
+      tags:
+         common:
+            title: Shadow on the wall (12" single)
+         Vorbis:
+            ISRC: GBUM71303877
