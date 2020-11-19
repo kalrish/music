@@ -1,0 +1,17 @@
+---
+
+tags:
+   common:
+      album: 'Warcraft: Orcs & Humans'
+   Vorbis:
+      COMPOSER:
+         - Gregory Alper
+      DATE: '1994'
+      GENRE:
+         - Soundtrack
+         - Game soundtrack
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
