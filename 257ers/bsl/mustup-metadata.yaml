@@ -1,0 +1,14 @@
+---
+
+tags:
+   common:
+      album: Boomshakkalakka
+   Vorbis:
+      DATE: '2014'
+      GENRE:
+         - Hip-Hop
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
