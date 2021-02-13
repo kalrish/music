@@ -1,0 +1,14 @@
+---
+
+tags:
+   common:
+      album: Mikrokosmos
+   Vorbis:
+      DATE: '2016'
+      GENRE:
+         - Hip-Hop
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
