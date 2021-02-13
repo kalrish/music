@@ -1,0 +1,14 @@
+---
+
+tags:
+   common:
+      album: Hokus Pokus
+   Vorbis:
+      DATE: '2009'
+      GENRE:
+         - Rap
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
