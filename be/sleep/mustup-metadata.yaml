@@ -1,0 +1,19 @@
+---
+
+tags:
+   common:
+      album: When we all fall asleep, where do we go?
+   Vorbis:
+      DATE: '2019'
+      ORGANIZATION:
+         - Darkroom Records
+         - Interscope Records
+      PUBLISHER:
+         - Darkroom Records
+         - Interscope Records
+      UPC: '00602508481703'
+
+pictures:
+   APIC:
+      3:
+         path: cover-front.jpeg
