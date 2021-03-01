@@ -5,6 +5,9 @@ tags:
       album: The Punisher
    Vorbis:
       DATE: '2004'
+      GENRE:
+         - Soundtrack
+         - Film soundtrack
 
 pictures:
    APIC:
