@@ -1,0 +1,37 @@
+---
+
+1.wave:
+   metadata:
+      tags:
+         common:
+            title: Vyšehrad
+
+2-moldau.wave:
+   metadata:
+      tags:
+         common:
+            title: Vltava (Moldau)
+
+3.wave:
+   metadata:
+      tags:
+         common:
+            title: Šárka
+
+4.wave:
+   metadata:
+      tags:
+         common:
+            title: Z českých luhů a hájů
+
+5.wave:
+   metadata:
+      tags:
+         common:
+            title: Tábor
+
+6.wave:
+   metadata:
+      tags:
+         common:
+            title: Blaník
