@@ -1,8 +1,9 @@
 ---
 
 tags:
-   common:
-      album: Má vlast
+   # Ideally, all interpretations would have the same album name and be distinguished by the conductor and the interpreter (the orchestra)
+   #common:
+   #   album: Má vlast
    Vorbis:
       GENRE:
          - Classical
