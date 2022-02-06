@@ -17,6 +17,7 @@ rsync \
 	--delete-before \
 	--inplace \
 	--no-perms \
+	--chmod=ugo=rwX \
 	--progress \
 	--rsh=ssh \
 	-- \
