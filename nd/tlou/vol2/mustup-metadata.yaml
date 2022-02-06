@@ -1,0 +1,16 @@
+---
+
+tags:
+  common:
+    album: The Last of Us volume 2
+  Vorbis:
+    COMPOSER: Gustavo Alfredo Santaolalla
+    DATE: '2015'
+    GENRE:
+      - Soundtrack
+      - Game soundtrack
+
+pictures:
+  APIC:
+    3:
+      path: cover.jpeg
