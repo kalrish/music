@@ -1,0 +1,15 @@
+---
+
+tags:
+  common:
+    album: 'The Last of Us part II: covers and rarities'
+  Vorbis:
+    DATE: '2021'
+    GENRE:
+      - Soundtrack
+      - Game soundtrack
+
+pictures:
+  APIC:
+    3:
+      path: cover.jpeg

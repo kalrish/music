@@ -1,0 +1,37 @@
+---
+
+01.wave:
+  metadata:
+    tags:
+      common:
+        artist: Troy Baker
+        title: Future days
+
+# inspired by Lotte Kestner's cover
+02.wave:
+  metadata:
+    tags:
+      common:
+        artist: Ashley Suzanne Johnson
+        title: True faith
+
+03.wave:
+  metadata:
+    tags:
+      common:
+        artist: Ashley Suzanne Johnson
+        title: Through the valley
+
+04.wave:
+  metadata:
+    tags:
+      common:
+        artist: Ashley Suzanne Johnson
+        title: Take on me
+
+05.wave:
+  metadata:
+    tags:
+      common:
+        artist: Ashley Suzanne Johnson
+        title: Wayfaring stranger
