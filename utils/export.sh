@@ -14,7 +14,7 @@ rsync \
 	--exclude '*.png' \
 	--exclude '*.vc' \
 	--times \
-	--delete-before \
+	--delete-during \
 	--inplace \
 	--no-perms \
 	--chmod=ugo=rwX \
