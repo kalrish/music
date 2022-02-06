@@ -1,0 +1,16 @@
+---
+
+tags:
+  common:
+    album: The Last of Us
+  Vorbis:
+    COMPOSER: Gustavo Santaolalla
+    DATE: '2013'
+    GENRE:
+      - Soundtrack
+      - Game soundtrack
+
+pictures:
+  APIC:
+    3:
+      path: cover.jpeg
