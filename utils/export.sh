@@ -15,6 +15,7 @@ rsync \
 	--exclude '*.vc' \
 	--times \
 	--delete-during \
+	--delete-excluded \
 	--inplace \
 	--no-perms \
 	--chmod=ugo=rwX \
